@@ -147,6 +147,42 @@
   th.num { text-align: right; }
   tbody tr:hover { background: rgba(255,255,255,.02); }
 
+  /* Inline bar cells: number sits on top of a colored fill */
+  td.bar {
+    position: relative;
+    text-align: right;
+    font-variant-numeric: tabular-nums;
+    padding-right: 14px;
+  }
+  td.bar .fill {
+    position: absolute;
+    left: 0;
+    top: 4px;
+    bottom: 4px;
+    border-radius: 3px;
+    z-index: 0;
+    opacity: 0.28;
+  }
+  td.bar .val {
+    position: relative;
+    z-index: 1;
+    font-weight: 500;
+  }
+  .bar-calls  .fill { background: #4a90d9; }
+  .bar-sms    .fill { background: #6cc04a; }
+  .bar-emails .fill { background: #b07ad9; }
+  .bar-appts  .fill { background: #e0a64a; }
+  .bar-new    .fill { background: #6cc04a; }
+  .bar-moved  .fill { background: #4a90d9; }
+  .bar-lost   .fill { background: #d9534f; }
+  .bar-open   .fill { background: #8a99a8; }
+  .bar-leads  .fill { background: #6cc04a; }
+  .bar-opps   .fill { background: #4a90d9; }
+  .bar-created    .fill { background: #6cc04a; }
+  .bar-openq      .fill { background: #4a90d9; }
+  .bar-lostq      .fill { background: #d9534f; }
+  .bar-activities .fill { background: #b07ad9; }
+
   .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
   @media (max-width: 900px) { .grid-2 { grid-template-columns: 1fr; } }
 
@@ -307,6 +343,24 @@ async function loadData() {
 function fmt(n) { return (n ?? 0).toLocaleString(); }
 function emptyMsg(msg) { return '<div class="empty">' + msg + '</div>'; }
 
+// Build a bar cell. value can be null (renders pending badge).
+function barCell(value, max, kind) {
+  if (value === null || value === undefined) {
+    return '<td class="num"><span class="badge-warn">pending</span></td>';
+  }
+  const pct = max > 0 ? Math.round((value / max) * 100) : 0;
+  return '<td class="bar bar-' + kind + '">'
+    + '<span class="fill" style="width:' + pct + '%"></span>'
+    + '<span class="val">' + fmt(value) + '</span>'
+    + '</td>';
+}
+
+function maxOf(rows, key) {
+  let m = 0;
+  rows.forEach(r => { const v = r[key]; if (typeof v === 'number' && v > m) m = v; });
+  return m;
+}
+
 function render(d) {
   document.getElementById("lastUpdated").textContent = d.generated_at || "—";
   if (d.window_weekly) document.getElementById("weeklyWindow").textContent = "(" + d.window_weekly + ")";
@@ -346,9 +400,17 @@ function renderPipeline(pr) {
     if (!p.reps || p.reps.length === 0) {
       html += '<tr><td colspan="5" class="empty">No reps with activity</td></tr>';
     } else {
+      const maxNew = maxOf(p.reps, "new");
+      const maxMoved = maxOf(p.reps, "moved");
+      const maxLost = maxOf(p.reps, "lost");
+      const maxOpen = maxOf(p.reps, "open");
       p.reps.forEach(r => {
-        const moved = r.moved === null ? '<span class="badge-warn">pending logger</span>' : fmt(r.moved);
-        html += '<tr><td>' + (r.name || "Unassigned") + '</td><td class="num">' + fmt(r.new) + '</td><td class="num">' + moved + '</td><td class="num">' + fmt(r.lost) + '</td><td class="num">' + fmt(r.open) + '</td></tr>';
+        html += '<tr><td>' + (r.name || "Unassigned") + '</td>'
+          + barCell(r.new, maxNew, "new")
+          + barCell(r.moved, maxMoved, "moved")
+          + barCell(r.lost, maxLost, "lost")
+          + barCell(r.open, maxOpen, "open")
+          + '</tr>';
       });
     }
     html += '</tbody></table>';
@@ -362,9 +424,18 @@ function renderActivityTable(targetId, data) {
     target.innerHTML = emptyMsg("No activity data yet.");
     return;
   }
+  const maxCalls = maxOf(data.rows, "calls");
+  const maxSms = maxOf(data.rows, "sms");
+  const maxEmails = maxOf(data.rows, "emails");
+  const maxAppts = maxOf(data.rows, "appointments");
   let html = '<table><thead><tr><th>Sales Rep</th><th class="num">Calls</th><th class="num">SMS</th><th class="num">Emails</th><th class="num">Appointments</th></tr></thead><tbody>';
   data.rows.forEach(r => {
-    html += '<tr><td>' + r.name + '</td><td class="num">' + fmt(r.calls) + '</td><td class="num">' + fmt(r.sms) + '</td><td class="num">' + fmt(r.emails) + '</td><td class="num">' + fmt(r.appointments) + '</td></tr>';
+    html += '<tr><td>' + r.name + '</td>'
+      + barCell(r.calls, maxCalls, "calls")
+      + barCell(r.sms, maxSms, "sms")
+      + barCell(r.emails, maxEmails, "emails")
+      + barCell(r.appointments, maxAppts, "appts")
+      + '</tr>';
   });
   html += '</tbody></table>';
   target.innerHTML = html;
@@ -390,9 +461,14 @@ function renderLeadSource(targetId, data) {
     target.innerHTML = emptyMsg("No lead source data yet.");
     return;
   }
+  const maxLeads = maxOf(data.rows, "leads");
+  const maxOpps = maxOf(data.rows, "opportunities");
   let html = '<table><thead><tr><th>Source</th><th class="num">Leads</th><th class="num">Opportunities Created</th></tr></thead><tbody>';
   data.rows.forEach(r => {
-    html += '<tr><td>' + (r.source || "(none)") + '</td><td class="num">' + fmt(r.leads) + '</td><td class="num">' + fmt(r.opportunities) + '</td></tr>';
+    html += '<tr><td>' + (r.source || "(none)") + '</td>'
+      + barCell(r.leads, maxLeads, "leads")
+      + barCell(r.opportunities, maxOpps, "opps")
+      + '</tr>';
   });
   html += '</tbody></table>';
   target.innerHTML = html;
@@ -404,9 +480,18 @@ function renderQuarterlySalesperson(data) {
     target.innerHTML = emptyMsg("No quarterly performance data yet.");
     return;
   }
+  const mC = maxOf(data.rows, "created");
+  const mO = maxOf(data.rows, "open");
+  const mL = maxOf(data.rows, "lost");
+  const mA = maxOf(data.rows, "activities");
   let html = '<table><thead><tr><th>Sales Rep</th><th class="num">Opps Created</th><th class="num">Currently Open</th><th class="num">Lost</th><th class="num">Total Activities</th></tr></thead><tbody>';
   data.rows.forEach(r => {
-    html += '<tr><td>' + r.name + '</td><td class="num">' + fmt(r.created) + '</td><td class="num">' + fmt(r.open) + '</td><td class="num">' + fmt(r.lost) + '</td><td class="num">' + fmt(r.activities) + '</td></tr>';
+    html += '<tr><td>' + r.name + '</td>'
+      + barCell(r.created, mC, "created")
+      + barCell(r.open, mO, "openq")
+      + barCell(r.lost, mL, "lostq")
+      + barCell(r.activities, mA, "activities")
+      + '</tr>';
   });
   html += '</tbody></table>';
   target.innerHTML = html;
