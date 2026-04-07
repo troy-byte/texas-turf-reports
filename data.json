@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-07 20:29 UTC",
+  "generated_at": "2026-04-07 20:39 UTC",
   "window_weekly": "Mar 31 \u2013 Apr 07, 2026",
   "pipeline_opportunity": {
     "pipelines": [
@@ -217,7 +217,7 @@
       "pipeline": "Texas Turf Sales (TEST PIPELINE ONLY)",
       "stage": "Follow-Up",
       "assigned": "Colin Corcoran",
-      "days_stale": 34
+      "days_stale": 35
     },
     {
       "name": "Mothana",
@@ -416,6 +416,13 @@
       "days_stale": 20
     },
     {
+      "name": "Dawdy - Turf Installation",
+      "pipeline": "Texas Turf Sales (TEST PIPELINE ONLY)",
+      "stage": "Quote Sent",
+      "assigned": "Colin Corcoran",
+      "days_stale": 19
+    },
+    {
       "name": "Laramore - TexasTurf Installation: Gabriel Mills Dr",
       "pipeline": "Texas Turf Sales (TEST PIPELINE ONLY)",
       "stage": "Quote Sent",
@@ -455,13 +462,6 @@
       "pipeline": "Texas Turf Sales (TEST PIPELINE ONLY)",
       "stage": "Quote Sent",
       "assigned": "Unassigned",
-      "days_stale": 18
-    },
-    {
-      "name": "Dawdy - Turf Installation",
-      "pipeline": "Texas Turf Sales (TEST PIPELINE ONLY)",
-      "stage": "Quote Sent",
-      "assigned": "Colin Corcoran",
       "days_stale": 18
     },
     {

@@ -1,0 +1,709 @@
+{
+  "F0nBvS3DMtZHppEOnmKp": {
+    "pipeline_id": "UfxSyfg8CElw2kkh79hU",
+    "stage_id": "603c9a43-1872-4080-ac18-5c034739be32",
+    "status": "open",
+    "assigned_to": "5dzupJxr5mNu6vBO549b",
+    "updated_at": "2026-04-06T18:48:58.333Z"
+  },
+  "rg9u3hKjRnTB0nZizapF": {
+    "pipeline_id": "UfxSyfg8CElw2kkh79hU",
+    "stage_id": "777a358b-7080-48dc-bda4-f5956742b2f1",
+    "status": "open",
+    "assigned_to": "5dzupJxr5mNu6vBO549b",
+    "updated_at": "2026-04-06T15:31:44.243Z"
+  },
+  "uEmMVzTPYGk5umRTJMZJ": {
+    "pipeline_id": "UfxSyfg8CElw2kkh79hU",
+    "stage_id": "777a358b-7080-48dc-bda4-f5956742b2f1",
+    "status": "open",
+    "assigned_to": "5dzupJxr5mNu6vBO549b",
+    "updated_at": "2026-04-06T15:32:07.340Z"
+  },
+  "0f1hcOFU04SPhUW1jh54": {
+    "pipeline_id": "UfxSyfg8CElw2kkh79hU",
+    "stage_id": "e5351c7e-6379-40ab-9186-791ee8c4e6c8",
+    "status": "open",
+    "assigned_to": "5dzupJxr5mNu6vBO549b",
+    "updated_at": "2026-04-02T21:38:17.125Z"
+  },
+  "ld4uxB2VJByzPPSIc9q8": {
+    "pipeline_id": "UfxSyfg8CElw2kkh79hU",
+    "stage_id": "990db173-c040-4159-9ee1-c121cd099694",
+    "status": "open",
+    "assigned_to": "5dzupJxr5mNu6vBO549b",
+    "updated_at": "2026-04-02T21:38:43.804Z"
+  },
+  "qKy4MI00CzS1qKk7UODD": {
+    "pipeline_id": "UfxSyfg8CElw2kkh79hU",
+    "stage_id": "b3f57765-4af1-4053-9a88-79432100970c",
+    "status": "open",
+    "assigned_to": "5dzupJxr5mNu6vBO549b",
+    "updated_at": "2026-03-30T20:53:16.078Z"
+  },
+  "Qso4YfbkoVusHUhHpBsJ": {
+    "pipeline_id": "UfxSyfg8CElw2kkh79hU",
+    "stage_id": "777a358b-7080-48dc-bda4-f5956742b2f1",
+    "status": "open",
+    "assigned_to": "1IhAmqekEKSI4aJ3DZaY",
+    "updated_at": "2026-02-25T22:15:59.922Z"
+  },
+  "tLPG6aila9FEJ79zxqvf": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "d152dfed-781d-4b00-868e-26c513e934f1",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-04-07T17:10:49.402Z"
+  },
+  "QE9ZC7ewACrDO0gK4y8I": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "d152dfed-781d-4b00-868e-26c513e934f1",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-04-07T15:32:30.105Z"
+  },
+  "FukMo4haENWg2D1EV04f": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "e8e6bfc4-06b9-471a-a09c-516f5d435c30",
+    "status": "lost",
+    "assigned_to": "Ia7FTzA4PSM97HV6p9Ua",
+    "updated_at": "2026-04-07T15:47:35.196Z"
+  },
+  "H7QhmZ38RQ4Zba6PkHRH": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "e8e6bfc4-06b9-471a-a09c-516f5d435c30",
+    "status": "open",
+    "assigned_to": "Ia7FTzA4PSM97HV6p9Ua",
+    "updated_at": "2026-04-06T18:02:02.782Z"
+  },
+  "3u6JucFhdA9vv2XHTHda": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "061e2e51-84c0-48d7-a0b1-8b460b038a51",
+    "status": "open",
+    "assigned_to": "5dzupJxr5mNu6vBO549b",
+    "updated_at": "2026-04-06T15:27:05.580Z"
+  },
+  "UjSvJr7DxXUc5wVEUxpW": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "92686ed1-4f1e-4e1f-829c-d075e8d2f2f9",
+    "status": "open",
+    "assigned_to": "Ia7FTzA4PSM97HV6p9Ua",
+    "updated_at": "2026-04-07T20:29:32.443Z"
+  },
+  "CxOWPdGI2Crl5SxAhuRv": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "061e2e51-84c0-48d7-a0b1-8b460b038a51",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-04-06T22:15:06.465Z"
+  },
+  "LKpjgSZxMOUEdZa1IRzl": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "ec163aa6-e70d-42e2-af88-c398c018ffaa",
+    "status": "open",
+    "assigned_to": null,
+    "updated_at": "2026-04-03T05:59:02.723Z"
+  },
+  "tuD2QrGObRjcwCYMh5eE": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "ec163aa6-e70d-42e2-af88-c398c018ffaa",
+    "status": "open",
+    "assigned_to": null,
+    "updated_at": "2026-04-03T02:36:03.274Z"
+  },
+  "fPbUCpvqAW5GlNdj8VA4": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "061e2e51-84c0-48d7-a0b1-8b460b038a51",
+    "status": "open",
+    "assigned_to": null,
+    "updated_at": "2026-04-02T23:01:06.774Z"
+  },
+  "U6l3G7Gp4TvRqTxxOg5A": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "d152dfed-781d-4b00-868e-26c513e934f1",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-04-01T22:05:21.238Z"
+  },
+  "Bn7FGcLdkPyQEZ23hRVl": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "061e2e51-84c0-48d7-a0b1-8b460b038a51",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-04-05T14:53:38.294Z"
+  },
+  "9EQwRp3eCn1cEEJpENcZ": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "d152dfed-781d-4b00-868e-26c513e934f1",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-31T22:05:51.168Z"
+  },
+  "ZziAml94SZI1X1UN5NJs": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "d152dfed-781d-4b00-868e-26c513e934f1",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-31T14:18:32.951Z"
+  },
+  "YVjuSNdD89qIUk5aXEsi": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "061e2e51-84c0-48d7-a0b1-8b460b038a51",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-04-06T21:46:21.107Z"
+  },
+  "27xtxeqvLydM8QOxzfAj": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "d152dfed-781d-4b00-868e-26c513e934f1",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-30T15:26:59.670Z"
+  },
+  "i8BEWhnAKD2fXLSgTxiO": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "061e2e51-84c0-48d7-a0b1-8b460b038a51",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-04-06T17:02:37.630Z"
+  },
+  "mwa2Fb2WqYvBI5YFoFCI": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "061e2e51-84c0-48d7-a0b1-8b460b038a51",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-04-06T17:06:29.576Z"
+  },
+  "XzLgMjOmOOhD2zFH3RMt": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "e8e6bfc4-06b9-471a-a09c-516f5d435c30",
+    "status": "open",
+    "assigned_to": "Ia7FTzA4PSM97HV6p9Ua",
+    "updated_at": "2026-03-28T14:14:32.739Z"
+  },
+  "6FWrhPb42mJ2M9kP4ahC": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "2515486c-6da1-4655-8b01-3eaeac8c2977",
+    "status": "open",
+    "assigned_to": "Ia7FTzA4PSM97HV6p9Ua",
+    "updated_at": "2026-03-27T19:58:04.029Z"
+  },
+  "Vzx4HJ8pDF6EvvIBgwjo": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "d152dfed-781d-4b00-868e-26c513e934f1",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-25T17:46:23.858Z"
+  },
+  "fvxdWhCG3zXN2vEfVhpD": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "d152dfed-781d-4b00-868e-26c513e934f1",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-25T15:17:48.265Z"
+  },
+  "cfTkDpUUCFEAuWyHCE3B": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "061e2e51-84c0-48d7-a0b1-8b460b038a51",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-04-03T21:56:02.180Z"
+  },
+  "p8EAt3KTudgcwKJ0W6On": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "e8e6bfc4-06b9-471a-a09c-516f5d435c30",
+    "status": "lost",
+    "assigned_to": "Ia7FTzA4PSM97HV6p9Ua",
+    "updated_at": "2026-03-24T17:30:00.510Z"
+  },
+  "MkcEDADKoD7o7pUWo0CO": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "ec163aa6-e70d-42e2-af88-c398c018ffaa",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-30T19:51:05.575Z"
+  },
+  "UObVO4WbE44OhQ567rpO": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "061e2e51-84c0-48d7-a0b1-8b460b038a51",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-23T21:14:13.859Z"
+  },
+  "lrgeeBY40JwOua1vdS9g": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "061e2e51-84c0-48d7-a0b1-8b460b038a51",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-23T21:15:15.763Z"
+  },
+  "d48xYGEcxJFSWpUXLmhQ": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "e8e6bfc4-06b9-471a-a09c-516f5d435c30",
+    "status": "open",
+    "assigned_to": "Ia7FTzA4PSM97HV6p9Ua",
+    "updated_at": "2026-03-18T15:55:52.922Z"
+  },
+  "0WA9lm3sjQdelGRr92yi": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "d152dfed-781d-4b00-868e-26c513e934f1",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-23T18:31:11.974Z"
+  },
+  "LAFbny1mrubYMUknkFZb": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "e8e6bfc4-06b9-471a-a09c-516f5d435c30",
+    "status": "open",
+    "assigned_to": "Ia7FTzA4PSM97HV6p9Ua",
+    "updated_at": "2026-03-15T23:16:34.424Z"
+  },
+  "DOxQGTAdr5QOFJ38k6rw": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "d152dfed-781d-4b00-868e-26c513e934f1",
+    "status": "lost",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-30T19:49:54.054Z"
+  },
+  "LpLnjZTCMkgSswdCekkH": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "2515486c-6da1-4655-8b01-3eaeac8c2977",
+    "status": "open",
+    "assigned_to": "Ia7FTzA4PSM97HV6p9Ua",
+    "updated_at": "2026-03-16T18:37:26.618Z"
+  },
+  "dfx48ESqbLmZVWXCV5gQ": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "061e2e51-84c0-48d7-a0b1-8b460b038a51",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-23T21:15:35.154Z"
+  },
+  "3QExsdMSHdoSVnfXXv0O": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "061e2e51-84c0-48d7-a0b1-8b460b038a51",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-23T21:17:52.718Z"
+  },
+  "eKDaCbaJyMz9bwPbs4DD": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "061e2e51-84c0-48d7-a0b1-8b460b038a51",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-23T21:17:28.031Z"
+  },
+  "gRjlmeGCSoLWeKT0Li3f": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "d152dfed-781d-4b00-868e-26c513e934f1",
+    "status": "open",
+    "assigned_to": "Ia7FTzA4PSM97HV6p9Ua",
+    "updated_at": "2026-03-10T21:31:36.389Z"
+  },
+  "3MljZ1Wn2KMS50OFt4k9": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "061e2e51-84c0-48d7-a0b1-8b460b038a51",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-16T19:05:35.509Z"
+  },
+  "T9Yrbop6Hr5td1eYKRPZ": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "061e2e51-84c0-48d7-a0b1-8b460b038a51",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-23T21:18:25.966Z"
+  },
+  "bULiYP6hnx8EY6LtZfV8": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "061e2e51-84c0-48d7-a0b1-8b460b038a51",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-16T19:06:04.182Z"
+  },
+  "866yE4njoeLS3hQbe3yu": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "ec163aa6-e70d-42e2-af88-c398c018ffaa",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-23T21:14:20.920Z"
+  },
+  "BFTsVAksxhOQKeFp0vRk": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "2515486c-6da1-4655-8b01-3eaeac8c2977",
+    "status": "open",
+    "assigned_to": "Ia7FTzA4PSM97HV6p9Ua",
+    "updated_at": "2026-03-06T17:21:37.948Z"
+  },
+  "kuBuYMVMV1O1Y8Ns87W4": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "061e2e51-84c0-48d7-a0b1-8b460b038a51",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-23T21:25:57.211Z"
+  },
+  "UaTmOJp5UoGx8RWElUT3": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "ec163aa6-e70d-42e2-af88-c398c018ffaa",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-16T19:03:36.369Z"
+  },
+  "q0Qlyk8P8Wi5QRqKqSn0": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "061e2e51-84c0-48d7-a0b1-8b460b038a51",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-23T21:16:00.355Z"
+  },
+  "EACozGmzEtkXSELT4ksy": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "ec163aa6-e70d-42e2-af88-c398c018ffaa",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-17T21:29:23.792Z"
+  },
+  "KZTOye9jGQEyrXfwErpD": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "01f3f8c8-5fa0-4260-9781-c3e4d749ff14",
+    "status": "open",
+    "assigned_to": "Ia7FTzA4PSM97HV6p9Ua",
+    "updated_at": "2026-03-06T17:20:45.674Z"
+  },
+  "gL8jnK5GXVWSOXhdgb3U": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "2515486c-6da1-4655-8b01-3eaeac8c2977",
+    "status": "lost",
+    "assigned_to": "Ia7FTzA4PSM97HV6p9Ua",
+    "updated_at": "2026-03-06T21:42:03.565Z"
+  },
+  "vX7lblbNkj1xBf8Tkteh": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "d152dfed-781d-4b00-868e-26c513e934f1",
+    "status": "lost",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-16T19:02:24.697Z"
+  },
+  "xYqmeHN1DI1o9j6YqTJn": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "ec163aa6-e70d-42e2-af88-c398c018ffaa",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-16T19:01:21.983Z"
+  },
+  "VqlmsbS6mvzAa9cevu9l": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "e8e6bfc4-06b9-471a-a09c-516f5d435c30",
+    "status": "open",
+    "assigned_to": "dyjIibHeagTDD74EndHh",
+    "updated_at": "2026-02-24T20:44:25.642Z"
+  },
+  "PgbyuU5EAfxWFosjTFH1": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "3493d150-da41-4278-a5b1-e962f45d1676",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-06T17:22:02.788Z"
+  },
+  "alGTmTMv4RvNorTTr6vo": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "3493d150-da41-4278-a5b1-e962f45d1676",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-06T17:22:07.045Z"
+  },
+  "Q2jxETaYtcyR8EiMMC1a": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "ec163aa6-e70d-42e2-af88-c398c018ffaa",
+    "status": "won",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-09T17:43:47.476Z"
+  },
+  "3lT8QqT2fsRvlUL9QvSc": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "01f3f8c8-5fa0-4260-9781-c3e4d749ff14",
+    "status": "open",
+    "assigned_to": "dyjIibHeagTDD74EndHh",
+    "updated_at": "2026-02-19T18:21:20.755Z"
+  },
+  "PW0EAHMQaaruVTrVNjgB": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "2515486c-6da1-4655-8b01-3eaeac8c2977",
+    "status": "open",
+    "assigned_to": "dyjIibHeagTDD74EndHh",
+    "updated_at": "2026-02-19T18:21:15.698Z"
+  },
+  "iFeW01S3JUzF10esnHyQ": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "d152dfed-781d-4b00-868e-26c513e934f1",
+    "status": "lost",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-16T19:02:54.092Z"
+  },
+  "373crRWzva5uTrhUtbfy": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "3493d150-da41-4278-a5b1-e962f45d1676",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-06T17:15:33.898Z"
+  },
+  "Y4zbn6CvPBaft271ld0l": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "3493d150-da41-4278-a5b1-e962f45d1676",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-06T17:15:27.572Z"
+  },
+  "NPVw3F47UYQyyFzBYjOv": {
+    "pipeline_id": "8beUyyP8wWSeZJiCjYqn",
+    "stage_id": "ec163aa6-e70d-42e2-af88-c398c018ffaa",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-16T19:01:12.314Z"
+  },
+  "C1DwmRfs4rtipUjzqvDm": {
+    "pipeline_id": "3XCj8kahX7TDDlCoX9k0",
+    "stage_id": "0e9def6f-e7da-4902-af39-70d382614472",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-20T20:24:24.643Z"
+  },
+  "xp6NbWpyBmPaW5yWxKvc": {
+    "pipeline_id": "3XCj8kahX7TDDlCoX9k0",
+    "stage_id": "7011262e-1de8-4c31-b6ab-d43bcc75c849",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-20T17:00:11.311Z"
+  },
+  "l7B6eZ0wWmqwG6tltTwu": {
+    "pipeline_id": "3XCj8kahX7TDDlCoX9k0",
+    "stage_id": "7011262e-1de8-4c31-b6ab-d43bcc75c849",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-20T13:59:31.011Z"
+  },
+  "73hVRdhaxK48LiCPdYZC": {
+    "pipeline_id": "3XCj8kahX7TDDlCoX9k0",
+    "stage_id": "7011262e-1de8-4c31-b6ab-d43bcc75c849",
+    "status": "open",
+    "assigned_to": null,
+    "updated_at": "2026-03-19T21:10:11.212Z"
+  },
+  "9fyl1eWXcacvkxs5ylk8": {
+    "pipeline_id": "3XCj8kahX7TDDlCoX9k0",
+    "stage_id": "7011262e-1de8-4c31-b6ab-d43bcc75c849",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-19T20:36:38.734Z"
+  },
+  "TYP8fkLIy33fRvpoiyMu": {
+    "pipeline_id": "3XCj8kahX7TDDlCoX9k0",
+    "stage_id": "7011262e-1de8-4c31-b6ab-d43bcc75c849",
+    "status": "open",
+    "assigned_to": null,
+    "updated_at": "2026-03-19T16:52:26.588Z"
+  },
+  "GnikLsA4enxG8tiYmnjM": {
+    "pipeline_id": "3XCj8kahX7TDDlCoX9k0",
+    "stage_id": "7011262e-1de8-4c31-b6ab-d43bcc75c849",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-18T18:42:48.800Z"
+  },
+  "KLKTNnb3ZqWhj63Ae8rX": {
+    "pipeline_id": "3XCj8kahX7TDDlCoX9k0",
+    "stage_id": "7011262e-1de8-4c31-b6ab-d43bcc75c849",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-12T19:22:56.085Z"
+  },
+  "Djac7BULv0bRECHDpxtV": {
+    "pipeline_id": "3XCj8kahX7TDDlCoX9k0",
+    "stage_id": "0e9def6f-e7da-4902-af39-70d382614472",
+    "status": "open",
+    "assigned_to": null,
+    "updated_at": "2026-03-19T14:18:22.853Z"
+  },
+  "u6ygO0u4XagNR9UPAuNu": {
+    "pipeline_id": "3XCj8kahX7TDDlCoX9k0",
+    "stage_id": "7011262e-1de8-4c31-b6ab-d43bcc75c849",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-10T22:45:07.892Z"
+  },
+  "Qu09rM4sI6JuV3Raf8cw": {
+    "pipeline_id": "3XCj8kahX7TDDlCoX9k0",
+    "stage_id": "0e9def6f-e7da-4902-af39-70d382614472",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-11T00:42:59.971Z"
+  },
+  "emWr6EWdB4sIsWNvs3XH": {
+    "pipeline_id": "3XCj8kahX7TDDlCoX9k0",
+    "stage_id": "7011262e-1de8-4c31-b6ab-d43bcc75c849",
+    "status": "open",
+    "assigned_to": null,
+    "updated_at": "2026-03-10T22:15:41.986Z"
+  },
+  "Amm4pqZqwu5RTK9XSCtv": {
+    "pipeline_id": "3XCj8kahX7TDDlCoX9k0",
+    "stage_id": "7011262e-1de8-4c31-b6ab-d43bcc75c849",
+    "status": "open",
+    "assigned_to": "5dzupJxr5mNu6vBO549b",
+    "updated_at": "2026-04-02T16:31:31.625Z"
+  },
+  "vycEOlmnbngXTwByj5f0": {
+    "pipeline_id": "3XCj8kahX7TDDlCoX9k0",
+    "stage_id": "0e9def6f-e7da-4902-af39-70d382614472",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-25T16:21:48.969Z"
+  },
+  "9ORkoSW4ytlxRB9kBJRT": {
+    "pipeline_id": "3XCj8kahX7TDDlCoX9k0",
+    "stage_id": "0e9def6f-e7da-4902-af39-70d382614472",
+    "status": "open",
+    "assigned_to": null,
+    "updated_at": "2026-03-18T17:35:27.013Z"
+  },
+  "DN2TWxHbHAW4LZ2YLDmp": {
+    "pipeline_id": "3XCj8kahX7TDDlCoX9k0",
+    "stage_id": "0e9def6f-e7da-4902-af39-70d382614472",
+    "status": "open",
+    "assigned_to": null,
+    "updated_at": "2026-03-13T22:59:57.638Z"
+  },
+  "N30fPZne2oFySZRySl1i": {
+    "pipeline_id": "3XCj8kahX7TDDlCoX9k0",
+    "stage_id": "9c51fec5-2bae-4e10-90b1-3bd156b5db72",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-07T02:44:34.533Z"
+  },
+  "f2FZXscU0WewCsfMJazw": {
+    "pipeline_id": "3XCj8kahX7TDDlCoX9k0",
+    "stage_id": "9c51fec5-2bae-4e10-90b1-3bd156b5db72",
+    "status": "open",
+    "assigned_to": "Ia7FTzA4PSM97HV6p9Ua",
+    "updated_at": "2026-03-07T02:34:39.986Z"
+  },
+  "CMbfnhzC2WCKUP8Fd07o": {
+    "pipeline_id": "3XCj8kahX7TDDlCoX9k0",
+    "stage_id": "da506f48-b980-436a-a16b-16d83807076d",
+    "status": "won",
+    "assigned_to": null,
+    "updated_at": "2026-03-09T22:16:06.356Z"
+  },
+  "gz1iPjPKtZ46pPYL0Mep": {
+    "pipeline_id": "3XCj8kahX7TDDlCoX9k0",
+    "stage_id": "9c51fec5-2bae-4e10-90b1-3bd156b5db72",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-06T18:33:41.377Z"
+  },
+  "AbvJgF2MelO0tV3vNj4j": {
+    "pipeline_id": "3XCj8kahX7TDDlCoX9k0",
+    "stage_id": "9c51fec5-2bae-4e10-90b1-3bd156b5db72",
+    "status": "open",
+    "assigned_to": "dyjIibHeagTDD74EndHh",
+    "updated_at": "2026-03-11T21:08:40.519Z"
+  },
+  "Waau1e7XZ1liX1Ehs8qI": {
+    "pipeline_id": "3XCj8kahX7TDDlCoX9k0",
+    "stage_id": "da506f48-b980-436a-a16b-16d83807076d",
+    "status": "won",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-06T18:38:37.265Z"
+  },
+  "iRY09cNf2tVSkeBnOeiF": {
+    "pipeline_id": "3XCj8kahX7TDDlCoX9k0",
+    "stage_id": "da506f48-b980-436a-a16b-16d83807076d",
+    "status": "won",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-11T21:04:50.105Z"
+  },
+  "U079PwBthhCAbQ5Aj4TA": {
+    "pipeline_id": "3XCj8kahX7TDDlCoX9k0",
+    "stage_id": "9c51fec5-2bae-4e10-90b1-3bd156b5db72",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-11T21:38:30.925Z"
+  },
+  "OYqCIhEeYciA1MShtyrh": {
+    "pipeline_id": "3XCj8kahX7TDDlCoX9k0",
+    "stage_id": "da506f48-b980-436a-a16b-16d83807076d",
+    "status": "won",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-24T16:12:07.576Z"
+  },
+  "VIeBjG5T7qytuaiUyxNE": {
+    "pipeline_id": "3XCj8kahX7TDDlCoX9k0",
+    "stage_id": "7011262e-1de8-4c31-b6ab-d43bcc75c849",
+    "status": "open",
+    "assigned_to": "dyjIibHeagTDD74EndHh",
+    "updated_at": "2026-03-23T18:52:53.992Z"
+  },
+  "B0cZLwOgF2E3vgPZOLqL": {
+    "pipeline_id": "3XCj8kahX7TDDlCoX9k0",
+    "stage_id": "9c51fec5-2bae-4e10-90b1-3bd156b5db72",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-03T00:22:19.639Z"
+  },
+  "RYb7WEybCOoah5LOJLfz": {
+    "pipeline_id": "3XCj8kahX7TDDlCoX9k0",
+    "stage_id": "9c51fec5-2bae-4e10-90b1-3bd156b5db72",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-03T20:33:46.402Z"
+  },
+  "nKiF2Z5E7bvhZ2gSUcZR": {
+    "pipeline_id": "3XCj8kahX7TDDlCoX9k0",
+    "stage_id": "9c51fec5-2bae-4e10-90b1-3bd156b5db72",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-02T17:57:29.506Z"
+  },
+  "rg2pO7sDuWazTyPNDes6": {
+    "pipeline_id": "3XCj8kahX7TDDlCoX9k0",
+    "stage_id": "7011262e-1de8-4c31-b6ab-d43bcc75c849",
+    "status": "open",
+    "assigned_to": "5dzupJxr5mNu6vBO549b",
+    "updated_at": "2026-03-24T21:44:54.148Z"
+  },
+  "1HkbAJsw1DEYQuQFZOlQ": {
+    "pipeline_id": "3XCj8kahX7TDDlCoX9k0",
+    "stage_id": "9c51fec5-2bae-4e10-90b1-3bd156b5db72",
+    "status": "open",
+    "assigned_to": null,
+    "updated_at": "2026-02-28T00:09:24.748Z"
+  },
+  "PR7TgjvD3WZLmcOZvSVn": {
+    "pipeline_id": "3XCj8kahX7TDDlCoX9k0",
+    "stage_id": "9c51fec5-2bae-4e10-90b1-3bd156b5db72",
+    "status": "open",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-02-27T23:03:18.851Z"
+  },
+  "0nNVQtgWuhc4RKBshG4E": {
+    "pipeline_id": "3XCj8kahX7TDDlCoX9k0",
+    "stage_id": "da506f48-b980-436a-a16b-16d83807076d",
+    "status": "won",
+    "assigned_to": "zl0MRdX7dfeqO8uHDA1k",
+    "updated_at": "2026-03-03T19:56:39.245Z"
+  },
+  "33LC86pDev4W2SVyCcSP": {
+    "pipeline_id": "3XCj8kahX7TDDlCoX9k0",
+    "stage_id": "9c51fec5-2bae-4e10-90b1-3bd156b5db72",
+    "status": "open",
+    "assigned_to": null,
+    "updated_at": "2026-02-27T22:27:29.349Z"
+  },
+  "gZMOviQMp6hreBJuyZCj": {
+    "pipeline_id": "3XCj8kahX7TDDlCoX9k0",
+    "stage_id": "da506f48-b980-436a-a16b-16d83807076d",
+    "status": "won",
+    "assigned_to": null,
+    "updated_at": "2026-02-27T22:01:11.122Z"
+  }
+}
