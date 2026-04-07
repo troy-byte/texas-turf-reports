@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="robots" content="noindex, nofollow">
+<title>Texas Turf — Sales Reports</title>
+<style>
+  :root {
+    --bg: #0b1014;
+    --panel: #131a21;
+    --panel-2: #1a232c;
+    --border: #243140;
+    --text: #e8eef5;
+    --muted: #8a99a8;
+    --accent: #6cc04a;
+    --accent-2: #4a90d9;
+    --warn: #e0a64a;
+    --danger: #d9534f;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.5;
+  }
+  .gate {
+    position: fixed; inset: 0;
+    background: var(--bg);
+    display: flex; align-items: center; justify-content: center;
+    z-index: 1000;
+  }
+  .gate-card {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 40px;
+    width: 360px;
+    text-align: center;
+  }
+  .gate h1 { margin: 0 0 8px; font-size: 22px; }
+  .gate p { color: var(--muted); margin: 0 0 24px; font-size: 14px; }
+  .gate input {
+    width: 100%;
+    padding: 12px 14px;
+    border-radius: 8px;
+    border: 1px solid var(--border);
+    background: var(--panel-2);
+    color: var(--text);
+    font-size: 15px;
+    margin-bottom: 12px;
+  }
+  .gate button {
+    width: 100%;
+    padding: 12px;
+    border: none;
+    border-radius: 8px;
+    background: var(--accent);
+    color: #0b1014;
+    font-weight: 600;
+    font-size: 15px;
+    cursor: pointer;
+  }
+  .gate .err { color: var(--danger); font-size: 13px; min-height: 18px; margin-top: 8px; }
+
+  header {
+    padding: 24px 32px;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 12px;
+  }
+  header h1 { margin: 0; font-size: 20px; font-weight: 600; }
+  header .meta { color: var(--muted); font-size: 13px; }
+  header .pill {
+    display: inline-block;
+    padding: 3px 10px;
+    border-radius: 999px;
+    background: rgba(108,192,74,.12);
+    color: var(--accent);
+    font-size: 12px;
+    margin-left: 8px;
+  }
+
+  .tabs {
+    display: flex;
+    gap: 4px;
+    padding: 16px 32px 0;
+    border-bottom: 1px solid var(--border);
+  }
+  .tab {
+    padding: 10px 18px;
+    border: none;
+    background: transparent;
+    color: var(--muted);
+    cursor: pointer;
+    font-size: 14px;
+    border-bottom: 2px solid transparent;
+    margin-bottom: -1px;
+  }
+  .tab.active { color: var(--text); border-bottom-color: var(--accent); }
+
+  main { padding: 24px 32px 60px; max-width: 1400px; margin: 0 auto; }
+  .section { display: none; }
+  .section.active { display: block; }
+
+  .report {
+    background: var(--panel);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 24px;
+    margin-bottom: 20px;
+  }
+  .report h2 {
+    margin: 0 0 4px;
+    font-size: 17px;
+    font-weight: 600;
+  }
+  .report .sub {
+    color: var(--muted);
+    font-size: 13px;
+    margin-bottom: 18px;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 13px;
+  }
+  th, td {
+    text-align: left;
+    padding: 10px 12px;
+    border-bottom: 1px solid var(--border);
+  }
+  th {
+    color: var(--muted);
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 11px;
+    letter-spacing: 0.5px;
+  }
+  td.num { text-align: right; font-variant-numeric: tabular-nums; }
+  th.num { text-align: right; }
+  tbody tr:hover { background: rgba(255,255,255,.02); }
+
+  .grid-2 { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+  @media (max-width: 900px) { .grid-2 { grid-template-columns: 1fr; } }
+
+  .empty {
+    color: var(--muted);
+    font-size: 13px;
+    padding: 16px;
+    text-align: center;
+    font-style: italic;
+  }
+  .badge-stale { color: var(--warn); }
+  .badge-warn { background: rgba(224,166,74,.15); color: var(--warn); padding: 2px 8px; border-radius: 4px; font-size: 11px; }
+</style>
+</head>
+<body>
+
+<!-- Password gate -->
+<div class="gate" id="gate">
+  <div class="gate-card">
+    <h1>Texas Turf Reports</h1>
+    <p>Enter access password to continue</p>
+    <form id="gateForm">
+      <input type="password" id="gatePw" autofocus autocomplete="off" placeholder="Password">
+      <button type="submit">Unlock</button>
+      <div class="err" id="gateErr"></div>
+    </form>
+  </div>
+</div>
+
+<!-- Main app -->
+<div id="app" style="display:none">
+  <header>
+    <div>
+      <h1>Texas Turf — Sales Reports <span class="pill" id="livePill">Live</span></h1>
+      <div class="meta">Last refreshed: <span id="lastUpdated">—</span></div>
+    </div>
+    <div class="meta">Source: AGM Pro Tools (Ivana sub-account)</div>
+  </header>
+
+  <div class="tabs">
+    <button class="tab active" data-tab="weekly">Weekly</button>
+    <button class="tab" data-tab="monthly">Monthly</button>
+    <button class="tab" data-tab="quarterly">Quarterly</button>
+  </div>
+
+  <main>
+    <!-- WEEKLY -->
+    <section class="section active" id="tab-weekly">
+
+      <div class="report">
+        <h2>1. Pipeline Opportunity Report</h2>
+        <div class="sub">By pipeline and sales rep — new, moved, lost, total open. <span id="weeklyWindow"></span></div>
+        <div id="pipelineReport"></div>
+      </div>
+
+      <div class="report">
+        <h2>2. Sales Activity Report (by User)</h2>
+        <div class="sub">Calls, SMS, emails, appointments per sales rep — last 7 days.</div>
+        <div id="salesActivityWeekly"></div>
+      </div>
+
+      <div class="report">
+        <h2>3. Stale Opportunities Report</h2>
+        <div class="sub">Open opportunities with no stage movement or update in 7+ days.</div>
+        <div id="staleReport"></div>
+      </div>
+
+    </section>
+
+    <!-- MONTHLY -->
+    <section class="section" id="tab-monthly">
+
+      <div class="report">
+        <h2>4. Monthly Lead Source Report</h2>
+        <div class="sub">Leads generated and opportunities created — by source.</div>
+        <div id="monthlyLeadSource"></div>
+      </div>
+
+      <div class="report">
+        <h2>5. Monthly Sales Activity Summary</h2>
+        <div class="sub">Calls, SMS, emails, appointments by sales rep — full month.</div>
+        <div id="monthlySalesActivity"></div>
+      </div>
+
+    </section>
+
+    <!-- QUARTERLY -->
+    <section class="section" id="tab-quarterly">
+
+      <div class="report">
+        <h2>6. Quarterly Lead Source Report</h2>
+        <div class="sub">Leads and opportunities created by source — current quarter.</div>
+        <div id="quarterlyLeadSource"></div>
+      </div>
+
+      <div class="report">
+        <h2>7. Quarterly Salesperson Performance Report</h2>
+        <div class="sub">Total opps created, open, lost, and CRM activity — current quarter.</div>
+        <div id="quarterlySalesperson"></div>
+      </div>
+
+    </section>
+  </main>
+</div>
+
+<script>
+// ============ PASSWORD GATE ============
+// Password: turf2026  (SHA-256 hash below — change to rotate)
+// To rotate: python3 -c "import hashlib; print(hashlib.sha256(b'NEWPW').hexdigest())"
+const ACCEPTED_HASH = "148216622c6bb185f081074c5a476de7d26a850fbfd8cbe8ee6d21febe14fb45";
+
+async function sha256(str) {
+  const buf = await crypto.subtle.digest("SHA-256", new TextEncoder().encode(str));
+  return Array.from(new Uint8Array(buf)).map(b => b.toString(16).padStart(2, "0")).join("");
+}
+
+document.getElementById("gateForm").addEventListener("submit", async (e) => {
+  e.preventDefault();
+  const pw = document.getElementById("gatePw").value;
+  const h = await sha256(pw);
+  if (h === ACCEPTED_HASH) {
+    sessionStorage.setItem("tt_unlocked", "1");
+    showApp();
+  } else {
+    document.getElementById("gateErr").textContent = "Incorrect password";
+  }
+});
+
+if (sessionStorage.getItem("tt_unlocked") === "1") showApp();
+
+function showApp() {
+  document.getElementById("gate").style.display = "none";
+  document.getElementById("app").style.display = "block";
+  loadData();
+}
+
+// ============ TAB SWITCHING ============
+document.querySelectorAll(".tab").forEach(t => {
+  t.addEventListener("click", () => {
+    document.querySelectorAll(".tab").forEach(x => x.classList.remove("active"));
+    document.querySelectorAll(".section").forEach(x => x.classList.remove("active"));
+    t.classList.add("active");
+    document.getElementById("tab-" + t.dataset.tab).classList.add("active");
+  });
+});
+
+// ============ DATA LOADING ============
+async function loadData() {
+  try {
+    const res = await fetch("data.json?t=" + Date.now());
+    const data = await res.json();
+    render(data);
+  } catch (e) {
+    document.querySelector("main").innerHTML = '<div class="empty">Failed to load data.json — puller may not have run yet.</div>';
+  }
+}
+
+function fmt(n) { return (n ?? 0).toLocaleString(); }
+function emptyMsg(msg) { return '<div class="empty">' + msg + '</div>'; }
+
+function render(d) {
+  document.getElementById("lastUpdated").textContent = d.generated_at || "—";
+  if (d.window_weekly) document.getElementById("weeklyWindow").textContent = "(" + d.window_weekly + ")";
+
+  // 1. Pipeline Opportunity Report
+  renderPipeline(d.pipeline_opportunity || {});
+
+  // 2. Weekly Sales Activity
+  renderActivityTable("salesActivityWeekly", d.sales_activity_weekly);
+
+  // 3. Stale
+  renderStale(d.stale_opportunities);
+
+  // 4. Monthly Lead Source
+  renderLeadSource("monthlyLeadSource", d.monthly_lead_source);
+
+  // 5. Monthly Sales Activity Summary
+  renderActivityTable("monthlySalesActivity", d.monthly_sales_activity);
+
+  // 6. Quarterly Lead Source
+  renderLeadSource("quarterlyLeadSource", d.quarterly_lead_source);
+
+  // 7. Quarterly Salesperson
+  renderQuarterlySalesperson(d.quarterly_salesperson);
+}
+
+function renderPipeline(pr) {
+  const target = document.getElementById("pipelineReport");
+  if (!pr || !pr.pipelines || pr.pipelines.length === 0) {
+    target.innerHTML = emptyMsg("No pipeline data yet.");
+    return;
+  }
+  let html = "";
+  pr.pipelines.forEach(p => {
+    html += '<h3 style="font-size:14px;margin:18px 0 8px;color:var(--accent-2)">' + p.name + '</h3>';
+    html += '<table><thead><tr><th>Sales Rep</th><th class="num">New</th><th class="num">Moved Stages</th><th class="num">Lost</th><th class="num">Total Open</th></tr></thead><tbody>';
+    if (!p.reps || p.reps.length === 0) {
+      html += '<tr><td colspan="5" class="empty">No reps with activity</td></tr>';
+    } else {
+      p.reps.forEach(r => {
+        const moved = r.moved === null ? '<span class="badge-warn">pending logger</span>' : fmt(r.moved);
+        html += '<tr><td>' + (r.name || "Unassigned") + '</td><td class="num">' + fmt(r.new) + '</td><td class="num">' + moved + '</td><td class="num">' + fmt(r.lost) + '</td><td class="num">' + fmt(r.open) + '</td></tr>';
+      });
+    }
+    html += '</tbody></table>';
+  });
+  target.innerHTML = html;
+}
+
+function renderActivityTable(targetId, data) {
+  const target = document.getElementById(targetId);
+  if (!data || !data.rows || data.rows.length === 0) {
+    target.innerHTML = emptyMsg("No activity data yet.");
+    return;
+  }
+  let html = '<table><thead><tr><th>Sales Rep</th><th class="num">Calls</th><th class="num">SMS</th><th class="num">Emails</th><th class="num">Appointments</th></tr></thead><tbody>';
+  data.rows.forEach(r => {
+    html += '<tr><td>' + r.name + '</td><td class="num">' + fmt(r.calls) + '</td><td class="num">' + fmt(r.sms) + '</td><td class="num">' + fmt(r.emails) + '</td><td class="num">' + fmt(r.appointments) + '</td></tr>';
+  });
+  html += '</tbody></table>';
+  target.innerHTML = html;
+}
+
+function renderStale(data) {
+  const target = document.getElementById("staleReport");
+  if (!data || data.length === 0) {
+    target.innerHTML = emptyMsg("No stale opportunities — nice work.");
+    return;
+  }
+  let html = '<table><thead><tr><th>Opportunity</th><th>Pipeline</th><th>Stage</th><th>Sales Rep</th><th class="num">Days Stale</th></tr></thead><tbody>';
+  data.forEach(r => {
+    html += '<tr><td>' + (r.name || "—") + '</td><td>' + r.pipeline + '</td><td>' + r.stage + '</td><td>' + (r.assigned || "Unassigned") + '</td><td class="num badge-stale">' + r.days_stale + '</td></tr>';
+  });
+  html += '</tbody></table>';
+  target.innerHTML = html;
+}
+
+function renderLeadSource(targetId, data) {
+  const target = document.getElementById(targetId);
+  if (!data || !data.rows || data.rows.length === 0) {
+    target.innerHTML = emptyMsg("No lead source data yet.");
+    return;
+  }
+  let html = '<table><thead><tr><th>Source</th><th class="num">Leads</th><th class="num">Opportunities Created</th></tr></thead><tbody>';
+  data.rows.forEach(r => {
+    html += '<tr><td>' + (r.source || "(none)") + '</td><td class="num">' + fmt(r.leads) + '</td><td class="num">' + fmt(r.opportunities) + '</td></tr>';
+  });
+  html += '</tbody></table>';
+  target.innerHTML = html;
+}
+
+function renderQuarterlySalesperson(data) {
+  const target = document.getElementById("quarterlySalesperson");
+  if (!data || !data.rows || data.rows.length === 0) {
+    target.innerHTML = emptyMsg("No quarterly performance data yet.");
+    return;
+  }
+  let html = '<table><thead><tr><th>Sales Rep</th><th class="num">Opps Created</th><th class="num">Currently Open</th><th class="num">Lost</th><th class="num">Total Activities</th></tr></thead><tbody>';
+  data.rows.forEach(r => {
+    html += '<tr><td>' + r.name + '</td><td class="num">' + fmt(r.created) + '</td><td class="num">' + fmt(r.open) + '</td><td class="num">' + fmt(r.lost) + '</td><td class="num">' + fmt(r.activities) + '</td></tr>';
+  });
+  html += '</tbody></table>';
+  target.innerHTML = html;
+}
+</script>
+</body>
+</html>

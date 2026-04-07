@@ -1,0 +1,751 @@
+{
+  "generated_at": "2026-04-07 20:29 UTC",
+  "window_weekly": "Mar 31 \u2013 Apr 07, 2026",
+  "pipeline_opportunity": {
+    "pipelines": [
+      {
+        "name": "Commercial Sales",
+        "id": "UfxSyfg8CElw2kkh79hU",
+        "reps": [
+          {
+            "name": "Allison  Pasch",
+            "new": 5,
+            "moved": null,
+            "lost": 0,
+            "open": 6
+          },
+          {
+            "name": "Stefan Fulks",
+            "new": 0,
+            "moved": null,
+            "lost": 0,
+            "open": 1
+          }
+        ]
+      },
+      {
+        "name": "Residential Sales",
+        "id": "8beUyyP8wWSeZJiCjYqn",
+        "reps": [
+          {
+            "name": "Allison  Pasch",
+            "new": 1,
+            "moved": null,
+            "lost": 0,
+            "open": 1
+          },
+          {
+            "name": "Colin Corcoran",
+            "new": 6,
+            "moved": null,
+            "lost": 0,
+            "open": 35
+          },
+          {
+            "name": "Ivana Fulks",
+            "new": 0,
+            "moved": null,
+            "lost": 0,
+            "open": 3
+          },
+          {
+            "name": "Maddie Baird",
+            "new": 3,
+            "moved": null,
+            "lost": 1,
+            "open": 10
+          },
+          {
+            "name": "Unassigned",
+            "new": 3,
+            "moved": null,
+            "lost": 0,
+            "open": 3
+          }
+        ]
+      }
+    ]
+  },
+  "sales_activity_weekly": {
+    "rows": [
+      {
+        "name": "Allison  Pasch",
+        "calls": 0,
+        "sms": 0,
+        "emails": 0,
+        "appointments": 0
+      },
+      {
+        "name": "Blackwater AI",
+        "calls": 0,
+        "sms": 0,
+        "emails": 0,
+        "appointments": 0
+      },
+      {
+        "name": "Colin Corcoran",
+        "calls": 0,
+        "sms": 0,
+        "emails": 0,
+        "appointments": 0
+      },
+      {
+        "name": "Ivana Fulks",
+        "calls": 0,
+        "sms": 0,
+        "emails": 0,
+        "appointments": 0
+      },
+      {
+        "name": "Maddie Baird",
+        "calls": 0,
+        "sms": 0,
+        "emails": 0,
+        "appointments": 0
+      },
+      {
+        "name": "Matt Dickert",
+        "calls": 0,
+        "sms": 0,
+        "emails": 0,
+        "appointments": 0
+      },
+      {
+        "name": "Sales AGM",
+        "calls": 0,
+        "sms": 0,
+        "emails": 0,
+        "appointments": 0
+      },
+      {
+        "name": "Stefan Fulks",
+        "calls": 0,
+        "sms": 0,
+        "emails": 0,
+        "appointments": 0
+      },
+      {
+        "name": "Team TexasTurf",
+        "calls": 0,
+        "sms": 0,
+        "emails": 0,
+        "appointments": 0
+      },
+      {
+        "name": "Tia Osei",
+        "calls": 0,
+        "sms": 0,
+        "emails": 0,
+        "appointments": 0
+      },
+      {
+        "name": "Troy  Fulks",
+        "calls": 0,
+        "sms": 0,
+        "emails": 0,
+        "appointments": 0
+      }
+    ],
+    "_status": "pending \u2014 conversations API not yet wired"
+  },
+  "stale_opportunities": [
+    {
+      "name": "Austin Torisk",
+      "pipeline": "Residential Sales",
+      "stage": "Preliminary Quote",
+      "assigned": "Ivana Fulks",
+      "days_stale": 47
+    },
+    {
+      "name": "Maddison Homes Llc",
+      "pipeline": "Residential Sales",
+      "stage": "Two Way Conversation",
+      "assigned": "Ivana Fulks",
+      "days_stale": 47
+    },
+    {
+      "name": "Test Test",
+      "pipeline": "Residential Sales",
+      "stage": "Lead",
+      "assigned": "Ivana Fulks",
+      "days_stale": 41
+    },
+    {
+      "name": "Hector Gomez",
+      "pipeline": "Commercial Sales",
+      "stage": "Lead",
+      "assigned": "Stefan Fulks",
+      "days_stale": 40
+    },
+    {
+      "name": "Tran - TexasTurf Installation: Tesla Factory",
+      "pipeline": "Texas Turf Sales (TEST PIPELINE ONLY)",
+      "stage": "Follow-Up",
+      "assigned": "Unassigned",
+      "days_stale": 38
+    },
+    {
+      "name": "Jackson - The Jackson\u2019s Turf installation",
+      "pipeline": "Texas Turf Sales (TEST PIPELINE ONLY)",
+      "stage": "Follow-Up",
+      "assigned": "Colin Corcoran",
+      "days_stale": 38
+    },
+    {
+      "name": "Smith - Front yard Turf Installation",
+      "pipeline": "Texas Turf Sales (TEST PIPELINE ONLY)",
+      "stage": "Follow-Up",
+      "assigned": "Unassigned",
+      "days_stale": 38
+    },
+    {
+      "name": "Moore - Artificial Turf Installation",
+      "pipeline": "Texas Turf Sales (TEST PIPELINE ONLY)",
+      "stage": "Follow-Up",
+      "assigned": "Colin Corcoran",
+      "days_stale": 36
+    },
+    {
+      "name": "Khan - Turf Installation",
+      "pipeline": "Texas Turf Sales (TEST PIPELINE ONLY)",
+      "stage": "Follow-Up",
+      "assigned": "Colin Corcoran",
+      "days_stale": 35
+    },
+    {
+      "name": "Pettinati - The Pettinati\u2019s Pool Turf Installation",
+      "pipeline": "Texas Turf Sales (TEST PIPELINE ONLY)",
+      "stage": "Follow-Up",
+      "assigned": "Colin Corcoran",
+      "days_stale": 34
+    },
+    {
+      "name": "Mothana",
+      "pipeline": "Residential Sales",
+      "stage": "Two Way Conversation",
+      "assigned": "Maddie Baird",
+      "days_stale": 32
+    },
+    {
+      "name": "Ethan Morris",
+      "pipeline": "Residential Sales",
+      "stage": "Preliminary Quote",
+      "assigned": "Maddie Baird",
+      "days_stale": 32
+    },
+    {
+      "name": "Austin Plott",
+      "pipeline": "Residential Sales",
+      "stage": "Negotiation",
+      "assigned": "Colin Corcoran",
+      "days_stale": 32
+    },
+    {
+      "name": "Cecilia",
+      "pipeline": "Residential Sales",
+      "stage": "Negotiation",
+      "assigned": "Colin Corcoran",
+      "days_stale": 32
+    },
+    {
+      "name": "Alison Burrows",
+      "pipeline": "Residential Sales",
+      "stage": "Negotiation",
+      "assigned": "Colin Corcoran",
+      "days_stale": 32
+    },
+    {
+      "name": "Jieling Kuo",
+      "pipeline": "Residential Sales",
+      "stage": "Negotiation",
+      "assigned": "Colin Corcoran",
+      "days_stale": 32
+    },
+    {
+      "name": "Stuetelberg - Backyard Turf Installation",
+      "pipeline": "Texas Turf Sales (TEST PIPELINE ONLY)",
+      "stage": "Follow-Up",
+      "assigned": "Colin Corcoran",
+      "days_stale": 32
+    },
+    {
+      "name": "Jayakumar - Turf Installation",
+      "pipeline": "Texas Turf Sales (TEST PIPELINE ONLY)",
+      "stage": "Follow-Up",
+      "assigned": "Colin Corcoran",
+      "days_stale": 31
+    },
+    {
+      "name": "Morris - Turf Installation",
+      "pipeline": "Texas Turf Sales (TEST PIPELINE ONLY)",
+      "stage": "Follow-Up",
+      "assigned": "Maddie Baird",
+      "days_stale": 31
+    },
+    {
+      "name": "Test WF8 March",
+      "pipeline": "Residential Sales",
+      "stage": "Site Evaluation",
+      "assigned": "Maddie Baird",
+      "days_stale": 27
+    },
+    {
+      "name": "Gauntt - Gauntt's Backyard Turf Installation",
+      "pipeline": "Texas Turf Sales (TEST PIPELINE ONLY)",
+      "stage": "Quote Sent",
+      "assigned": "Colin Corcoran",
+      "days_stale": 27
+    },
+    {
+      "name": "Pena - The Pena's Turf Installation",
+      "pipeline": "Texas Turf Sales (TEST PIPELINE ONLY)",
+      "stage": "Quote Approved",
+      "assigned": "Colin Corcoran",
+      "days_stale": 27
+    },
+    {
+      "name": "Kay - 3612 Madrone Canyon - Yee Residence",
+      "pipeline": "Texas Turf Sales (TEST PIPELINE ONLY)",
+      "stage": "Quote Sent",
+      "assigned": "Unassigned",
+      "days_stale": 27
+    },
+    {
+      "name": "Krause - Turf and Rock Installation",
+      "pipeline": "Texas Turf Sales (TEST PIPELINE ONLY)",
+      "stage": "Quote Sent",
+      "assigned": "Colin Corcoran",
+      "days_stale": 26
+    },
+    {
+      "name": " - TexasTurf Installation: Bay Area Pet Adoption",
+      "pipeline": "Texas Turf Sales (TEST PIPELINE ONLY)",
+      "stage": "Follow-Up",
+      "assigned": "Ivana Fulks",
+      "days_stale": 26
+    },
+    {
+      "name": " - Turf Installation",
+      "pipeline": "Texas Turf Sales (TEST PIPELINE ONLY)",
+      "stage": "Follow-Up",
+      "assigned": "Colin Corcoran",
+      "days_stale": 26
+    },
+    {
+      "name": "Johnson - Integration Test Quote",
+      "pipeline": "Texas Turf Sales (TEST PIPELINE ONLY)",
+      "stage": "Quote Approved",
+      "assigned": "Unassigned",
+      "days_stale": 24
+    },
+    {
+      "name": "Do Yall Have Banana Magnolia Trees",
+      "pipeline": "Residential Sales",
+      "stage": "Lead",
+      "assigned": "Maddie Baird",
+      "days_stale": 22
+    },
+    {
+      "name": "Liz Beverding",
+      "pipeline": "Residential Sales",
+      "stage": "Two Way Conversation",
+      "assigned": "Maddie Baird",
+      "days_stale": 22
+    },
+    {
+      "name": "Matt Krause",
+      "pipeline": "Residential Sales",
+      "stage": "Quote Sent",
+      "assigned": "Colin Corcoran",
+      "days_stale": 22
+    },
+    {
+      "name": "Jordyn Gauntt",
+      "pipeline": "Residential Sales",
+      "stage": "Quote Sent",
+      "assigned": "Colin Corcoran",
+      "days_stale": 22
+    },
+    {
+      "name": "Ric Pena",
+      "pipeline": "Residential Sales",
+      "stage": "Quote Approved - Won",
+      "assigned": "Colin Corcoran",
+      "days_stale": 22
+    },
+    {
+      "name": "Ashley Johnson",
+      "pipeline": "Residential Sales",
+      "stage": "Quote Approved - Won",
+      "assigned": "Colin Corcoran",
+      "days_stale": 22
+    },
+    {
+      "name": "Andrew Moore",
+      "pipeline": "Residential Sales",
+      "stage": "Quote Approved - Won",
+      "assigned": "Colin Corcoran",
+      "days_stale": 22
+    },
+    {
+      "name": "Katherine Lewis",
+      "pipeline": "Residential Sales",
+      "stage": "Lead",
+      "assigned": "Maddie Baird",
+      "days_stale": 20
+    },
+    {
+      "name": "Drew Zoromsky",
+      "pipeline": "Residential Sales",
+      "stage": "Quote Approved - Won",
+      "assigned": "Colin Corcoran",
+      "days_stale": 20
+    },
+    {
+      "name": "Solorio - Backyard Turf Installation",
+      "pipeline": "Texas Turf Sales (TEST PIPELINE ONLY)",
+      "stage": "Quote Sent",
+      "assigned": "Colin Corcoran",
+      "days_stale": 20
+    },
+    {
+      "name": "AGM Integration - AGM Integration Test - Mar 9 2026",
+      "pipeline": "Texas Turf Sales (TEST PIPELINE ONLY)",
+      "stage": "Quote Approved",
+      "assigned": "Unassigned",
+      "days_stale": 20
+    },
+    {
+      "name": "Laramore - TexasTurf Installation: Gabriel Mills Dr",
+      "pipeline": "Texas Turf Sales (TEST PIPELINE ONLY)",
+      "stage": "Quote Sent",
+      "assigned": "Unassigned",
+      "days_stale": 19
+    },
+    {
+      "name": "Irons - Turf Installation",
+      "pipeline": "Texas Turf Sales (TEST PIPELINE ONLY)",
+      "stage": "Quote Approved",
+      "assigned": "Unassigned",
+      "days_stale": 19
+    },
+    {
+      "name": "Kuchinsky - Quote #5629",
+      "pipeline": "Texas Turf Sales (TEST PIPELINE ONLY)",
+      "stage": "Quote Approved",
+      "assigned": "Colin Corcoran",
+      "days_stale": 18
+    },
+    {
+      "name": "Donoghue - Backyard Turf Installation",
+      "pipeline": "Texas Turf Sales (TEST PIPELINE ONLY)",
+      "stage": "Quote Sent",
+      "assigned": "Colin Corcoran",
+      "days_stale": 18
+    },
+    {
+      "name": "Kelso - AGL Grass Turf Installation",
+      "pipeline": "Texas Turf Sales (TEST PIPELINE ONLY)",
+      "stage": "Quote Sent",
+      "assigned": "Colin Corcoran",
+      "days_stale": 18
+    },
+    {
+      "name": "Dube - TexasTurf Installation",
+      "pipeline": "Texas Turf Sales (TEST PIPELINE ONLY)",
+      "stage": "Quote Sent",
+      "assigned": "Unassigned",
+      "days_stale": 18
+    },
+    {
+      "name": "Dawdy - Turf Installation",
+      "pipeline": "Texas Turf Sales (TEST PIPELINE ONLY)",
+      "stage": "Quote Sent",
+      "assigned": "Colin Corcoran",
+      "days_stale": 18
+    },
+    {
+      "name": "Evan Wallace",
+      "pipeline": "Residential Sales",
+      "stage": "Site Evaluation",
+      "assigned": "Colin Corcoran",
+      "days_stale": 15
+    },
+    {
+      "name": "Isaac - TexasTurf Installation",
+      "pipeline": "Texas Turf Sales (TEST PIPELINE ONLY)",
+      "stage": "Quote Sent",
+      "assigned": "Ivana Fulks",
+      "days_stale": 15
+    },
+    {
+      "name": "Gina Donoghue",
+      "pipeline": "Residential Sales",
+      "stage": "Quote Sent",
+      "assigned": "Colin Corcoran",
+      "days_stale": 14
+    },
+    {
+      "name": "Dorothy Kelso",
+      "pipeline": "Residential Sales",
+      "stage": "Quote Sent",
+      "assigned": "Colin Corcoran",
+      "days_stale": 14
+    },
+    {
+      "name": "Michael Dawdy",
+      "pipeline": "Residential Sales",
+      "stage": "Quote Sent",
+      "assigned": "Colin Corcoran",
+      "days_stale": 14
+    },
+    {
+      "name": "Alvil Singh",
+      "pipeline": "Residential Sales",
+      "stage": "Quote Sent",
+      "assigned": "Colin Corcoran",
+      "days_stale": 14
+    },
+    {
+      "name": "Luis Solorio",
+      "pipeline": "Residential Sales",
+      "stage": "Quote Sent",
+      "assigned": "Colin Corcoran",
+      "days_stale": 14
+    },
+    {
+      "name": "James Lamarche",
+      "pipeline": "Residential Sales",
+      "stage": "Quote Sent",
+      "assigned": "Colin Corcoran",
+      "days_stale": 14
+    },
+    {
+      "name": "Sidhya Jayakumar",
+      "pipeline": "Residential Sales",
+      "stage": "Quote Approved - Won",
+      "assigned": "Colin Corcoran",
+      "days_stale": 14
+    },
+    {
+      "name": "Katie Khan",
+      "pipeline": "Residential Sales",
+      "stage": "Quote Sent",
+      "assigned": "Colin Corcoran",
+      "days_stale": 14
+    },
+    {
+      "name": "Georgia Moreland",
+      "pipeline": "Residential Sales",
+      "stage": "Quote Sent",
+      "assigned": "Colin Corcoran",
+      "days_stale": 14
+    },
+    {
+      "name": "Bambi Kaminski",
+      "pipeline": "Residential Sales",
+      "stage": "Site Evaluation",
+      "assigned": "Colin Corcoran",
+      "days_stale": 13
+    },
+    {
+      "name": "Paul Ruiz",
+      "pipeline": "Residential Sales",
+      "stage": "Site Evaluation",
+      "assigned": "Colin Corcoran",
+      "days_stale": 13
+    },
+    {
+      "name": "Bedford - Bedford's Backyard Project",
+      "pipeline": "Texas Turf Sales (TEST PIPELINE ONLY)",
+      "stage": "Quote Approved",
+      "assigned": "Colin Corcoran",
+      "days_stale": 13
+    },
+    {
+      "name": "Dukes - Artificial Turf Installation Project ",
+      "pipeline": "Texas Turf Sales (TEST PIPELINE ONLY)",
+      "stage": "Quote Sent",
+      "assigned": "Allison  Pasch",
+      "days_stale": 13
+    },
+    {
+      "name": "Evan Harrison",
+      "pipeline": "Residential Sales",
+      "stage": "Two Way Conversation",
+      "assigned": "Maddie Baird",
+      "days_stale": 11
+    },
+    {
+      "name": "Shane Lekwa",
+      "pipeline": "Residential Sales",
+      "stage": "Lead",
+      "assigned": "Maddie Baird",
+      "days_stale": 10
+    },
+    {
+      "name": "Kiran Kamboj",
+      "pipeline": "Residential Sales",
+      "stage": "Site Evaluation",
+      "assigned": "Colin Corcoran",
+      "days_stale": 8
+    },
+    {
+      "name": "Roy Disano",
+      "pipeline": "Residential Sales",
+      "stage": "Quote Approved - Won",
+      "assigned": "Colin Corcoran",
+      "days_stale": 8
+    },
+    {
+      "name": "Sunshine Amenity",
+      "pipeline": "Commercial Sales",
+      "stage": "Bid Submitted",
+      "assigned": "Allison  Pasch",
+      "days_stale": 7
+    },
+    {
+      "name": "Sam Ehlinger",
+      "pipeline": "Residential Sales",
+      "stage": "Site Evaluation",
+      "assigned": "Colin Corcoran",
+      "days_stale": 7
+    }
+  ],
+  "monthly_lead_source": {
+    "rows": [],
+    "_status": "pending \u2014 lead source aggregation not yet wired"
+  },
+  "monthly_sales_activity": {
+    "rows": [
+      {
+        "name": "Allison  Pasch",
+        "calls": 0,
+        "sms": 0,
+        "emails": 0,
+        "appointments": 0
+      },
+      {
+        "name": "Blackwater AI",
+        "calls": 0,
+        "sms": 0,
+        "emails": 0,
+        "appointments": 0
+      },
+      {
+        "name": "Colin Corcoran",
+        "calls": 0,
+        "sms": 0,
+        "emails": 0,
+        "appointments": 0
+      },
+      {
+        "name": "Ivana Fulks",
+        "calls": 0,
+        "sms": 0,
+        "emails": 0,
+        "appointments": 0
+      },
+      {
+        "name": "Maddie Baird",
+        "calls": 0,
+        "sms": 0,
+        "emails": 0,
+        "appointments": 0
+      },
+      {
+        "name": "Matt Dickert",
+        "calls": 0,
+        "sms": 0,
+        "emails": 0,
+        "appointments": 0
+      },
+      {
+        "name": "Sales AGM",
+        "calls": 0,
+        "sms": 0,
+        "emails": 0,
+        "appointments": 0
+      },
+      {
+        "name": "Stefan Fulks",
+        "calls": 0,
+        "sms": 0,
+        "emails": 0,
+        "appointments": 0
+      },
+      {
+        "name": "Team TexasTurf",
+        "calls": 0,
+        "sms": 0,
+        "emails": 0,
+        "appointments": 0
+      },
+      {
+        "name": "Tia Osei",
+        "calls": 0,
+        "sms": 0,
+        "emails": 0,
+        "appointments": 0
+      },
+      {
+        "name": "Troy  Fulks",
+        "calls": 0,
+        "sms": 0,
+        "emails": 0,
+        "appointments": 0
+      }
+    ],
+    "_status": "pending \u2014 conversations API not yet wired"
+  },
+  "quarterly_lead_source": {
+    "rows": [],
+    "_status": "pending \u2014 lead source aggregation not yet wired"
+  },
+  "quarterly_salesperson": {
+    "rows": [
+      {
+        "name": "Allison  Pasch",
+        "created": 6,
+        "open": 9,
+        "lost": 0,
+        "activities": 0
+      },
+      {
+        "name": "Colin Corcoran",
+        "created": 5,
+        "open": 51,
+        "lost": 3,
+        "activities": 0
+      },
+      {
+        "name": "Ivana Fulks",
+        "created": 0,
+        "open": 5,
+        "lost": 0,
+        "activities": 0
+      },
+      {
+        "name": "Maddie Baird",
+        "created": 3,
+        "open": 11,
+        "lost": 3,
+        "activities": 0
+      },
+      {
+        "name": "Stefan Fulks",
+        "created": 0,
+        "open": 1,
+        "lost": 0,
+        "activities": 0
+      },
+      {
+        "name": "Unassigned",
+        "created": 3,
+        "open": 11,
+        "lost": 0,
+        "activities": 0
+      }
+    ]
+  }
+}
