@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-13 17:05 UTC",
+  "generated_at": "2026-04-13 17:08 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -1962,6 +1962,13 @@
       "stage": "Quote Sent",
       "assigned": "Colin Corcoran",
       "days_stale": 7
+    },
+    {
+      "name": "Westfall - Backyard Turf Installation",
+      "pipeline": "Residential Sales",
+      "stage": "Quote Sent",
+      "assigned": "Colin Corcoran",
+      "days_stale": 7
     }
   ],
   "monthly_lead_source": {
@@ -2247,8 +2254,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-04-06T17:04:03.199419+00:00",
-      "window_end": "2026-04-13T17:04:03.199419+00:00",
+      "window_start": "2026-04-06T17:07:48.922750+00:00",
+      "window_end": "2026-04-13T17:07:48.922750+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -2480,8 +2487,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-03-14T17:04:03.199419+00:00",
-      "window_end": "2026-04-13T17:04:03.199419+00:00",
+      "window_start": "2026-03-14T17:07:48.922750+00:00",
+      "window_end": "2026-04-13T17:07:48.922750+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -2749,7 +2756,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-04-13T17:04:03.199419+00:00",
+      "window_end": "2026-04-13T17:07:48.922750+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3007,7 +3014,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-04-13T17:04:03.199419+00:00",
+      "window_end": "2026-04-13T17:07:48.922750+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
