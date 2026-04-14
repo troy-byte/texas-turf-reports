@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14 16:03 UTC",
+  "generated_at": "2026-04-14 18:03 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -527,7 +527,7 @@
       "stagePos": 2,
       "source": "Cold Call/Lunch and Learn",
       "created": "2026-04-02",
-      "days": 11
+      "days": 12
     },
     {
       "id": "qKy4MI00CzS1qKk7UODD",
@@ -557,7 +557,37 @@
       "stagePos": 0,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-02-25",
-      "days": 47
+      "days": 48
+    },
+    {
+      "id": "0wR8Ir4N4IwmyYIpFXOL",
+      "name": "Janetlee Staples",
+      "contactId": "bU9LxjsYXDQnhgyDFT2Q",
+      "value": 0,
+      "status": "open",
+      "assignedTo": "zl0MRdX7dfeqO8uHDA1k",
+      "region": "Residential Sales",
+      "pipelineId": "8beUyyP8wWSeZJiCjYqn",
+      "stage": "Site Evaluation",
+      "stagePos": 3,
+      "source": null,
+      "created": "2026-04-14",
+      "days": 0
+    },
+    {
+      "id": "Gwy89Bo3MAtrxlxvJCn4",
+      "name": "Kay Lin Nelson",
+      "contactId": "l3RTsBrMnoNT9CxAzrUE",
+      "value": 0,
+      "status": "open",
+      "assignedTo": "zl0MRdX7dfeqO8uHDA1k",
+      "region": "Residential Sales",
+      "pipelineId": "8beUyyP8wWSeZJiCjYqn",
+      "stage": "Site Evaluation",
+      "stagePos": 3,
+      "source": "website",
+      "created": "2026-04-14",
+      "days": 0
     },
     {
       "id": "2gn5H8hR3Z5w15P7YQvL",
@@ -812,7 +842,7 @@
       "stagePos": 3,
       "source": null,
       "created": "2026-04-07",
-      "days": 6
+      "days": 7
     },
     {
       "id": "QE9ZC7ewACrDO0gK4y8I",
@@ -932,7 +962,7 @@
       "stagePos": 5,
       "source": null,
       "created": "2026-04-01",
-      "days": 12
+      "days": 13
     },
     {
       "id": "ZziAml94SZI1X1UN5NJs",
@@ -962,7 +992,7 @@
       "stagePos": 5,
       "source": null,
       "created": "2026-03-30",
-      "days": 14
+      "days": 15
     },
     {
       "id": "27xtxeqvLydM8QOxzfAj",
@@ -1052,7 +1082,7 @@
       "stagePos": 3,
       "source": "SMS",
       "created": "2026-03-25",
-      "days": 19
+      "days": 20
     },
     {
       "id": "fvxdWhCG3zXN2vEfVhpD",
@@ -1097,7 +1127,7 @@
       "stagePos": 0,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-24",
-      "days": 20
+      "days": 21
     },
     {
       "id": "MkcEDADKoD7o7pUWo0CO",
@@ -1142,7 +1172,7 @@
       "stagePos": 5,
       "source": null,
       "created": "2026-03-18",
-      "days": 26
+      "days": 27
     },
     {
       "id": "d48xYGEcxJFSWpUXLmhQ",
@@ -1232,7 +1262,7 @@
       "stagePos": 5,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-11",
-      "days": 33
+      "days": 34
     },
     {
       "id": "3QExsdMSHdoSVnfXXv0O",
@@ -1307,7 +1337,7 @@
       "stagePos": 5,
       "source": "SMS",
       "created": "2026-03-05",
-      "days": 39
+      "days": 40
     },
     {
       "id": "866yE4njoeLS3hQbe3yu",
@@ -1412,7 +1442,7 @@
       "stagePos": 2,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-02-26",
-      "days": 46
+      "days": 47
     },
     {
       "id": "gL8jnK5GXVWSOXhdgb3U",
@@ -1472,7 +1502,7 @@
       "stagePos": 6,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-02-22",
-      "days": 50
+      "days": 51
     },
     {
       "id": "alGTmTMv4RvNorTTr6vo",
@@ -1532,7 +1562,7 @@
       "stagePos": 1,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-02-19",
-      "days": 53
+      "days": 54
     },
     {
       "id": "iFeW01S3JUzF10esnHyQ",
@@ -1631,10 +1661,10 @@
           },
           {
             "name": "Colin Corcoran",
-            "new": 3,
+            "new": 4,
             "moved": 2,
             "lost": 0,
-            "open": 35
+            "open": 37
           },
           {
             "name": "Ivana Fulks",
@@ -1666,8 +1696,8 @@
       {
         "name": "Allison  Pasch",
         "calls": 0,
-        "sms": 24,
-        "emails": 4,
+        "sms": 28,
+        "emails": 8,
         "appointments": 0
       },
       {
@@ -1680,21 +1710,21 @@
       {
         "name": "Colin Corcoran",
         "calls": 0,
-        "sms": 132,
+        "sms": 144,
         "emails": 4,
         "appointments": 0
       },
       {
         "name": "Ivana Fulks",
         "calls": 4,
-        "sms": 44,
+        "sms": 40,
         "emails": 0,
         "appointments": 0
       },
       {
         "name": "Maddie Baird",
-        "calls": 92,
-        "sms": 172,
+        "calls": 88,
+        "sms": 168,
         "emails": 16,
         "appointments": 0
       },
@@ -1769,42 +1799,42 @@
       "pipeline": "Residential Sales",
       "stage": "Two Way Conversation",
       "assigned": "Maddie Baird",
-      "days_stale": 38
+      "days_stale": 39
     },
     {
       "name": "Ethan Morris",
       "pipeline": "Residential Sales",
       "stage": "Preliminary Quote",
       "assigned": "Maddie Baird",
-      "days_stale": 38
+      "days_stale": 39
     },
     {
       "name": "Austin Plott",
       "pipeline": "Residential Sales",
       "stage": "Negotiation",
       "assigned": "Colin Corcoran",
-      "days_stale": 38
+      "days_stale": 39
     },
     {
       "name": "Cecilia",
       "pipeline": "Residential Sales",
       "stage": "Negotiation",
       "assigned": "Colin Corcoran",
-      "days_stale": 38
+      "days_stale": 39
     },
     {
       "name": "Alison Burrows",
       "pipeline": "Residential Sales",
       "stage": "Negotiation",
       "assigned": "Colin Corcoran",
-      "days_stale": 38
+      "days_stale": 39
     },
     {
       "name": "Jieling Kuo",
       "pipeline": "Residential Sales",
       "stage": "Negotiation",
       "assigned": "Colin Corcoran",
-      "days_stale": 38
+      "days_stale": 39
     },
     {
       "name": "Do Yall Have Banana Magnolia Trees",
@@ -1930,7 +1960,7 @@
       "pipeline": "Residential Sales",
       "stage": "Site Evaluation",
       "assigned": "Colin Corcoran",
-      "days_stale": 19
+      "days_stale": 20
     },
     {
       "name": "Evan Harrison",
@@ -2010,10 +2040,31 @@
       "days_stale": 8
     },
     {
+      "name": "Valdovinos - Backyard Artificial Turf Installation",
+      "pipeline": "Residential Sales",
+      "stage": "Quote Sent",
+      "assigned": "Colin Corcoran",
+      "days_stale": 8
+    },
+    {
+      "name": "Westfall - Backyard Turf Installation",
+      "pipeline": "Residential Sales",
+      "stage": "Quote Sent",
+      "assigned": "Colin Corcoran",
+      "days_stale": 8
+    },
+    {
       "name": "Reconnect with SEC Planning",
       "pipeline": "Commercial Sales",
       "stage": "Two Way Conversation",
       "assigned": "Allison  Pasch",
+      "days_stale": 7
+    },
+    {
+      "name": "Frank Cacci",
+      "pipeline": "Residential Sales",
+      "stage": "Site Evaluation",
+      "assigned": "Colin Corcoran",
       "days_stale": 7
     },
     {
@@ -2036,32 +2087,18 @@
       "stage": "Quote Sent",
       "assigned": "Colin Corcoran",
       "days_stale": 7
-    },
-    {
-      "name": "Valdovinos - Backyard Artificial Turf Installation",
-      "pipeline": "Residential Sales",
-      "stage": "Quote Sent",
-      "assigned": "Colin Corcoran",
-      "days_stale": 7
-    },
-    {
-      "name": "Westfall - Backyard Turf Installation",
-      "pipeline": "Residential Sales",
-      "stage": "Quote Sent",
-      "assigned": "Colin Corcoran",
-      "days_stale": 7
     }
   ],
   "monthly_lead_source": {
     "rows": [
       {
         "source": "(none)",
-        "leads": 75,
-        "opportunities": 23
+        "leads": 76,
+        "opportunities": 24
       },
       {
         "source": "SMS",
-        "leads": 25,
+        "leads": 26,
         "opportunities": 2
       },
       {
@@ -2120,6 +2157,11 @@
         "opportunities": 1
       },
       {
+        "source": "website",
+        "leads": 0,
+        "opportunities": 1
+      },
+      {
         "source": "Lou- Above All Landscaping client referral",
         "leads": 0,
         "opportunities": 1
@@ -2130,15 +2172,15 @@
         "opportunities": 1
       }
     ],
-    "total_contacts": 144
+    "total_contacts": 146
   },
   "monthly_sales_activity": {
     "rows": [
       {
         "name": "Allison  Pasch",
         "calls": 4,
-        "sms": 24,
-        "emails": 4,
+        "sms": 28,
+        "emails": 8,
         "appointments": 0
       },
       {
@@ -2151,21 +2193,21 @@
       {
         "name": "Colin Corcoran",
         "calls": 16,
-        "sms": 460,
-        "emails": 52,
+        "sms": 444,
+        "emails": 48,
         "appointments": 0
       },
       {
         "name": "Ivana Fulks",
         "calls": 24,
-        "sms": 120,
+        "sms": 116,
         "emails": 0,
         "appointments": 0
       },
       {
         "name": "Maddie Baird",
         "calls": 164,
-        "sms": 416,
+        "sms": 404,
         "emails": 48,
         "appointments": 0
       },
@@ -2217,12 +2259,12 @@
     "rows": [
       {
         "source": "(none)",
-        "leads": 32,
-        "opportunities": 16
+        "leads": 33,
+        "opportunities": 17
       },
       {
         "source": "SMS",
-        "leads": 11,
+        "leads": 12,
         "opportunities": 1
       },
       {
@@ -2276,6 +2318,11 @@
         "opportunities": 1
       },
       {
+        "source": "website",
+        "leads": 0,
+        "opportunities": 1
+      },
+      {
         "source": "Lou- Above All Landscaping client referral",
         "leads": 0,
         "opportunities": 1
@@ -2286,7 +2333,7 @@
         "opportunities": 1
       }
     ],
-    "total_contacts": 63
+    "total_contacts": 65
   },
   "quarterly_salesperson": {
     "rows": [
@@ -2299,8 +2346,8 @@
       },
       {
         "name": "Colin Corcoran",
-        "created": 7,
-        "open": 35,
+        "created": 9,
+        "open": 37,
         "lost": 3,
         "activities": 0
       },
@@ -2330,8 +2377,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-04-07T16:00:08.122872+00:00",
-      "window_end": "2026-04-14T16:00:08.122872+00:00",
+      "window_start": "2026-04-07T18:00:10.654657+00:00",
+      "window_end": "2026-04-14T18:00:10.654657+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -2367,10 +2414,10 @@
               },
               {
                 "name": "Colin Corcoran",
-                "new": 3,
+                "new": 4,
                 "moved": 2,
                 "lost": 0,
-                "open": 35
+                "open": 37
               },
               {
                 "name": "Ivana Fulks",
@@ -2402,8 +2449,8 @@
           {
             "name": "Allison  Pasch",
             "calls": 0,
-            "sms": 24,
-            "emails": 4,
+            "sms": 28,
+            "emails": 8,
             "appointments": 0
           },
           {
@@ -2416,21 +2463,21 @@
           {
             "name": "Colin Corcoran",
             "calls": 0,
-            "sms": 132,
+            "sms": 144,
             "emails": 4,
             "appointments": 0
           },
           {
             "name": "Ivana Fulks",
             "calls": 4,
-            "sms": 44,
+            "sms": 40,
             "emails": 0,
             "appointments": 0
           },
           {
             "name": "Maddie Baird",
-            "calls": 92,
-            "sms": 172,
+            "calls": 88,
+            "sms": 168,
             "emails": 16,
             "appointments": 0
           },
@@ -2521,6 +2568,11 @@
             "opportunities": 2
           },
           {
+            "source": "website",
+            "leads": 0,
+            "opportunities": 1
+          },
+          {
             "source": "Lou- Above All Landscaping client referral",
             "leads": 0,
             "opportunities": 1
@@ -2539,10 +2591,10 @@
           },
           {
             "name": "Colin Corcoran",
-            "created": 3,
-            "open": 35,
+            "created": 4,
+            "open": 37,
             "lost": 3,
-            "activities": 3
+            "activities": 4
           },
           {
             "name": "Ivana Fulks",
@@ -2570,8 +2622,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-03-15T16:00:08.122872+00:00",
-      "window_end": "2026-04-14T16:00:08.122872+00:00",
+      "window_start": "2026-03-15T18:00:10.654657+00:00",
+      "window_end": "2026-04-14T18:00:10.654657+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -2607,10 +2659,10 @@
               },
               {
                 "name": "Colin Corcoran",
-                "new": 19,
+                "new": 21,
                 "moved": 2,
                 "lost": 3,
-                "open": 35
+                "open": 37
               },
               {
                 "name": "Ivana Fulks",
@@ -2642,8 +2694,8 @@
           {
             "name": "Allison  Pasch",
             "calls": 4,
-            "sms": 24,
-            "emails": 4,
+            "sms": 28,
+            "emails": 8,
             "appointments": 0
           },
           {
@@ -2656,21 +2708,21 @@
           {
             "name": "Colin Corcoran",
             "calls": 16,
-            "sms": 460,
-            "emails": 52,
+            "sms": 444,
+            "emails": 48,
             "appointments": 0
           },
           {
             "name": "Ivana Fulks",
             "calls": 24,
-            "sms": 120,
+            "sms": 116,
             "emails": 0,
             "appointments": 0
           },
           {
             "name": "Maddie Baird",
             "calls": 164,
-            "sms": 416,
+            "sms": 404,
             "emails": 48,
             "appointments": 0
           },
@@ -2722,12 +2774,12 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 75,
-            "opportunities": 23
+            "leads": 76,
+            "opportunities": 24
           },
           {
             "source": "SMS",
-            "leads": 25,
+            "leads": 26,
             "opportunities": 2
           },
           {
@@ -2786,6 +2838,11 @@
             "opportunities": 1
           },
           {
+            "source": "website",
+            "leads": 0,
+            "opportunities": 1
+          },
+          {
             "source": "Lou- Above All Landscaping client referral",
             "leads": 0,
             "opportunities": 1
@@ -2796,7 +2853,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 144
+        "total_contacts": 146
       },
       "salesperson": {
         "rows": [
@@ -2809,10 +2866,10 @@
           },
           {
             "name": "Colin Corcoran",
-            "created": 19,
-            "open": 35,
+            "created": 21,
+            "open": 37,
             "lost": 3,
-            "activities": 19
+            "activities": 21
           },
           {
             "name": "Ivana Fulks",
@@ -2841,7 +2898,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-04-14T16:00:08.122872+00:00",
+      "window_end": "2026-04-14T18:00:10.654657+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -2877,10 +2934,10 @@
               },
               {
                 "name": "Colin Corcoran",
-                "new": 7,
+                "new": 9,
                 "moved": 2,
                 "lost": 0,
-                "open": 35
+                "open": 37
               },
               {
                 "name": "Ivana Fulks",
@@ -2912,8 +2969,8 @@
           {
             "name": "Allison  Pasch",
             "calls": 4,
-            "sms": 24,
-            "emails": 4,
+            "sms": 28,
+            "emails": 8,
             "appointments": 0
           },
           {
@@ -2926,21 +2983,21 @@
           {
             "name": "Colin Corcoran",
             "calls": 16,
-            "sms": 336,
+            "sms": 356,
             "emails": 32,
             "appointments": 0
           },
           {
             "name": "Ivana Fulks",
             "calls": 16,
-            "sms": 120,
+            "sms": 116,
             "emails": 0,
             "appointments": 0
           },
           {
             "name": "Maddie Baird",
             "calls": 116,
-            "sms": 280,
+            "sms": 276,
             "emails": 28,
             "appointments": 0
           },
@@ -2992,12 +3049,12 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 32,
-            "opportunities": 16
+            "leads": 33,
+            "opportunities": 17
           },
           {
             "source": "SMS",
-            "leads": 11,
+            "leads": 12,
             "opportunities": 1
           },
           {
@@ -3051,6 +3108,11 @@
             "opportunities": 1
           },
           {
+            "source": "website",
+            "leads": 0,
+            "opportunities": 1
+          },
+          {
             "source": "Lou- Above All Landscaping client referral",
             "leads": 0,
             "opportunities": 1
@@ -3061,7 +3123,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 63
+        "total_contacts": 65
       },
       "salesperson": {
         "rows": [
@@ -3074,10 +3136,10 @@
           },
           {
             "name": "Colin Corcoran",
-            "created": 7,
-            "open": 35,
+            "created": 9,
+            "open": 37,
             "lost": 3,
-            "activities": 7
+            "activities": 9
           },
           {
             "name": "Ivana Fulks",
@@ -3106,7 +3168,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-04-14T16:00:08.122872+00:00",
+      "window_end": "2026-04-14T18:00:10.654657+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3142,10 +3204,10 @@
               },
               {
                 "name": "Colin Corcoran",
-                "new": 40,
+                "new": 42,
                 "moved": 2,
                 "lost": 3,
-                "open": 35
+                "open": 37
               },
               {
                 "name": "Ivana Fulks",
@@ -3177,8 +3239,8 @@
           {
             "name": "Allison  Pasch",
             "calls": 4,
-            "sms": 24,
-            "emails": 4,
+            "sms": 28,
+            "emails": 8,
             "appointments": 0
           },
           {
@@ -3191,21 +3253,21 @@
           {
             "name": "Colin Corcoran",
             "calls": 28,
-            "sms": 656,
-            "emails": 68,
+            "sms": 640,
+            "emails": 64,
             "appointments": 0
           },
           {
             "name": "Ivana Fulks",
             "calls": 44,
-            "sms": 276,
+            "sms": 272,
             "emails": 0,
             "appointments": 0
           },
           {
             "name": "Maddie Baird",
             "calls": 268,
-            "sms": 628,
+            "sms": 616,
             "emails": 56,
             "appointments": 0
           },
@@ -3257,12 +3319,12 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 238,
-            "opportunities": 28
+            "leads": 239,
+            "opportunities": 29
           },
           {
             "source": "SMS",
-            "leads": 75,
+            "leads": 76,
             "opportunities": 7
           },
           {
@@ -3341,6 +3403,11 @@
             "opportunities": 1
           },
           {
+            "source": "website",
+            "leads": 0,
+            "opportunities": 1
+          },
+          {
             "source": "Lou- Above All Landscaping client referral",
             "leads": 0,
             "opportunities": 1
@@ -3351,7 +3418,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 412
+        "total_contacts": 414
       },
       "salesperson": {
         "rows": [
@@ -3364,10 +3431,10 @@
           },
           {
             "name": "Colin Corcoran",
-            "created": 40,
-            "open": 35,
+            "created": 42,
+            "open": 37,
             "lost": 3,
-            "activities": 40
+            "activities": 42
           },
           {
             "name": "Ivana Fulks",
