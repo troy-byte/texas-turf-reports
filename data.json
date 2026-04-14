@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14 12:02 UTC",
+  "generated_at": "2026-04-14 14:03 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -1277,7 +1277,7 @@
       "stagePos": 5,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-09",
-      "days": 35
+      "days": 36
     },
     {
       "id": "T9Yrbop6Hr5td1eYKRPZ",
@@ -1694,7 +1694,7 @@
       {
         "name": "Maddie Baird",
         "calls": 80,
-        "sms": 184,
+        "sms": 180,
         "emails": 20,
         "appointments": 0
       },
@@ -2068,7 +2068,7 @@
       },
       {
         "source": "SMS",
-        "leads": 24,
+        "leads": 25,
         "opportunities": 2
       },
       {
@@ -2137,7 +2137,7 @@
         "opportunities": 1
       }
     ],
-    "total_contacts": 142
+    "total_contacts": 143
   },
   "monthly_sales_activity": {
     "rows": [
@@ -2229,7 +2229,7 @@
       },
       {
         "source": "SMS",
-        "leads": 10,
+        "leads": 11,
         "opportunities": 1
       },
       {
@@ -2293,7 +2293,7 @@
         "opportunities": 1
       }
     ],
-    "total_contacts": 61
+    "total_contacts": 62
   },
   "quarterly_salesperson": {
     "rows": [
@@ -2344,8 +2344,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-04-07T12:00:09.312255+00:00",
-      "window_end": "2026-04-14T12:00:09.312255+00:00",
+      "window_start": "2026-04-07T14:00:09.259385+00:00",
+      "window_end": "2026-04-14T14:00:09.259385+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -2444,7 +2444,7 @@
           {
             "name": "Maddie Baird",
             "calls": 80,
-            "sms": 184,
+            "sms": 180,
             "emails": 20,
             "appointments": 0
           },
@@ -2500,6 +2500,11 @@
             "opportunities": 11
           },
           {
+            "source": "SMS",
+            "leads": 4,
+            "opportunities": 1
+          },
+          {
             "source": "Quote Inquiry Form Website",
             "leads": 5,
             "opportunities": 0
@@ -2508,11 +2513,6 @@
             "source": "Webform - TexasTurf USA website",
             "leads": 0,
             "opportunities": 5
-          },
-          {
-            "source": "SMS",
-            "leads": 3,
-            "opportunities": 1
           },
           {
             "source": "chat widget",
@@ -2540,7 +2540,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 32
+        "total_contacts": 33
       },
       "salesperson": {
         "rows": [
@@ -2591,8 +2591,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-03-15T12:00:09.312255+00:00",
-      "window_end": "2026-04-14T12:00:09.312255+00:00",
+      "window_start": "2026-03-15T14:00:09.259385+00:00",
+      "window_end": "2026-04-14T14:00:09.259385+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -2748,7 +2748,7 @@
           },
           {
             "source": "SMS",
-            "leads": 24,
+            "leads": 25,
             "opportunities": 2
           },
           {
@@ -2817,7 +2817,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 142
+        "total_contacts": 143
       },
       "salesperson": {
         "rows": [
@@ -2869,7 +2869,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-04-14T12:00:09.312255+00:00",
+      "window_end": "2026-04-14T14:00:09.259385+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3025,7 +3025,7 @@
           },
           {
             "source": "SMS",
-            "leads": 10,
+            "leads": 11,
             "opportunities": 1
           },
           {
@@ -3089,7 +3089,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 61
+        "total_contacts": 62
       },
       "salesperson": {
         "rows": [
@@ -3141,7 +3141,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-04-14T12:00:09.312255+00:00",
+      "window_end": "2026-04-14T14:00:09.259385+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3297,7 +3297,7 @@
           },
           {
             "source": "SMS",
-            "leads": 74,
+            "leads": 75,
             "opportunities": 7
           },
           {
@@ -3386,7 +3386,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 410
+        "total_contacts": 411
       },
       "salesperson": {
         "rows": [
