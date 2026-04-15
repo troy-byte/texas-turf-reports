@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-14 22:02 UTC",
+  "generated_at": "2026-04-15 00:02 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -692,7 +692,7 @@
       "stagePos": 7,
       "source": null,
       "created": "2026-04-13",
-      "days": 0
+      "days": 1
     },
     {
       "id": "Ajlsl050QFvoIAvtK8Am",
@@ -707,7 +707,7 @@
       "stagePos": 0,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-04-13",
-      "days": 0
+      "days": 1
     },
     {
       "id": "gY9JdqY3yrq6rLMtTo7E",
@@ -782,7 +782,7 @@
       "stagePos": 0,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-04-12",
-      "days": 1
+      "days": 2
     },
     {
       "id": "Lu8YAiGAPC2dwuFDT28q",
@@ -887,7 +887,7 @@
       "stagePos": 0,
       "source": "Web Chat - TexasTurf USA website",
       "created": "2026-04-08",
-      "days": 5
+      "days": 6
     },
     {
       "id": "QvjqMP7TROVararClG1M",
@@ -1037,7 +1037,7 @@
       "stagePos": 3,
       "source": null,
       "created": "2026-04-01",
-      "days": 12
+      "days": 13
     },
     {
       "id": "Bn7FGcLdkPyQEZ23hRVl",
@@ -1067,7 +1067,7 @@
       "stagePos": 5,
       "source": "Web Chat - TexasTurf USA website",
       "created": "2026-03-30",
-      "days": 14
+      "days": 15
     },
     {
       "id": "YVjuSNdD89qIUk5aXEsi",
@@ -1127,7 +1127,7 @@
       "stagePos": 5,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-29",
-      "days": 15
+      "days": 16
     },
     {
       "id": "XzLgMjOmOOhD2zFH3RMt",
@@ -1187,7 +1187,7 @@
       "stagePos": 5,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-24",
-      "days": 20
+      "days": 21
     },
     {
       "id": "cfTkDpUUCFEAuWyHCE3B",
@@ -1202,7 +1202,7 @@
       "stagePos": 5,
       "source": null,
       "created": "2026-03-24",
-      "days": 20
+      "days": 21
     },
     {
       "id": "p8EAt3KTudgcwKJ0W6On",
@@ -1307,7 +1307,7 @@
       "stagePos": 0,
       "source": "Web Chat - TexasTurf USA website",
       "created": "2026-03-15",
-      "days": 29
+      "days": 30
     },
     {
       "id": "DOxQGTAdr5QOFJ38k6rw",
@@ -1682,7 +1682,7 @@
       "stagePos": 6,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-02-15",
-      "days": 57
+      "days": 58
     },
     {
       "id": "Y4zbn6CvPBaft271ld0l",
@@ -1715,7 +1715,7 @@
       "days": 62
     }
   ],
-  "window_weekly": "Apr 07 \u2013 Apr 14, 2026",
+  "window_weekly": "Apr 08 \u2013 Apr 15, 2026",
   "pipeline_opportunity": {
     "pipelines": [
       {
@@ -1896,7 +1896,7 @@
       "pipeline": "Commercial Sales",
       "stage": "Lead",
       "assigned": "Stefan Fulks",
-      "days_stale": 47
+      "days_stale": 48
     },
     {
       "name": "Mothana",
@@ -1945,7 +1945,7 @@
       "pipeline": "Residential Sales",
       "stage": "Lead",
       "assigned": "Maddie Baird",
-      "days_stale": 29
+      "days_stale": 30
     },
     {
       "name": "Liz Beverding",
@@ -2088,6 +2088,13 @@
       "days_stale": 15
     },
     {
+      "name": "Kelly Ocasio",
+      "pipeline": "Residential Sales",
+      "stage": "Site Evaluation",
+      "assigned": "Colin Corcoran",
+      "days_stale": 13
+    },
+    {
       "name": "Dallas Haney - Skate Park",
       "pipeline": "Commercial Sales",
       "stage": "Active RFQ",
@@ -2099,13 +2106,6 @@
       "pipeline": "Commercial Sales",
       "stage": "Meeting",
       "assigned": "Allison  Pasch",
-      "days_stale": 12
-    },
-    {
-      "name": "Kelly Ocasio",
-      "pipeline": "Residential Sales",
-      "stage": "Site Evaluation",
-      "assigned": "Colin Corcoran",
       "days_stale": 12
     },
     {
@@ -2141,6 +2141,13 @@
       "pipeline": "Residential Sales",
       "stage": "Quote Sent",
       "assigned": "Allison  Pasch",
+      "days_stale": 8
+    },
+    {
+      "name": "Wible - Artificial Turf Installation",
+      "pipeline": "Residential Sales",
+      "stage": "Quote Sent",
+      "assigned": "Colin Corcoran",
       "days_stale": 8
     },
     {
@@ -2184,13 +2191,6 @@
       "stage": "Closed - Lost",
       "assigned": "Maddie Baird",
       "days_stale": 7
-    },
-    {
-      "name": "Wible - Artificial Turf Installation",
-      "pipeline": "Residential Sales",
-      "stage": "Quote Sent",
-      "assigned": "Colin Corcoran",
-      "days_stale": 7
     }
   ],
   "monthly_lead_source": {
@@ -2222,7 +2222,7 @@
       },
       {
         "source": "chat widget",
-        "leads": 6,
+        "leads": 5,
         "opportunities": 0
       },
       {
@@ -2233,7 +2233,7 @@
       {
         "source": "Web Chat - TexasTurf USA website",
         "leads": 0,
-        "opportunities": 4
+        "opportunities": 3
       },
       {
         "source": "Automation Score Quiz",
@@ -2276,7 +2276,7 @@
         "opportunities": 1
       }
     ],
-    "total_contacts": 149
+    "total_contacts": 148
   },
   "monthly_sales_activity": {
     "rows": [
@@ -2311,7 +2311,7 @@
       {
         "name": "Maddie Baird",
         "calls": 172,
-        "sms": 408,
+        "sms": 412,
         "emails": 48,
         "appointments": 0
       },
@@ -2488,8 +2488,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-04-07T22:00:08.036969+00:00",
-      "window_end": "2026-04-14T22:00:08.036969+00:00",
+      "window_start": "2026-04-08T00:00:07.215203+00:00",
+      "window_end": "2026-04-15T00:00:07.215203+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -2754,8 +2754,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-03-15T22:00:08.036969+00:00",
-      "window_end": "2026-04-14T22:00:08.036969+00:00",
+      "window_start": "2026-03-16T00:00:07.215203+00:00",
+      "window_end": "2026-04-15T00:00:07.215203+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -2812,7 +2812,7 @@
               },
               {
                 "name": "Maddie Baird",
-                "new": 17,
+                "new": 16,
                 "moved": 0,
                 "lost": 9,
                 "open": 11
@@ -2868,7 +2868,7 @@
           {
             "name": "Maddie Baird",
             "calls": 172,
-            "sms": 408,
+            "sms": 412,
             "emails": 48,
             "appointments": 0
           },
@@ -2945,7 +2945,7 @@
           },
           {
             "source": "chat widget",
-            "leads": 6,
+            "leads": 5,
             "opportunities": 0
           },
           {
@@ -2956,7 +2956,7 @@
           {
             "source": "Web Chat - TexasTurf USA website",
             "leads": 0,
-            "opportunities": 4
+            "opportunities": 3
           },
           {
             "source": "Automation Score Quiz",
@@ -2999,7 +2999,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 149
+        "total_contacts": 148
       },
       "salesperson": {
         "rows": [
@@ -3026,10 +3026,10 @@
           },
           {
             "name": "Maddie Baird",
-            "created": 17,
+            "created": 16,
             "open": 11,
             "lost": 10,
-            "activities": 17
+            "activities": 16
           },
           {
             "name": "Stefan Fulks",
@@ -3051,7 +3051,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-04-14T22:00:08.036969+00:00",
+      "window_end": "2026-04-15T00:00:07.215203+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3164,7 +3164,7 @@
           {
             "name": "Maddie Baird",
             "calls": 124,
-            "sms": 284,
+            "sms": 288,
             "emails": 28,
             "appointments": 0
           },
@@ -3342,7 +3342,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-04-14T22:00:08.036969+00:00",
+      "window_end": "2026-04-15T00:00:07.215203+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3455,7 +3455,7 @@
           {
             "name": "Maddie Baird",
             "calls": 268,
-            "sms": 592,
+            "sms": 596,
             "emails": 56,
             "appointments": 0
           },
