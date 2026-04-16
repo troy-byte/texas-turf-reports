@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-16 04:02 UTC",
+  "generated_at": "2026-04-16 06:03 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -1830,7 +1830,7 @@
         "name": "Colin Corcoran",
         "calls": 0,
         "sms": 124,
-        "emails": 8,
+        "emails": 4,
         "appointments": 0
       },
       {
@@ -2253,7 +2253,7 @@
       },
       {
         "source": "Inbound Email",
-        "leads": 12,
+        "leads": 14,
         "opportunities": 0
       },
       {
@@ -2312,7 +2312,7 @@
         "opportunities": 1
       }
     ],
-    "total_contacts": 146
+    "total_contacts": 148
   },
   "monthly_sales_activity": {
     "rows": [
@@ -2408,6 +2408,11 @@
         "opportunities": 2
       },
       {
+        "source": "Inbound Email",
+        "leads": 7,
+        "opportunities": 0
+      },
+      {
         "source": "Quote Inquiry Form Website",
         "leads": 7,
         "opportunities": 0
@@ -2421,11 +2426,6 @@
         "source": "Call",
         "leads": 4,
         "opportunities": 1
-      },
-      {
-        "source": "Inbound Email",
-        "leads": 5,
-        "opportunities": 0
       },
       {
         "source": "chat widget",
@@ -2473,7 +2473,7 @@
         "opportunities": 1
       }
     ],
-    "total_contacts": 74
+    "total_contacts": 76
   },
   "quarterly_salesperson": {
     "rows": [
@@ -2524,8 +2524,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-04-09T04:00:16.673541+00:00",
-      "window_end": "2026-04-16T04:00:16.673541+00:00",
+      "window_start": "2026-04-09T06:00:18.365842+00:00",
+      "window_end": "2026-04-16T06:00:18.365842+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -2625,7 +2625,7 @@
             "name": "Colin Corcoran",
             "calls": 0,
             "sms": 124,
-            "emails": 8,
+            "emails": 4,
             "appointments": 0
           },
           {
@@ -2709,17 +2709,17 @@
             "opportunities": 4
           },
           {
+            "source": "Inbound Email",
+            "leads": 3,
+            "opportunities": 0
+          },
+          {
             "source": "Call",
             "leads": 1,
             "opportunities": 0
           },
           {
             "source": "chat widget",
-            "leads": 1,
-            "opportunities": 0
-          },
-          {
-            "source": "Inbound Email",
             "leads": 1,
             "opportunities": 0
           },
@@ -2734,7 +2734,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 32
+        "total_contacts": 34
       },
       "salesperson": {
         "rows": [
@@ -2785,8 +2785,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-03-17T04:00:16.673541+00:00",
-      "window_end": "2026-04-16T04:00:16.673541+00:00",
+      "window_start": "2026-03-17T06:00:18.365842+00:00",
+      "window_end": "2026-04-16T06:00:18.365842+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -2971,7 +2971,7 @@
           },
           {
             "source": "Inbound Email",
-            "leads": 12,
+            "leads": 14,
             "opportunities": 0
           },
           {
@@ -3030,7 +3030,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 146
+        "total_contacts": 148
       },
       "salesperson": {
         "rows": [
@@ -3082,7 +3082,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-04-16T04:00:16.673541+00:00",
+      "window_end": "2026-04-16T06:00:18.365842+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3256,6 +3256,11 @@
             "opportunities": 2
           },
           {
+            "source": "Inbound Email",
+            "leads": 7,
+            "opportunities": 0
+          },
+          {
             "source": "Quote Inquiry Form Website",
             "leads": 7,
             "opportunities": 0
@@ -3269,11 +3274,6 @@
             "source": "Call",
             "leads": 4,
             "opportunities": 1
-          },
-          {
-            "source": "Inbound Email",
-            "leads": 5,
-            "opportunities": 0
           },
           {
             "source": "chat widget",
@@ -3321,7 +3321,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 74
+        "total_contacts": 76
       },
       "salesperson": {
         "rows": [
@@ -3373,7 +3373,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-04-16T04:00:16.673541+00:00",
+      "window_end": "2026-04-16T06:00:18.365842+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3558,7 +3558,7 @@
           },
           {
             "source": "Inbound Email",
-            "leads": 21,
+            "leads": 23,
             "opportunities": 0
           },
           {
@@ -3637,7 +3637,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 423
+        "total_contacts": 425
       },
       "salesperson": {
         "rows": [
