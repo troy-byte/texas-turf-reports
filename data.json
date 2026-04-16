@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-15 22:03 UTC",
+  "generated_at": "2026-04-16 00:03 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -707,7 +707,7 @@
       "stagePos": 7,
       "source": null,
       "created": "2026-04-13",
-      "days": 1
+      "days": 2
     },
     {
       "id": "Ajlsl050QFvoIAvtK8Am",
@@ -722,7 +722,7 @@
       "stagePos": 0,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-04-13",
-      "days": 1
+      "days": 2
     },
     {
       "id": "gY9JdqY3yrq6rLMtTo7E",
@@ -797,7 +797,7 @@
       "stagePos": 0,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-04-12",
-      "days": 2
+      "days": 3
     },
     {
       "id": "Lu8YAiGAPC2dwuFDT28q",
@@ -902,7 +902,7 @@
       "stagePos": 0,
       "source": "Web Chat - TexasTurf USA website",
       "created": "2026-04-08",
-      "days": 6
+      "days": 7
     },
     {
       "id": "QvjqMP7TROVararClG1M",
@@ -984,7 +984,7 @@
       "name": "John McCarthy",
       "contactId": "yof1LvobtdufWlqRHbog",
       "value": 0,
-      "status": "open",
+      "status": "lost",
       "assignedTo": "Ia7FTzA4PSM97HV6p9Ua",
       "region": "Residential Sales",
       "pipelineId": "8beUyyP8wWSeZJiCjYqn",
@@ -1052,7 +1052,7 @@
       "stagePos": 3,
       "source": null,
       "created": "2026-04-01",
-      "days": 13
+      "days": 14
     },
     {
       "id": "Bn7FGcLdkPyQEZ23hRVl",
@@ -1082,7 +1082,7 @@
       "stagePos": 5,
       "source": "Web Chat - TexasTurf USA website",
       "created": "2026-03-30",
-      "days": 15
+      "days": 16
     },
     {
       "id": "YVjuSNdD89qIUk5aXEsi",
@@ -1142,7 +1142,7 @@
       "stagePos": 5,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-29",
-      "days": 16
+      "days": 17
     },
     {
       "id": "XzLgMjOmOOhD2zFH3RMt",
@@ -1202,7 +1202,7 @@
       "stagePos": 5,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-24",
-      "days": 21
+      "days": 22
     },
     {
       "id": "cfTkDpUUCFEAuWyHCE3B",
@@ -1217,7 +1217,7 @@
       "stagePos": 5,
       "source": null,
       "created": "2026-03-24",
-      "days": 21
+      "days": 22
     },
     {
       "id": "p8EAt3KTudgcwKJ0W6On",
@@ -1281,15 +1281,15 @@
     },
     {
       "id": "d48xYGEcxJFSWpUXLmhQ",
-      "name": "Katherine Lewis",
+      "name": "Lewis - Artificial Turf Installation Project ",
       "contactId": "TaeP700GbEUN7GKOMXnL",
-      "value": 0,
+      "value": 4500,
       "status": "open",
       "assignedTo": "Ia7FTzA4PSM97HV6p9Ua",
       "region": "Residential Sales",
       "pipelineId": "8beUyyP8wWSeZJiCjYqn",
-      "stage": "Preliminary Quote",
-      "stagePos": 2,
+      "stage": "Quote Sent",
+      "stagePos": 5,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-18",
       "days": 28
@@ -1322,7 +1322,7 @@
       "stagePos": 0,
       "source": "Web Chat - TexasTurf USA website",
       "created": "2026-03-15",
-      "days": 30
+      "days": 31
     },
     {
       "id": "DOxQGTAdr5QOFJ38k6rw",
@@ -1697,7 +1697,7 @@
       "stagePos": 6,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-02-15",
-      "days": 58
+      "days": 59
     },
     {
       "id": "Y4zbn6CvPBaft271ld0l",
@@ -1730,7 +1730,7 @@
       "days": 63
     }
   ],
-  "window_weekly": "Apr 08 \u2013 Apr 15, 2026",
+  "window_weekly": "Apr 09 \u2013 Apr 16, 2026",
   "pipeline_opportunity": {
     "pipelines": [
       {
@@ -1787,10 +1787,10 @@
           },
           {
             "name": "Maddie Baird",
-            "new": 8,
-            "moved": 1,
-            "lost": 8,
-            "open": 9
+            "new": 7,
+            "moved": 2,
+            "lost": 9,
+            "open": 8
           },
           {
             "name": "Stefan Fulks",
@@ -1842,7 +1842,7 @@
       },
       {
         "name": "Maddie Baird",
-        "calls": 92,
+        "calls": 100,
         "sms": 144,
         "emails": 16,
         "appointments": 0
@@ -1911,7 +1911,7 @@
       "pipeline": "Commercial Sales",
       "stage": "Lead",
       "assigned": "Stefan Fulks",
-      "days_stale": 48
+      "days_stale": 49
     },
     {
       "name": "Mothana",
@@ -2096,6 +2096,13 @@
       "days_stale": 16
     },
     {
+      "name": "Kelly Ocasio",
+      "pipeline": "Residential Sales",
+      "stage": "Site Evaluation",
+      "assigned": "Colin Corcoran",
+      "days_stale": 14
+    },
+    {
       "name": "Dallas Haney - Skate Park",
       "pipeline": "Commercial Sales",
       "stage": "Active RFQ",
@@ -2107,13 +2114,6 @@
       "pipeline": "Commercial Sales",
       "stage": "Meeting",
       "assigned": "Allison  Pasch",
-      "days_stale": 13
-    },
-    {
-      "name": "Kelly Ocasio",
-      "pipeline": "Residential Sales",
-      "stage": "Site Evaluation",
-      "assigned": "Colin Corcoran",
       "days_stale": 13
     },
     {
@@ -2149,6 +2149,13 @@
       "pipeline": "Residential Sales",
       "stage": "Quote Sent",
       "assigned": "Allison  Pasch",
+      "days_stale": 9
+    },
+    {
+      "name": "Wible - Artificial Turf Installation",
+      "pipeline": "Residential Sales",
+      "stage": "Quote Sent",
+      "assigned": "Colin Corcoran",
       "days_stale": 9
     },
     {
@@ -2194,24 +2201,10 @@
       "days_stale": 8
     },
     {
-      "name": "Wible - Artificial Turf Installation",
-      "pipeline": "Residential Sales",
-      "stage": "Quote Sent",
-      "assigned": "Colin Corcoran",
-      "days_stale": 8
-    },
-    {
       "name": "Scott Lockhart",
       "pipeline": "Commercial Sales",
       "stage": "Lead",
       "assigned": "Allison  Pasch",
-      "days_stale": 7
-    },
-    {
-      "name": "John McCarthy",
-      "pipeline": "Residential Sales",
-      "stage": "Two Way Conversation",
-      "assigned": "Maddie Baird",
       "days_stale": 7
     },
     {
@@ -2234,20 +2227,13 @@
       "stage": "Quote Sent",
       "assigned": "Colin Corcoran",
       "days_stale": 7
-    },
-    {
-      "name": "Katherine Lewis",
-      "pipeline": "Residential Sales",
-      "stage": "Preliminary Quote",
-      "assigned": "Maddie Baird",
-      "days_stale": 7
     }
   ],
   "monthly_lead_source": {
     "rows": [
       {
         "source": "(none)",
-        "leads": 74,
+        "leads": 76,
         "opportunities": 30
       },
       {
@@ -2326,7 +2312,7 @@
         "opportunities": 1
       }
     ],
-    "total_contacts": 144
+    "total_contacts": 146
   },
   "monthly_sales_activity": {
     "rows": [
@@ -2360,7 +2346,7 @@
       },
       {
         "name": "Maddie Baird",
-        "calls": 184,
+        "calls": 192,
         "sms": 428,
         "emails": 48,
         "appointments": 0
@@ -2413,7 +2399,7 @@
     "rows": [
       {
         "source": "(none)",
-        "leads": 37,
+        "leads": 39,
         "opportunities": 23
       },
       {
@@ -2487,7 +2473,7 @@
         "opportunities": 1
       }
     ],
-    "total_contacts": 72
+    "total_contacts": 74
   },
   "quarterly_salesperson": {
     "rows": [
@@ -2515,8 +2501,8 @@
       {
         "name": "Maddie Baird",
         "created": 12,
-        "open": 9,
-        "lost": 12,
+        "open": 8,
+        "lost": 13,
         "activities": 0
       },
       {
@@ -2538,8 +2524,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-04-08T22:00:16.807030+00:00",
-      "window_end": "2026-04-15T22:00:16.807030+00:00",
+      "window_start": "2026-04-09T00:00:19.170826+00:00",
+      "window_end": "2026-04-16T00:00:19.170826+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -2596,10 +2582,10 @@
               },
               {
                 "name": "Maddie Baird",
-                "new": 8,
-                "moved": 1,
-                "lost": 8,
-                "open": 9
+                "new": 7,
+                "moved": 2,
+                "lost": 9,
+                "open": 8
               },
               {
                 "name": "Stefan Fulks",
@@ -2651,7 +2637,7 @@
           },
           {
             "name": "Maddie Baird",
-            "calls": 92,
+            "calls": 100,
             "sms": 144,
             "emails": 16,
             "appointments": 0
@@ -2704,7 +2690,7 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 19,
+            "leads": 21,
             "opportunities": 15
           },
           {
@@ -2724,13 +2710,8 @@
           },
           {
             "source": "chat widget",
-            "leads": 3,
+            "leads": 2,
             "opportunities": 0
-          },
-          {
-            "source": "Web Chat - TexasTurf USA website",
-            "leads": 0,
-            "opportunities": 2
           },
           {
             "source": "Call",
@@ -2751,9 +2732,14 @@
             "source": "Lou- Above All Landscaping client referral",
             "leads": 0,
             "opportunities": 1
+          },
+          {
+            "source": "Web Chat - TexasTurf USA website",
+            "leads": 0,
+            "opportunities": 1
           }
         ],
-        "total_contacts": 32
+        "total_contacts": 33
       },
       "salesperson": {
         "rows": [
@@ -2780,10 +2766,10 @@
           },
           {
             "name": "Maddie Baird",
-            "created": 8,
-            "open": 9,
-            "lost": 12,
-            "activities": 8
+            "created": 7,
+            "open": 8,
+            "lost": 13,
+            "activities": 7
           },
           {
             "name": "Stefan Fulks",
@@ -2804,8 +2790,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-03-16T22:00:16.807030+00:00",
-      "window_end": "2026-04-15T22:00:16.807030+00:00",
+      "window_start": "2026-03-17T00:00:19.170826+00:00",
+      "window_end": "2026-04-16T00:00:19.170826+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -2863,9 +2849,9 @@
               {
                 "name": "Maddie Baird",
                 "new": 16,
-                "moved": 1,
-                "lost": 11,
-                "open": 9
+                "moved": 2,
+                "lost": 12,
+                "open": 8
               },
               {
                 "name": "Stefan Fulks",
@@ -2917,7 +2903,7 @@
           },
           {
             "name": "Maddie Baird",
-            "calls": 184,
+            "calls": 192,
             "sms": 428,
             "emails": 48,
             "appointments": 0
@@ -2970,7 +2956,7 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 74,
+            "leads": 76,
             "opportunities": 30
           },
           {
@@ -3049,7 +3035,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 144
+        "total_contacts": 146
       },
       "salesperson": {
         "rows": [
@@ -3077,8 +3063,8 @@
           {
             "name": "Maddie Baird",
             "created": 16,
-            "open": 9,
-            "lost": 12,
+            "open": 8,
+            "lost": 13,
             "activities": 16
           },
           {
@@ -3101,7 +3087,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-04-15T22:00:16.807030+00:00",
+      "window_end": "2026-04-16T00:00:19.170826+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3159,9 +3145,9 @@
               {
                 "name": "Maddie Baird",
                 "new": 12,
-                "moved": 1,
-                "lost": 10,
-                "open": 9
+                "moved": 2,
+                "lost": 11,
+                "open": 8
               },
               {
                 "name": "Stefan Fulks",
@@ -3213,7 +3199,7 @@
           },
           {
             "name": "Maddie Baird",
-            "calls": 136,
+            "calls": 144,
             "sms": 304,
             "emails": 28,
             "appointments": 0
@@ -3266,7 +3252,7 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 37,
+            "leads": 39,
             "opportunities": 23
           },
           {
@@ -3340,7 +3326,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 72
+        "total_contacts": 74
       },
       "salesperson": {
         "rows": [
@@ -3368,8 +3354,8 @@
           {
             "name": "Maddie Baird",
             "created": 12,
-            "open": 9,
-            "lost": 12,
+            "open": 8,
+            "lost": 13,
             "activities": 12
           },
           {
@@ -3392,7 +3378,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-04-15T22:00:16.807030+00:00",
+      "window_end": "2026-04-16T00:00:19.170826+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3450,9 +3436,9 @@
               {
                 "name": "Maddie Baird",
                 "new": 21,
-                "moved": 1,
-                "lost": 12,
-                "open": 9
+                "moved": 2,
+                "lost": 13,
+                "open": 8
               },
               {
                 "name": "Stefan Fulks",
@@ -3504,7 +3490,7 @@
           },
           {
             "name": "Maddie Baird",
-            "calls": 284,
+            "calls": 292,
             "sms": 612,
             "emails": 52,
             "appointments": 0
@@ -3557,7 +3543,7 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 243,
+            "leads": 245,
             "opportunities": 35
           },
           {
@@ -3656,7 +3642,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 421
+        "total_contacts": 423
       },
       "salesperson": {
         "rows": [
@@ -3684,8 +3670,8 @@
           {
             "name": "Maddie Baird",
             "created": 21,
-            "open": 9,
-            "lost": 12,
+            "open": 8,
+            "lost": 13,
             "activities": 21
           },
           {
