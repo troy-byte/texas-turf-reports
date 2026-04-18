@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18 19:36 UTC",
+  "generated_at": "2026-04-18 20:02 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -437,7 +437,7 @@
       "stagePos": 0,
       "source": "Your Haven Event",
       "created": "2026-04-17",
-      "days": 0
+      "days": 1
     },
     {
       "id": "oUsVtpFB6XvsdOhptKcl",
@@ -452,7 +452,7 @@
       "stagePos": 1,
       "source": "Your Haven Event",
       "created": "2026-04-17",
-      "days": 0
+      "days": 1
     },
     {
       "id": "PZLa2G2qmnscbqU6E7Al",
@@ -587,7 +587,7 @@
       "stagePos": 5,
       "source": null,
       "created": "2026-04-14",
-      "days": 3
+      "days": 4
     },
     {
       "id": "tNJqCYrIYegTI1gG3Sqk",
@@ -602,7 +602,7 @@
       "stagePos": 5,
       "source": null,
       "created": "2026-04-14",
-      "days": 3
+      "days": 4
     },
     {
       "id": "rungzl3wMJxHlgPBjlIR",
@@ -632,7 +632,7 @@
       "stagePos": 0,
       "source": "Call",
       "created": "2026-04-08",
-      "days": 9
+      "days": 10
     },
     {
       "id": "F0nBvS3DMtZHppEOnmKp",
@@ -842,7 +842,7 @@
       "stagePos": 5,
       "source": null,
       "created": "2026-04-14",
-      "days": 3
+      "days": 4
     },
     {
       "id": "0wR8Ir4N4IwmyYIpFXOL",
@@ -1307,7 +1307,7 @@
       "stagePos": 1,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-26",
-      "days": 22
+      "days": 23
     },
     {
       "id": "Vzx4HJ8pDF6EvvIBgwjo",
@@ -1547,7 +1547,7 @@
       "stagePos": 5,
       "source": null,
       "created": "2026-03-05",
-      "days": 43
+      "days": 44
     },
     {
       "id": "bULiYP6hnx8EY6LtZfV8",
@@ -2164,7 +2164,7 @@
       "pipeline": "Residential Sales",
       "stage": "Two Way Conversation",
       "assigned": "Maddie Baird",
-      "days_stale": 21
+      "days_stale": 22
     },
     {
       "name": "Sunshine Amenity",
@@ -2258,6 +2258,13 @@
       "days_stale": 11
     },
     {
+      "name": "Scott Lockhart",
+      "pipeline": "Commercial Sales",
+      "stage": "Lead",
+      "assigned": "Allison  Pasch",
+      "days_stale": 10
+    },
+    {
       "name": "Sai Pentyala",
       "pipeline": "Residential Sales",
       "stage": "Closed - Lost",
@@ -2277,13 +2284,6 @@
       "stage": "Two Way Conversation",
       "assigned": "Maddie Baird",
       "days_stale": 10
-    },
-    {
-      "name": "Scott Lockhart",
-      "pipeline": "Commercial Sales",
-      "stage": "Lead",
-      "assigned": "Allison  Pasch",
-      "days_stale": 9
     }
   ],
   "monthly_lead_source": {
@@ -2591,8 +2591,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-04-11T19:33:52.883112+00:00",
-      "window_end": "2026-04-18T19:33:52.883112+00:00",
+      "window_start": "2026-04-11T20:00:17.897376+00:00",
+      "window_end": "2026-04-18T20:00:17.897376+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -2857,8 +2857,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-03-19T19:33:52.883112+00:00",
-      "window_end": "2026-04-18T19:33:52.883112+00:00",
+      "window_start": "2026-03-19T20:00:17.897376+00:00",
+      "window_end": "2026-04-18T20:00:17.897376+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3159,7 +3159,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-04-18T19:33:52.883112+00:00",
+      "window_end": "2026-04-18T20:00:17.897376+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3455,7 +3455,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-04-18T19:33:52.883112+00:00",
+      "window_end": "2026-04-18T20:00:17.897376+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
