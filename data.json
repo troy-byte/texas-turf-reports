@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18 20:02 UTC",
+  "generated_at": "2026-04-18 22:02 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -527,7 +527,7 @@
       "stagePos": 5,
       "source": "SMS",
       "created": "2026-04-16",
-      "days": 1
+      "days": 2
     },
     {
       "id": "w2M36f87fn8gkner4KY3",
@@ -542,7 +542,7 @@
       "stagePos": 5,
       "source": "SMS",
       "created": "2026-04-16",
-      "days": 1
+      "days": 2
     },
     {
       "id": "LS2LXXmPJzZDKeV7dRBE",
@@ -557,7 +557,7 @@
       "stagePos": 1,
       "source": null,
       "created": "2026-04-14",
-      "days": 3
+      "days": 4
     },
     {
       "id": "yreMWEhheWgLf4GeKFxj",
@@ -572,7 +572,7 @@
       "stagePos": 0,
       "source": "SMS",
       "created": "2026-04-14",
-      "days": 3
+      "days": 4
     },
     {
       "id": "7Z2lMdTcO4RULdCaJxGW",
@@ -677,7 +677,7 @@
       "stagePos": 0,
       "source": "Google",
       "created": "2026-04-02",
-      "days": 15
+      "days": 16
     },
     {
       "id": "0f1hcOFU04SPhUW1jh54",
@@ -722,7 +722,7 @@
       "stagePos": 5,
       "source": null,
       "created": "2026-03-30",
-      "days": 18
+      "days": 19
     },
     {
       "id": "Qso4YfbkoVusHUhHpBsJ",
@@ -752,7 +752,7 @@
       "stagePos": 5,
       "source": null,
       "created": "2026-04-17",
-      "days": 0
+      "days": 1
     },
     {
       "id": "dPHn8iXkLxUdKfG28XMC",
@@ -977,7 +977,7 @@
       "stagePos": 7,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-04-12",
-      "days": 5
+      "days": 6
     },
     {
       "id": "ZkTaO0OEygMfat9vyJ5e",
@@ -1007,7 +1007,7 @@
       "stagePos": 1,
       "source": null,
       "created": "2026-04-09",
-      "days": 8
+      "days": 9
     },
     {
       "id": "G7MF6qeCAFnNEh3vIWBg",
@@ -1052,7 +1052,7 @@
       "stagePos": 6,
       "source": null,
       "created": "2026-04-08",
-      "days": 9
+      "days": 10
     },
     {
       "id": "1WpuooorfgJFrmbC9SmR",
@@ -1397,7 +1397,7 @@
       "stagePos": 5,
       "source": null,
       "created": "2026-03-18",
-      "days": 30
+      "days": 31
     },
     {
       "id": "lrgeeBY40JwOua1vdS9g",
@@ -1682,7 +1682,7 @@
       "stagePos": 1,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-02-25",
-      "days": 51
+      "days": 52
     },
     {
       "id": "vX7lblbNkj1xBf8Tkteh",
@@ -1697,7 +1697,7 @@
       "stagePos": 3,
       "source": "SMS",
       "created": "2026-02-24",
-      "days": 52
+      "days": 53
     },
     {
       "id": "xYqmeHN1DI1o9j6YqTJn",
@@ -1712,7 +1712,7 @@
       "stagePos": 8,
       "source": "SMS",
       "created": "2026-02-24",
-      "days": 52
+      "days": 53
     },
     {
       "id": "PgbyuU5EAfxWFosjTFH1",
@@ -1802,7 +1802,7 @@
       "stagePos": 3,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-02-16",
-      "days": 60
+      "days": 61
     },
     {
       "id": "373crRWzva5uTrhUtbfy",
@@ -1832,7 +1832,7 @@
       "stagePos": 6,
       "source": "Web Chat - TexasTurf USA website",
       "created": "2026-02-12",
-      "days": 64
+      "days": 65
     },
     {
       "id": "NPVw3F47UYQyyFzBYjOv",
@@ -2097,6 +2097,20 @@
       "days_stale": 33
     },
     {
+      "name": "Gina Donoghue",
+      "pipeline": "Residential Sales",
+      "stage": "Quote Sent",
+      "assigned": "Colin Corcoran",
+      "days_stale": 26
+    },
+    {
+      "name": "Dorothy Kelso",
+      "pipeline": "Residential Sales",
+      "stage": "Quote Sent",
+      "assigned": "Colin Corcoran",
+      "days_stale": 26
+    },
+    {
       "name": "Evan Wallace",
       "pipeline": "Residential Sales",
       "stage": "Site Evaluation",
@@ -2104,53 +2118,39 @@
       "days_stale": 26
     },
     {
-      "name": "Gina Donoghue",
-      "pipeline": "Residential Sales",
-      "stage": "Quote Sent",
-      "assigned": "Colin Corcoran",
-      "days_stale": 25
-    },
-    {
-      "name": "Dorothy Kelso",
-      "pipeline": "Residential Sales",
-      "stage": "Quote Sent",
-      "assigned": "Colin Corcoran",
-      "days_stale": 25
-    },
-    {
       "name": "Michael Dawdy",
       "pipeline": "Residential Sales",
       "stage": "Quote Sent",
       "assigned": "Colin Corcoran",
-      "days_stale": 25
+      "days_stale": 26
     },
     {
       "name": "Luis Solorio",
       "pipeline": "Residential Sales",
       "stage": "Quote Sent",
       "assigned": "Colin Corcoran",
-      "days_stale": 25
+      "days_stale": 26
     },
     {
       "name": "James Lamarche",
       "pipeline": "Residential Sales",
       "stage": "Quote Sent",
       "assigned": "Colin Corcoran",
-      "days_stale": 25
+      "days_stale": 26
     },
     {
       "name": "Katie Khan",
       "pipeline": "Residential Sales",
       "stage": "Quote Sent",
       "assigned": "Colin Corcoran",
-      "days_stale": 25
+      "days_stale": 26
     },
     {
       "name": "Georgia Moreland",
       "pipeline": "Residential Sales",
       "stage": "Quote Sent",
       "assigned": "Colin Corcoran",
-      "days_stale": 25
+      "days_stale": 26
     },
     {
       "name": "Bambi Kaminski",
@@ -2171,7 +2171,14 @@
       "pipeline": "Commercial Sales",
       "stage": "Bid Submitted",
       "assigned": "Allison  Pasch",
-      "days_stale": 18
+      "days_stale": 19
+    },
+    {
+      "name": "Danuta Reich",
+      "pipeline": "Commercial Sales",
+      "stage": "Meeting",
+      "assigned": "Allison  Pasch",
+      "days_stale": 16
     },
     {
       "name": "Kelly Ocasio",
@@ -2181,18 +2188,11 @@
       "days_stale": 16
     },
     {
-      "name": "Danuta Reich",
-      "pipeline": "Commercial Sales",
-      "stage": "Meeting",
-      "assigned": "Allison  Pasch",
-      "days_stale": 15
-    },
-    {
       "name": "Stelling - Artificial Turf Installation",
       "pipeline": "Residential Sales",
       "stage": "Quote Sent",
       "assigned": "Colin Corcoran",
-      "days_stale": 14
+      "days_stale": 15
     },
     {
       "name": "Shen - Front Entry Turf Installation",
@@ -2213,6 +2213,13 @@
       "pipeline": "Residential Sales",
       "stage": "Quote Sent",
       "assigned": "Allison  Pasch",
+      "days_stale": 12
+    },
+    {
+      "name": "Villa - Turf & Paver Installation",
+      "pipeline": "Residential Sales",
+      "stage": "Quote Sent",
+      "assigned": "Colin Corcoran",
       "days_stale": 12
     },
     {
@@ -2244,14 +2251,14 @@
       "days_stale": 11
     },
     {
-      "name": "Wible - Artificial Turf Installation",
+      "name": "Sai Pentyala",
       "pipeline": "Residential Sales",
-      "stage": "Quote Sent",
-      "assigned": "Colin Corcoran",
+      "stage": "Closed - Lost",
+      "assigned": "Maddie Baird",
       "days_stale": 11
     },
     {
-      "name": "Villa - Turf & Paver Installation",
+      "name": "Wible - Artificial Turf Installation",
       "pipeline": "Residential Sales",
       "stage": "Quote Sent",
       "assigned": "Colin Corcoran",
@@ -2262,13 +2269,6 @@
       "pipeline": "Commercial Sales",
       "stage": "Lead",
       "assigned": "Allison  Pasch",
-      "days_stale": 10
-    },
-    {
-      "name": "Sai Pentyala",
-      "pipeline": "Residential Sales",
-      "stage": "Closed - Lost",
-      "assigned": "Maddie Baird",
       "days_stale": 10
     },
     {
@@ -2290,7 +2290,7 @@
     "rows": [
       {
         "source": "(none)",
-        "leads": 77,
+        "leads": 74,
         "opportunities": 26
       },
       {
@@ -2374,7 +2374,7 @@
         "opportunities": 1
       }
     ],
-    "total_contacts": 145
+    "total_contacts": 142
   },
   "monthly_sales_activity": {
     "rows": [
@@ -2591,8 +2591,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-04-11T20:00:17.897376+00:00",
-      "window_end": "2026-04-18T20:00:17.897376+00:00",
+      "window_start": "2026-04-11T22:00:19.588501+00:00",
+      "window_end": "2026-04-18T22:00:19.588501+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -2857,8 +2857,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-03-19T20:00:17.897376+00:00",
-      "window_end": "2026-04-18T20:00:17.897376+00:00",
+      "window_start": "2026-03-19T22:00:19.588501+00:00",
+      "window_end": "2026-04-18T22:00:19.588501+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3023,7 +3023,7 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 77,
+            "leads": 74,
             "opportunities": 26
           },
           {
@@ -3107,7 +3107,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 145
+        "total_contacts": 142
       },
       "salesperson": {
         "rows": [
@@ -3159,7 +3159,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-04-18T20:00:17.897376+00:00",
+      "window_end": "2026-04-18T22:00:19.588501+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3455,7 +3455,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-04-18T20:00:17.897376+00:00",
+      "window_end": "2026-04-18T22:00:19.588501+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
