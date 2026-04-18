@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18 18:02 UTC",
+  "generated_at": "2026-04-18 19:36 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -467,7 +467,7 @@
       "stagePos": 1,
       "source": "Your Haven Event",
       "created": "2026-04-17",
-      "days": 0
+      "days": 1
     },
     {
       "id": "gGbZ7Y3RufT0DI2YpSsy",
@@ -482,7 +482,7 @@
       "stagePos": 1,
       "source": "Your Haven Event",
       "created": "2026-04-17",
-      "days": 0
+      "days": 1
     },
     {
       "id": "uRsv8rVHZgPQQIPXGtOx",
@@ -497,7 +497,7 @@
       "stagePos": 0,
       "source": "Your Haven Event",
       "created": "2026-04-17",
-      "days": 0
+      "days": 1
     },
     {
       "id": "f9IHNuXwtYI6GGTi95O3",
@@ -617,7 +617,7 @@
       "stagePos": 2,
       "source": null,
       "created": "2026-04-10",
-      "days": 7
+      "days": 8
     },
     {
       "id": "TmeqaxeTDjdqkuXI7I65",
@@ -692,7 +692,7 @@
       "stagePos": 5,
       "source": "Neighbor on Stroup",
       "created": "2026-04-02",
-      "days": 15
+      "days": 16
     },
     {
       "id": "ld4uxB2VJByzPPSIc9q8",
@@ -767,7 +767,7 @@
       "stagePos": 0,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-04-17",
-      "days": 0
+      "days": 1
     },
     {
       "id": "kXDJsU6KomM4Fij06pSC",
@@ -917,7 +917,7 @@
       "stagePos": 0,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-04-13",
-      "days": 4
+      "days": 5
     },
     {
       "id": "XTDiUs0Vu76fiQWUn8Ox",
@@ -1127,7 +1127,7 @@
       "stagePos": 1,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-04-06",
-      "days": 11
+      "days": 12
     },
     {
       "id": "3u6JucFhdA9vv2XHTHda",
@@ -1157,7 +1157,7 @@
       "stagePos": 9,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-04-03",
-      "days": 14
+      "days": 15
     },
     {
       "id": "CxOWPdGI2Crl5SxAhuRv",
@@ -1382,7 +1382,7 @@
       "stagePos": 8,
       "source": null,
       "created": "2026-03-20",
-      "days": 28
+      "days": 29
     },
     {
       "id": "UObVO4WbE44OhQ567rpO",
@@ -1472,7 +1472,7 @@
       "stagePos": 3,
       "source": null,
       "created": "2026-03-12",
-      "days": 36
+      "days": 37
     },
     {
       "id": "LpLnjZTCMkgSswdCekkH",
@@ -1607,7 +1607,7 @@
       "stagePos": 5,
       "source": "Call",
       "created": "2026-03-02",
-      "days": 46
+      "days": 47
     },
     {
       "id": "UaTmOJp5UoGx8RWElUT3",
@@ -1622,7 +1622,7 @@
       "stagePos": 8,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-02",
-      "days": 46
+      "days": 47
     },
     {
       "id": "q0Qlyk8P8Wi5QRqKqSn0",
@@ -1637,7 +1637,7 @@
       "stagePos": 5,
       "source": null,
       "created": "2026-03-02",
-      "days": 46
+      "days": 47
     },
     {
       "id": "EACozGmzEtkXSELT4ksy",
@@ -1742,7 +1742,7 @@
       "stagePos": 6,
       "source": "Web Chat - TexasTurf USA website",
       "created": "2026-02-20",
-      "days": 56
+      "days": 57
     },
     {
       "id": "Q2jxETaYtcyR8EiMMC1a",
@@ -1772,7 +1772,7 @@
       "stagePos": 2,
       "source": "SMS",
       "created": "2026-02-19",
-      "days": 57
+      "days": 58
     },
     {
       "id": "PW0EAHMQaaruVTrVNjgB",
@@ -1937,7 +1937,7 @@
         "calls": 0,
         "sms": 36,
         "emails": 12,
-        "appointments": 0
+        "appointments": 3
       },
       {
         "name": "Blackwater AI",
@@ -1951,12 +1951,12 @@
         "calls": 0,
         "sms": 116,
         "emails": 4,
-        "appointments": 0
+        "appointments": 2
       },
       {
         "name": "Ivana Fulks",
         "calls": 28,
-        "sms": 72,
+        "sms": 76,
         "emails": 0,
         "appointments": 0
       },
@@ -2017,14 +2017,14 @@
       "pipeline": "Residential Sales",
       "stage": "Preliminary Quote",
       "assigned": "Ivana Fulks",
-      "days_stale": 57
+      "days_stale": 58
     },
     {
       "name": "Maddison Homes Llc",
       "pipeline": "Residential Sales",
       "stage": "Two Way Conversation",
       "assigned": "Ivana Fulks",
-      "days_stale": 57
+      "days_stale": 58
     },
     {
       "name": "Hector Gomez",
@@ -2080,21 +2080,28 @@
       "pipeline": "Residential Sales",
       "stage": "Two Way Conversation",
       "assigned": "Maddie Baird",
-      "days_stale": 32
+      "days_stale": 33
     },
     {
       "name": "Matt Krause",
       "pipeline": "Residential Sales",
       "stage": "Quote Sent",
       "assigned": "Colin Corcoran",
-      "days_stale": 32
+      "days_stale": 33
     },
     {
       "name": "Jordyn Gauntt",
       "pipeline": "Residential Sales",
       "stage": "Quote Sent",
       "assigned": "Colin Corcoran",
-      "days_stale": 32
+      "days_stale": 33
+    },
+    {
+      "name": "Evan Wallace",
+      "pipeline": "Residential Sales",
+      "stage": "Site Evaluation",
+      "assigned": "Colin Corcoran",
+      "days_stale": 26
     },
     {
       "name": "Gina Donoghue",
@@ -2107,13 +2114,6 @@
       "name": "Dorothy Kelso",
       "pipeline": "Residential Sales",
       "stage": "Quote Sent",
-      "assigned": "Colin Corcoran",
-      "days_stale": 25
-    },
-    {
-      "name": "Evan Wallace",
-      "pipeline": "Residential Sales",
-      "stage": "Site Evaluation",
       "assigned": "Colin Corcoran",
       "days_stale": 25
     },
@@ -2383,7 +2383,7 @@
         "calls": 4,
         "sms": 56,
         "emails": 12,
-        "appointments": 0
+        "appointments": 4
       },
       {
         "name": "Blackwater AI",
@@ -2397,12 +2397,12 @@
         "calls": 0,
         "sms": 336,
         "emails": 24,
-        "appointments": 0
+        "appointments": 22
       },
       {
         "name": "Ivana Fulks",
         "calls": 40,
-        "sms": 120,
+        "sms": 124,
         "emails": 0,
         "appointments": 0
       },
@@ -2591,8 +2591,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-04-11T18:00:22.295590+00:00",
-      "window_end": "2026-04-18T18:00:22.295590+00:00",
+      "window_start": "2026-04-11T19:33:52.883112+00:00",
+      "window_end": "2026-04-18T19:33:52.883112+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -2679,7 +2679,7 @@
             "calls": 0,
             "sms": 36,
             "emails": 12,
-            "appointments": 0
+            "appointments": 3
           },
           {
             "name": "Blackwater AI",
@@ -2693,12 +2693,12 @@
             "calls": 0,
             "sms": 116,
             "emails": 4,
-            "appointments": 0
+            "appointments": 2
           },
           {
             "name": "Ivana Fulks",
             "calls": 28,
-            "sms": 72,
+            "sms": 76,
             "emails": 0,
             "appointments": 0
           },
@@ -2857,8 +2857,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-03-19T18:00:22.295590+00:00",
-      "window_end": "2026-04-18T18:00:22.295590+00:00",
+      "window_start": "2026-03-19T19:33:52.883112+00:00",
+      "window_end": "2026-04-18T19:33:52.883112+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -2945,7 +2945,7 @@
             "calls": 4,
             "sms": 56,
             "emails": 12,
-            "appointments": 0
+            "appointments": 4
           },
           {
             "name": "Blackwater AI",
@@ -2959,12 +2959,12 @@
             "calls": 0,
             "sms": 336,
             "emails": 24,
-            "appointments": 0
+            "appointments": 22
           },
           {
             "name": "Ivana Fulks",
             "calls": 40,
-            "sms": 120,
+            "sms": 124,
             "emails": 0,
             "appointments": 0
           },
@@ -3159,7 +3159,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-04-18T18:00:22.295590+00:00",
+      "window_end": "2026-04-18T19:33:52.883112+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3246,7 +3246,7 @@
             "calls": 4,
             "sms": 56,
             "emails": 12,
-            "appointments": 0
+            "appointments": 4
           },
           {
             "name": "Blackwater AI",
@@ -3260,12 +3260,12 @@
             "calls": 0,
             "sms": 280,
             "emails": 12,
-            "appointments": 0
+            "appointments": 17
           },
           {
             "name": "Ivana Fulks",
             "calls": 40,
-            "sms": 120,
+            "sms": 124,
             "emails": 0,
             "appointments": 0
           },
@@ -3455,7 +3455,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-04-18T18:00:22.295590+00:00",
+      "window_end": "2026-04-18T19:33:52.883112+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3542,7 +3542,7 @@
             "calls": 4,
             "sms": 56,
             "emails": 12,
-            "appointments": 0
+            "appointments": 4
           },
           {
             "name": "Blackwater AI",
@@ -3556,21 +3556,21 @@
             "calls": 12,
             "sms": 532,
             "emails": 36,
-            "appointments": 0
+            "appointments": 68
           },
           {
             "name": "Ivana Fulks",
             "calls": 52,
-            "sms": 212,
+            "sms": 216,
             "emails": 0,
-            "appointments": 0
+            "appointments": 1
           },
           {
             "name": "Maddie Baird",
             "calls": 304,
             "sms": 524,
             "emails": 48,
-            "appointments": 0
+            "appointments": 1
           },
           {
             "name": "Matt Dickert",
