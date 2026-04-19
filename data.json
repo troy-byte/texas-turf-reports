@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19 00:02 UTC",
+  "generated_at": "2026-04-19 02:02 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -1022,7 +1022,7 @@
       "stagePos": 0,
       "source": "Web Chat - TexasTurf USA website",
       "created": "2026-04-09",
-      "days": 9
+      "days": 10
     },
     {
       "id": "0p9qZZhBkQGMlSJaKgEj",
@@ -1086,15 +1086,15 @@
     },
     {
       "id": "QE9ZC7ewACrDO0gK4y8I",
-      "name": "Mike Mings",
+      "name": "Mings - Mings Backyard Project",
       "contactId": "vLTqN7FFB7lLdJsstqKm",
-      "value": 0,
+      "value": 44000,
       "status": "open",
       "assignedTo": "zl0MRdX7dfeqO8uHDA1k",
       "region": "Residential Sales",
       "pipelineId": "8beUyyP8wWSeZJiCjYqn",
-      "stage": "Site Evaluation",
-      "stagePos": 3,
+      "stage": "Quote Sent",
+      "stagePos": 5,
       "source": null,
       "created": "2026-04-07",
       "days": 11
@@ -1577,7 +1577,7 @@
       "stagePos": 7,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-05",
-      "days": 44
+      "days": 45
     },
     {
       "id": "BFTsVAksxhOQKeFp0vRk",
@@ -1894,7 +1894,7 @@
           {
             "name": "Colin Corcoran",
             "new": 4,
-            "moved": 12,
+            "moved": 13,
             "lost": 0,
             "open": 38
           },
@@ -2251,13 +2251,6 @@
       "days_stale": 11
     },
     {
-      "name": "Mike Mings",
-      "pipeline": "Residential Sales",
-      "stage": "Site Evaluation",
-      "assigned": "Colin Corcoran",
-      "days_stale": 11
-    },
-    {
       "name": "Sai Pentyala",
       "pipeline": "Residential Sales",
       "stage": "Closed - Lost",
@@ -2591,8 +2584,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-04-12T00:00:18.767095+00:00",
-      "window_end": "2026-04-19T00:00:18.767095+00:00",
+      "window_start": "2026-04-12T02:00:18.189543+00:00",
+      "window_end": "2026-04-19T02:00:18.189543+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -2636,7 +2629,7 @@
               {
                 "name": "Colin Corcoran",
                 "new": 4,
-                "moved": 12,
+                "moved": 13,
                 "lost": 0,
                 "open": 38
               },
@@ -2857,8 +2850,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-03-20T00:00:18.767095+00:00",
-      "window_end": "2026-04-19T00:00:18.767095+00:00",
+      "window_start": "2026-03-20T02:00:18.189543+00:00",
+      "window_end": "2026-04-19T02:00:18.189543+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -2902,7 +2895,7 @@
               {
                 "name": "Colin Corcoran",
                 "new": 19,
-                "moved": 12,
+                "moved": 13,
                 "lost": 1,
                 "open": 38
               },
@@ -3159,7 +3152,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-04-19T00:00:18.767095+00:00",
+      "window_end": "2026-04-19T02:00:18.189543+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3203,7 +3196,7 @@
               {
                 "name": "Colin Corcoran",
                 "new": 10,
-                "moved": 12,
+                "moved": 13,
                 "lost": 0,
                 "open": 38
               },
@@ -3455,7 +3448,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-04-19T00:00:18.767095+00:00",
+      "window_end": "2026-04-19T02:00:18.189543+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3499,7 +3492,7 @@
               {
                 "name": "Colin Corcoran",
                 "new": 43,
-                "moved": 12,
+                "moved": 13,
                 "lost": 3,
                 "open": 38
               },
