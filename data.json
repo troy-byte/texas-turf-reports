@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18 22:02 UTC",
+  "generated_at": "2026-04-19 00:02 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -887,7 +887,7 @@
       "stagePos": 7,
       "source": null,
       "created": "2026-04-13",
-      "days": 4
+      "days": 5
     },
     {
       "id": "Ajlsl050QFvoIAvtK8Am",
@@ -902,7 +902,7 @@
       "stagePos": 0,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-04-13",
-      "days": 4
+      "days": 5
     },
     {
       "id": "lr0UcwTMZJbTZ1TjPATi",
@@ -962,7 +962,7 @@
       "stagePos": 0,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-04-12",
-      "days": 5
+      "days": 6
     },
     {
       "id": "Lu8YAiGAPC2dwuFDT28q",
@@ -1037,7 +1037,7 @@
       "stagePos": 0,
       "source": "Web Chat - TexasTurf USA website",
       "created": "2026-04-08",
-      "days": 9
+      "days": 10
     },
     {
       "id": "QvjqMP7TROVararClG1M",
@@ -1187,7 +1187,7 @@
       "stagePos": 3,
       "source": null,
       "created": "2026-04-01",
-      "days": 16
+      "days": 17
     },
     {
       "id": "Bn7FGcLdkPyQEZ23hRVl",
@@ -1217,7 +1217,7 @@
       "stagePos": 5,
       "source": "Web Chat - TexasTurf USA website",
       "created": "2026-03-30",
-      "days": 18
+      "days": 19
     },
     {
       "id": "YVjuSNdD89qIUk5aXEsi",
@@ -1277,7 +1277,7 @@
       "stagePos": 5,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-29",
-      "days": 19
+      "days": 20
     },
     {
       "id": "XzLgMjOmOOhD2zFH3RMt",
@@ -1337,7 +1337,7 @@
       "stagePos": 5,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-24",
-      "days": 24
+      "days": 25
     },
     {
       "id": "cfTkDpUUCFEAuWyHCE3B",
@@ -1352,7 +1352,7 @@
       "stagePos": 5,
       "source": null,
       "created": "2026-03-24",
-      "days": 24
+      "days": 25
     },
     {
       "id": "p8EAt3KTudgcwKJ0W6On",
@@ -1457,7 +1457,7 @@
       "stagePos": 0,
       "source": "Web Chat - TexasTurf USA website",
       "created": "2026-03-15",
-      "days": 33
+      "days": 34
     },
     {
       "id": "DOxQGTAdr5QOFJ38k6rw",
@@ -1817,7 +1817,7 @@
       "stagePos": 6,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-02-15",
-      "days": 61
+      "days": 62
     },
     {
       "id": "Y4zbn6CvPBaft271ld0l",
@@ -1850,7 +1850,7 @@
       "days": 66
     }
   ],
-  "window_weekly": "Apr 11 \u2013 Apr 18, 2026",
+  "window_weekly": "Apr 12 \u2013 Apr 19, 2026",
   "pipeline_opportunity": {
     "pipelines": [
       {
@@ -2031,7 +2031,7 @@
       "pipeline": "Commercial Sales",
       "stage": "Lead",
       "assigned": "Stefan Fulks",
-      "days_stale": 51
+      "days_stale": 52
     },
     {
       "name": "Mothana",
@@ -2174,17 +2174,17 @@
       "days_stale": 19
     },
     {
-      "name": "Danuta Reich",
-      "pipeline": "Commercial Sales",
-      "stage": "Meeting",
-      "assigned": "Allison  Pasch",
-      "days_stale": 16
-    },
-    {
       "name": "Kelly Ocasio",
       "pipeline": "Residential Sales",
       "stage": "Site Evaluation",
       "assigned": "Colin Corcoran",
+      "days_stale": 17
+    },
+    {
+      "name": "Danuta Reich",
+      "pipeline": "Commercial Sales",
+      "stage": "Meeting",
+      "assigned": "Allison  Pasch",
       "days_stale": 16
     },
     {
@@ -2213,6 +2213,13 @@
       "pipeline": "Residential Sales",
       "stage": "Quote Sent",
       "assigned": "Allison  Pasch",
+      "days_stale": 12
+    },
+    {
+      "name": "Wible - Artificial Turf Installation",
+      "pipeline": "Residential Sales",
+      "stage": "Quote Sent",
+      "assigned": "Colin Corcoran",
       "days_stale": 12
     },
     {
@@ -2255,13 +2262,6 @@
       "pipeline": "Residential Sales",
       "stage": "Closed - Lost",
       "assigned": "Maddie Baird",
-      "days_stale": 11
-    },
-    {
-      "name": "Wible - Artificial Turf Installation",
-      "pipeline": "Residential Sales",
-      "stage": "Quote Sent",
-      "assigned": "Colin Corcoran",
       "days_stale": 11
     },
     {
@@ -2395,8 +2395,8 @@
       {
         "name": "Colin Corcoran",
         "calls": 0,
-        "sms": 336,
-        "emails": 24,
+        "sms": 332,
+        "emails": 20,
         "appointments": 22
       },
       {
@@ -2591,8 +2591,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-04-11T22:00:19.588501+00:00",
-      "window_end": "2026-04-18T22:00:19.588501+00:00",
+      "window_start": "2026-04-12T00:00:18.767095+00:00",
+      "window_end": "2026-04-19T00:00:18.767095+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -2857,8 +2857,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-03-19T22:00:19.588501+00:00",
-      "window_end": "2026-04-18T22:00:19.588501+00:00",
+      "window_start": "2026-03-20T00:00:18.767095+00:00",
+      "window_end": "2026-04-19T00:00:18.767095+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -2957,8 +2957,8 @@
           {
             "name": "Colin Corcoran",
             "calls": 0,
-            "sms": 336,
-            "emails": 24,
+            "sms": 332,
+            "emails": 20,
             "appointments": 22
           },
           {
@@ -3159,7 +3159,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-04-18T22:00:19.588501+00:00",
+      "window_end": "2026-04-19T00:00:18.767095+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3455,7 +3455,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-04-18T22:00:19.588501+00:00",
+      "window_end": "2026-04-19T00:00:18.767095+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
