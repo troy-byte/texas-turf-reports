@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19 12:03 UTC",
+  "generated_at": "2026-04-19 14:02 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -827,7 +827,7 @@
       "stagePos": 5,
       "source": null,
       "created": "2026-04-15",
-      "days": 3
+      "days": 4
     },
     {
       "id": "Wb3SGqxNlEpZxOflfcCE",
@@ -1532,7 +1532,7 @@
       "stagePos": 5,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-09",
-      "days": 40
+      "days": 41
     },
     {
       "id": "T9Yrbop6Hr5td1eYKRPZ",
@@ -2584,8 +2584,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-04-12T12:00:21.381672+00:00",
-      "window_end": "2026-04-19T12:00:21.381672+00:00",
+      "window_start": "2026-04-12T14:00:21.362464+00:00",
+      "window_end": "2026-04-19T14:00:21.362464+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -2850,8 +2850,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-03-20T12:00:21.381672+00:00",
-      "window_end": "2026-04-19T12:00:21.381672+00:00",
+      "window_start": "2026-03-20T14:00:21.362464+00:00",
+      "window_end": "2026-04-19T14:00:21.362464+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3152,7 +3152,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-04-19T12:00:21.381672+00:00",
+      "window_end": "2026-04-19T14:00:21.362464+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3448,7 +3448,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-04-19T12:00:21.381672+00:00",
+      "window_end": "2026-04-19T14:00:21.362464+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
