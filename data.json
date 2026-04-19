@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-19 16:02 UTC",
+  "generated_at": "2026-04-19 18:02 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -512,7 +512,7 @@
       "stagePos": 5,
       "source": null,
       "created": "2026-04-17",
-      "days": 1
+      "days": 2
     },
     {
       "id": "odwIJFbv4fj1iMtajErO",
@@ -707,7 +707,7 @@
       "stagePos": 2,
       "source": "Cold Call/Lunch and Learn",
       "created": "2026-04-02",
-      "days": 16
+      "days": 17
     },
     {
       "id": "qKy4MI00CzS1qKk7UODD",
@@ -737,7 +737,7 @@
       "stagePos": 0,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-02-25",
-      "days": 52
+      "days": 53
     },
     {
       "id": "m8dqquF8IdQtxkZBaMiR",
@@ -857,7 +857,7 @@
       "stagePos": 3,
       "source": null,
       "created": "2026-04-14",
-      "days": 4
+      "days": 5
     },
     {
       "id": "Gwy89Bo3MAtrxlxvJCn4",
@@ -872,7 +872,7 @@
       "stagePos": 3,
       "source": "website",
       "created": "2026-04-14",
-      "days": 4
+      "days": 5
     },
     {
       "id": "2gn5H8hR3Z5w15P7YQvL",
@@ -1082,7 +1082,7 @@
       "stagePos": 3,
       "source": null,
       "created": "2026-04-07",
-      "days": 11
+      "days": 12
     },
     {
       "id": "QE9ZC7ewACrDO0gK4y8I",
@@ -1202,7 +1202,7 @@
       "stagePos": 5,
       "source": null,
       "created": "2026-04-01",
-      "days": 17
+      "days": 18
     },
     {
       "id": "ZziAml94SZI1X1UN5NJs",
@@ -1232,7 +1232,7 @@
       "stagePos": 5,
       "source": null,
       "created": "2026-03-30",
-      "days": 19
+      "days": 20
     },
     {
       "id": "27xtxeqvLydM8QOxzfAj",
@@ -1322,7 +1322,7 @@
       "stagePos": 3,
       "source": "SMS",
       "created": "2026-03-25",
-      "days": 24
+      "days": 25
     },
     {
       "id": "fvxdWhCG3zXN2vEfVhpD",
@@ -1367,7 +1367,7 @@
       "stagePos": 0,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-24",
-      "days": 25
+      "days": 26
     },
     {
       "id": "MkcEDADKoD7o7pUWo0CO",
@@ -1412,7 +1412,7 @@
       "stagePos": 5,
       "source": null,
       "created": "2026-03-18",
-      "days": 31
+      "days": 32
     },
     {
       "id": "d48xYGEcxJFSWpUXLmhQ",
@@ -1502,7 +1502,7 @@
       "stagePos": 5,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-11",
-      "days": 38
+      "days": 39
     },
     {
       "id": "eKDaCbaJyMz9bwPbs4DD",
@@ -1562,7 +1562,7 @@
       "stagePos": 5,
       "source": "SMS",
       "created": "2026-03-05",
-      "days": 44
+      "days": 45
     },
     {
       "id": "866yE4njoeLS3hQbe3yu",
@@ -1667,7 +1667,7 @@
       "stagePos": 2,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-02-26",
-      "days": 51
+      "days": 52
     },
     {
       "id": "gL8jnK5GXVWSOXhdgb3U",
@@ -1727,7 +1727,7 @@
       "stagePos": 6,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-02-22",
-      "days": 55
+      "days": 56
     },
     {
       "id": "alGTmTMv4RvNorTTr6vo",
@@ -1787,7 +1787,7 @@
       "stagePos": 1,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-02-19",
-      "days": 58
+      "days": 59
     },
     {
       "id": "iFeW01S3JUzF10esnHyQ",
@@ -2038,42 +2038,42 @@
       "pipeline": "Residential Sales",
       "stage": "Two Way Conversation",
       "assigned": "Maddie Baird",
-      "days_stale": 43
+      "days_stale": 44
     },
     {
       "name": "Ethan Morris",
       "pipeline": "Residential Sales",
       "stage": "Preliminary Quote",
       "assigned": "Maddie Baird",
-      "days_stale": 43
+      "days_stale": 44
     },
     {
       "name": "Austin Plott",
       "pipeline": "Residential Sales",
       "stage": "Negotiation",
       "assigned": "Colin Corcoran",
-      "days_stale": 43
+      "days_stale": 44
     },
     {
       "name": "Cecilia",
       "pipeline": "Residential Sales",
       "stage": "Negotiation",
       "assigned": "Colin Corcoran",
-      "days_stale": 43
+      "days_stale": 44
     },
     {
       "name": "Alison Burrows",
       "pipeline": "Residential Sales",
       "stage": "Negotiation",
       "assigned": "Colin Corcoran",
-      "days_stale": 43
+      "days_stale": 44
     },
     {
       "name": "Jieling Kuo",
       "pipeline": "Residential Sales",
       "stage": "Negotiation",
       "assigned": "Colin Corcoran",
-      "days_stale": 43
+      "days_stale": 44
     },
     {
       "name": "Liz Beverding",
@@ -2157,7 +2157,7 @@
       "pipeline": "Residential Sales",
       "stage": "Site Evaluation",
       "assigned": "Colin Corcoran",
-      "days_stale": 24
+      "days_stale": 25
     },
     {
       "name": "Evan Harrison",
@@ -2216,6 +2216,27 @@
       "days_stale": 13
     },
     {
+      "name": "Valdovinos - Backyard Artificial Turf Installation",
+      "pipeline": "Residential Sales",
+      "stage": "Quote Sent",
+      "assigned": "Colin Corcoran",
+      "days_stale": 13
+    },
+    {
+      "name": "Westfall - Backyard Turf Installation",
+      "pipeline": "Residential Sales",
+      "stage": "Quote Sent",
+      "assigned": "Colin Corcoran",
+      "days_stale": 13
+    },
+    {
+      "name": "Frank Cacci",
+      "pipeline": "Residential Sales",
+      "stage": "Site Evaluation",
+      "assigned": "Colin Corcoran",
+      "days_stale": 12
+    },
+    {
       "name": "Wible - Artificial Turf Installation",
       "pipeline": "Residential Sales",
       "stage": "Quote Sent",
@@ -2228,27 +2249,6 @@
       "stage": "Quote Sent",
       "assigned": "Colin Corcoran",
       "days_stale": 12
-    },
-    {
-      "name": "Valdovinos - Backyard Artificial Turf Installation",
-      "pipeline": "Residential Sales",
-      "stage": "Quote Sent",
-      "assigned": "Colin Corcoran",
-      "days_stale": 12
-    },
-    {
-      "name": "Westfall - Backyard Turf Installation",
-      "pipeline": "Residential Sales",
-      "stage": "Quote Sent",
-      "assigned": "Colin Corcoran",
-      "days_stale": 12
-    },
-    {
-      "name": "Frank Cacci",
-      "pipeline": "Residential Sales",
-      "stage": "Site Evaluation",
-      "assigned": "Colin Corcoran",
-      "days_stale": 11
     },
     {
       "name": "Sai Pentyala",
@@ -2584,8 +2584,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-04-12T16:00:19.525260+00:00",
-      "window_end": "2026-04-19T16:00:19.525260+00:00",
+      "window_start": "2026-04-12T18:00:18.626256+00:00",
+      "window_end": "2026-04-19T18:00:18.626256+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -2850,8 +2850,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-03-20T16:00:19.525260+00:00",
-      "window_end": "2026-04-19T16:00:19.525260+00:00",
+      "window_start": "2026-03-20T18:00:18.626256+00:00",
+      "window_end": "2026-04-19T18:00:18.626256+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3152,7 +3152,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-04-19T16:00:19.525260+00:00",
+      "window_end": "2026-04-19T18:00:18.626256+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3448,7 +3448,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-04-19T16:00:19.525260+00:00",
+      "window_end": "2026-04-19T18:00:18.626256+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
