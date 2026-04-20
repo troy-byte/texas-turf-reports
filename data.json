@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-20 00:03 UTC",
+  "generated_at": "2026-04-20 02:02 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -740,6 +740,36 @@
       "days": 53
     },
     {
+      "id": "rE40LlDIlRwYfYVfqB54",
+      "name": "Adam",
+      "contactId": "oJOraiTyk4fw3bkrLZ1y",
+      "value": 0,
+      "status": "open",
+      "assignedTo": "Ia7FTzA4PSM97HV6p9Ua",
+      "region": "Residential Sales",
+      "pipelineId": "8beUyyP8wWSeZJiCjYqn",
+      "stage": "Lead",
+      "stagePos": 0,
+      "source": "Web Chat - TexasTurf USA website",
+      "created": "2026-04-20",
+      "days": 0
+    },
+    {
+      "id": "xWqeSgCB7WE9Rb3Jqaeo",
+      "name": "Adam Whalen",
+      "contactId": "sGgeJmZlGW2yOfyfplod",
+      "value": 0,
+      "status": "open",
+      "assignedTo": "Ia7FTzA4PSM97HV6p9Ua",
+      "region": "Residential Sales",
+      "pipelineId": "8beUyyP8wWSeZJiCjYqn",
+      "stage": "Lead",
+      "stagePos": 0,
+      "source": "Webform - TexasTurf USA website",
+      "created": "2026-04-20",
+      "days": 0
+    },
+    {
       "id": "m8dqquF8IdQtxkZBaMiR",
       "name": "Ruzicka - TexasTurf Installation: Mrs. Ruzicka",
       "contactId": "mjONs77tzPbPWm8OIonZ",
@@ -1022,7 +1052,7 @@
       "stagePos": 0,
       "source": "Web Chat - TexasTurf USA website",
       "created": "2026-04-09",
-      "days": 10
+      "days": 11
     },
     {
       "id": "0p9qZZhBkQGMlSJaKgEj",
@@ -1577,7 +1607,7 @@
       "stagePos": 7,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-05",
-      "days": 45
+      "days": 46
     },
     {
       "id": "BFTsVAksxhOQKeFp0vRk",
@@ -1907,10 +1937,10 @@
           },
           {
             "name": "Maddie Baird",
-            "new": 7,
+            "new": 9,
             "moved": 2,
             "lost": 10,
-            "open": 9
+            "open": 11
           },
           {
             "name": "Stefan Fulks",
@@ -1964,7 +1994,7 @@
         "name": "Maddie Baird",
         "calls": 104,
         "sms": 120,
-        "emails": 20,
+        "emails": 24,
         "appointments": 0
       },
       {
@@ -2293,13 +2323,13 @@
       },
       {
         "source": "Quote Inquiry Form Website",
-        "leads": 18,
+        "leads": 19,
         "opportunities": 0
       },
       {
         "source": "Webform - TexasTurf USA website",
         "leads": 0,
-        "opportunities": 16
+        "opportunities": 17
       },
       {
         "source": "Inbound Email",
@@ -2308,7 +2338,7 @@
       },
       {
         "source": "chat widget",
-        "leads": 6,
+        "leads": 7,
         "opportunities": 0
       },
       {
@@ -2324,7 +2354,7 @@
       {
         "source": "Web Chat - TexasTurf USA website",
         "leads": 0,
-        "opportunities": 4
+        "opportunities": 5
       },
       {
         "source": "Automation Score Quiz",
@@ -2367,7 +2397,7 @@
         "opportunities": 1
       }
     ],
-    "total_contacts": 140
+    "total_contacts": 142
   },
   "monthly_sales_activity": {
     "rows": [
@@ -2401,9 +2431,9 @@
       },
       {
         "name": "Maddie Baird",
-        "calls": 176,
+        "calls": 172,
         "sms": 332,
-        "emails": 40,
+        "emails": 44,
         "appointments": 0
       },
       {
@@ -2464,13 +2494,13 @@
       },
       {
         "source": "Quote Inquiry Form Website",
-        "leads": 10,
+        "leads": 11,
         "opportunities": 0
       },
       {
         "source": "Webform - TexasTurf USA website",
         "leads": 0,
-        "opportunities": 10
+        "opportunities": 11
       },
       {
         "source": "Inbound Email",
@@ -2479,7 +2509,7 @@
       },
       {
         "source": "chat widget",
-        "leads": 5,
+        "leads": 6,
         "opportunities": 0
       },
       {
@@ -2495,7 +2525,7 @@
       {
         "source": "Web Chat - TexasTurf USA website",
         "leads": 0,
-        "opportunities": 3
+        "opportunities": 4
       },
       {
         "source": "Review - Ratings",
@@ -2533,7 +2563,7 @@
         "opportunities": 1
       }
     ],
-    "total_contacts": 93
+    "total_contacts": 95
   },
   "quarterly_salesperson": {
     "rows": [
@@ -2560,8 +2590,8 @@
       },
       {
         "name": "Maddie Baird",
-        "created": 15,
-        "open": 9,
+        "created": 17,
+        "open": 11,
         "lost": 14,
         "activities": 0
       },
@@ -2584,8 +2614,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-04-13T00:00:39.400868+00:00",
-      "window_end": "2026-04-20T00:00:39.400868+00:00",
+      "window_start": "2026-04-13T02:00:16.610099+00:00",
+      "window_end": "2026-04-20T02:00:16.610099+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -2642,10 +2672,10 @@
               },
               {
                 "name": "Maddie Baird",
-                "new": 7,
+                "new": 9,
                 "moved": 2,
                 "lost": 10,
-                "open": 9
+                "open": 11
               },
               {
                 "name": "Stefan Fulks",
@@ -2699,7 +2729,7 @@
             "name": "Maddie Baird",
             "calls": 104,
             "sms": 120,
-            "emails": 20,
+            "emails": 24,
             "appointments": 0
           },
           {
@@ -2760,8 +2790,13 @@
           },
           {
             "source": "Quote Inquiry Form Website",
-            "leads": 5,
+            "leads": 6,
             "opportunities": 0
+          },
+          {
+            "source": "Webform - TexasTurf USA website",
+            "leads": 0,
+            "opportunities": 6
           },
           {
             "source": "Your Haven Event",
@@ -2769,13 +2804,8 @@
             "opportunities": 5
           },
           {
-            "source": "Webform - TexasTurf USA website",
-            "leads": 0,
-            "opportunities": 5
-          },
-          {
             "source": "chat widget",
-            "leads": 2,
+            "leads": 3,
             "opportunities": 0
           },
           {
@@ -2784,14 +2814,14 @@
             "opportunities": 0
           },
           {
+            "source": "Web Chat - TexasTurf USA website",
+            "leads": 0,
+            "opportunities": 2
+          },
+          {
             "source": "Call",
             "leads": 1,
             "opportunities": 0
-          },
-          {
-            "source": "Web Chat - TexasTurf USA website",
-            "leads": 0,
-            "opportunities": 1
           },
           {
             "source": "website",
@@ -2799,7 +2829,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 37
+        "total_contacts": 39
       },
       "salesperson": {
         "rows": [
@@ -2826,10 +2856,10 @@
           },
           {
             "name": "Maddie Baird",
-            "created": 7,
-            "open": 9,
+            "created": 9,
+            "open": 11,
             "lost": 14,
-            "activities": 7
+            "activities": 9
           },
           {
             "name": "Stefan Fulks",
@@ -2850,8 +2880,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-03-21T00:00:39.400868+00:00",
-      "window_end": "2026-04-20T00:00:39.400868+00:00",
+      "window_start": "2026-03-21T02:00:16.610099+00:00",
+      "window_end": "2026-04-20T02:00:16.610099+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -2908,10 +2938,10 @@
               },
               {
                 "name": "Maddie Baird",
-                "new": 18,
+                "new": 20,
                 "moved": 2,
                 "lost": 13,
-                "open": 9
+                "open": 11
               },
               {
                 "name": "Stefan Fulks",
@@ -2963,9 +2993,9 @@
           },
           {
             "name": "Maddie Baird",
-            "calls": 176,
+            "calls": 172,
             "sms": 332,
-            "emails": 40,
+            "emails": 44,
             "appointments": 0
           },
           {
@@ -3026,13 +3056,13 @@
           },
           {
             "source": "Quote Inquiry Form Website",
-            "leads": 18,
+            "leads": 19,
             "opportunities": 0
           },
           {
             "source": "Webform - TexasTurf USA website",
             "leads": 0,
-            "opportunities": 16
+            "opportunities": 17
           },
           {
             "source": "Inbound Email",
@@ -3041,7 +3071,7 @@
           },
           {
             "source": "chat widget",
-            "leads": 6,
+            "leads": 7,
             "opportunities": 0
           },
           {
@@ -3057,7 +3087,7 @@
           {
             "source": "Web Chat - TexasTurf USA website",
             "leads": 0,
-            "opportunities": 4
+            "opportunities": 5
           },
           {
             "source": "Automation Score Quiz",
@@ -3100,7 +3130,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 140
+        "total_contacts": 142
       },
       "salesperson": {
         "rows": [
@@ -3127,10 +3157,10 @@
           },
           {
             "name": "Maddie Baird",
-            "created": 18,
-            "open": 9,
+            "created": 20,
+            "open": 11,
             "lost": 14,
-            "activities": 18
+            "activities": 20
           },
           {
             "name": "Stefan Fulks",
@@ -3152,7 +3182,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-04-20T00:00:39.400868+00:00",
+      "window_end": "2026-04-20T02:00:16.610099+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3209,10 +3239,10 @@
               },
               {
                 "name": "Maddie Baird",
-                "new": 15,
+                "new": 17,
                 "moved": 2,
                 "lost": 12,
-                "open": 9
+                "open": 11
               },
               {
                 "name": "Stefan Fulks",
@@ -3264,9 +3294,9 @@
           },
           {
             "name": "Maddie Baird",
-            "calls": 156,
+            "calls": 152,
             "sms": 276,
-            "emails": 32,
+            "emails": 36,
             "appointments": 0
           },
           {
@@ -3327,13 +3357,13 @@
           },
           {
             "source": "Quote Inquiry Form Website",
-            "leads": 10,
+            "leads": 11,
             "opportunities": 0
           },
           {
             "source": "Webform - TexasTurf USA website",
             "leads": 0,
-            "opportunities": 10
+            "opportunities": 11
           },
           {
             "source": "Inbound Email",
@@ -3342,7 +3372,7 @@
           },
           {
             "source": "chat widget",
-            "leads": 5,
+            "leads": 6,
             "opportunities": 0
           },
           {
@@ -3358,7 +3388,7 @@
           {
             "source": "Web Chat - TexasTurf USA website",
             "leads": 0,
-            "opportunities": 3
+            "opportunities": 4
           },
           {
             "source": "Review - Ratings",
@@ -3396,7 +3426,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 93
+        "total_contacts": 95
       },
       "salesperson": {
         "rows": [
@@ -3423,10 +3453,10 @@
           },
           {
             "name": "Maddie Baird",
-            "created": 15,
-            "open": 9,
+            "created": 17,
+            "open": 11,
             "lost": 14,
-            "activities": 15
+            "activities": 17
           },
           {
             "name": "Stefan Fulks",
@@ -3448,7 +3478,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-04-20T00:00:39.400868+00:00",
+      "window_end": "2026-04-20T02:00:16.610099+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3505,10 +3535,10 @@
               },
               {
                 "name": "Maddie Baird",
-                "new": 23,
+                "new": 25,
                 "moved": 2,
                 "lost": 14,
-                "open": 9
+                "open": 11
               },
               {
                 "name": "Stefan Fulks",
@@ -3560,9 +3590,9 @@
           },
           {
             "name": "Maddie Baird",
-            "calls": 304,
+            "calls": 300,
             "sms": 524,
-            "emails": 48,
+            "emails": 52,
             "appointments": 1
           },
           {
@@ -3623,17 +3653,22 @@
           },
           {
             "source": "Quote Inquiry Form Website",
-            "leads": 42,
+            "leads": 43,
             "opportunities": 0
           },
           {
             "source": "Webform - TexasTurf USA website",
             "leads": 0,
-            "opportunities": 31
+            "opportunities": 32
           },
           {
             "source": "Inbound Email",
             "leads": 23,
+            "opportunities": 0
+          },
+          {
+            "source": "chat widget",
+            "leads": 16,
             "opportunities": 0
           },
           {
@@ -3642,14 +3677,9 @@
             "opportunities": 2
           },
           {
-            "source": "chat widget",
-            "leads": 15,
-            "opportunities": 0
-          },
-          {
             "source": "Web Chat - TexasTurf USA website",
             "leads": 0,
-            "opportunities": 9
+            "opportunities": 10
           },
           {
             "source": "Your Haven Event",
@@ -3717,7 +3747,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 442
+        "total_contacts": 444
       },
       "salesperson": {
         "rows": [
@@ -3744,10 +3774,10 @@
           },
           {
             "name": "Maddie Baird",
-            "created": 23,
-            "open": 9,
+            "created": 25,
+            "open": 11,
             "lost": 14,
-            "activities": 23
+            "activities": 25
           },
           {
             "name": "Stefan Fulks",
