@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-22 04:02 UTC",
+  "generated_at": "2026-04-22 06:02 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -2452,7 +2452,7 @@
       },
       {
         "source": "Inbound Email",
-        "leads": 10,
+        "leads": 11,
         "opportunities": 0
       },
       {
@@ -2526,7 +2526,7 @@
         "opportunities": 1
       }
     ],
-    "total_contacts": 152
+    "total_contacts": 153
   },
   "monthly_sales_activity": {
     "rows": [
@@ -2633,7 +2633,7 @@
       },
       {
         "source": "Inbound Email",
-        "leads": 8,
+        "leads": 9,
         "opportunities": 0
       },
       {
@@ -2702,7 +2702,7 @@
         "opportunities": 1
       }
     ],
-    "total_contacts": 108
+    "total_contacts": 109
   },
   "quarterly_salesperson": {
     "rows": [
@@ -2753,8 +2753,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-04-15T04:00:10.515446+00:00",
-      "window_end": "2026-04-22T04:00:10.515446+00:00",
+      "window_start": "2026-04-15T06:00:40.349138+00:00",
+      "window_end": "2026-04-22T06:00:40.349138+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -2938,12 +2938,12 @@
             "opportunities": 5
           },
           {
-            "source": "Call",
-            "leads": 3,
+            "source": "Inbound Email",
+            "leads": 4,
             "opportunities": 0
           },
           {
-            "source": "Inbound Email",
+            "source": "Call",
             "leads": 3,
             "opportunities": 0
           },
@@ -2973,7 +2973,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 39
+        "total_contacts": 40
       },
       "salesperson": {
         "rows": [
@@ -3024,8 +3024,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-03-23T04:00:10.515446+00:00",
-      "window_end": "2026-04-22T04:00:10.515446+00:00",
+      "window_start": "2026-03-23T06:00:40.349138+00:00",
+      "window_end": "2026-04-22T06:00:40.349138+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3210,7 +3210,7 @@
           },
           {
             "source": "Inbound Email",
-            "leads": 10,
+            "leads": 11,
             "opportunities": 0
           },
           {
@@ -3284,7 +3284,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 152
+        "total_contacts": 153
       },
       "salesperson": {
         "rows": [
@@ -3336,7 +3336,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-04-22T04:00:10.515446+00:00",
+      "window_end": "2026-04-22T06:00:40.349138+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3521,7 +3521,7 @@
           },
           {
             "source": "Inbound Email",
-            "leads": 8,
+            "leads": 9,
             "opportunities": 0
           },
           {
@@ -3590,7 +3590,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 108
+        "total_contacts": 109
       },
       "salesperson": {
         "rows": [
@@ -3642,7 +3642,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-04-22T04:00:10.515446+00:00",
+      "window_end": "2026-04-22T06:00:40.349138+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3827,7 +3827,7 @@
           },
           {
             "source": "Inbound Email",
-            "leads": 24,
+            "leads": 25,
             "opportunities": 0
           },
           {
@@ -3921,7 +3921,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 457
+        "total_contacts": 458
       },
       "salesperson": {
         "rows": [
