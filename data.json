@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24 22:02 UTC",
+  "generated_at": "2026-04-25 00:02 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -1331,7 +1331,7 @@
       "stagePos": 8,
       "source": null,
       "created": "2026-04-13",
-      "days": 10
+      "days": 11
     },
     {
       "id": "Ajlsl050QFvoIAvtK8Am",
@@ -1346,7 +1346,7 @@
       "stagePos": 0,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-04-13",
-      "days": 10
+      "days": 11
     },
     {
       "id": "lr0UcwTMZJbTZ1TjPATi",
@@ -1406,7 +1406,7 @@
       "stagePos": 0,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-04-12",
-      "days": 11
+      "days": 12
     },
     {
       "id": "Lu8YAiGAPC2dwuFDT28q",
@@ -1481,7 +1481,7 @@
       "stagePos": 0,
       "source": "Web Chat - TexasTurf USA website",
       "created": "2026-04-08",
-      "days": 15
+      "days": 16
     },
     {
       "id": "QvjqMP7TROVararClG1M",
@@ -1631,7 +1631,7 @@
       "stagePos": 10,
       "source": null,
       "created": "2026-04-01",
-      "days": 22
+      "days": 23
     },
     {
       "id": "Bn7FGcLdkPyQEZ23hRVl",
@@ -1661,7 +1661,7 @@
       "stagePos": 10,
       "source": "Web Chat - TexasTurf USA website",
       "created": "2026-03-30",
-      "days": 24
+      "days": 25
     },
     {
       "id": "YVjuSNdD89qIUk5aXEsi",
@@ -1721,7 +1721,7 @@
       "stagePos": 6,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-29",
-      "days": 25
+      "days": 26
     },
     {
       "id": "XzLgMjOmOOhD2zFH3RMt",
@@ -1773,15 +1773,15 @@
       "name": "Ruiz - Front Yard Artificial Turf and Rock Installation",
       "contactId": "YtYnbwbf7GOGFeChYXZI",
       "value": 13895.75,
-      "status": "open",
+      "status": "won",
       "assignedTo": "zl0MRdX7dfeqO8uHDA1k",
       "region": "Residential Sales",
       "pipelineId": "8beUyyP8wWSeZJiCjYqn",
-      "stage": "Quote Approved - Won",
-      "stagePos": 8,
+      "stage": "Job Complete",
+      "stagePos": 9,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-24",
-      "days": 30
+      "days": 31
     },
     {
       "id": "cfTkDpUUCFEAuWyHCE3B",
@@ -1796,7 +1796,7 @@
       "stagePos": 7,
       "source": null,
       "created": "2026-03-24",
-      "days": 30
+      "days": 31
     },
     {
       "id": "p8EAt3KTudgcwKJ0W6On",
@@ -1901,7 +1901,7 @@
       "stagePos": 0,
       "source": "Web Chat - TexasTurf USA website",
       "created": "2026-03-15",
-      "days": 39
+      "days": 40
     },
     {
       "id": "DOxQGTAdr5QOFJ38k6rw",
@@ -1976,7 +1976,7 @@
       "stagePos": 9,
       "source": null,
       "created": "2026-03-09",
-      "days": 45
+      "days": 46
     },
     {
       "id": "3MljZ1Wn2KMS50OFt4k9",
@@ -2276,7 +2276,7 @@
       "stagePos": 7,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-02-15",
-      "days": 67
+      "days": 68
     },
     {
       "id": "Y4zbn6CvPBaft271ld0l",
@@ -2295,21 +2295,21 @@
     },
     {
       "id": "NPVw3F47UYQyyFzBYjOv",
-      "name": "Andrew Moore",
+      "name": "Moore - Tree Rings",
       "contactId": "qgl2ZY9d4sxV36oJ3CuV",
-      "value": 0,
+      "value": 500,
       "status": "open",
       "assignedTo": "zl0MRdX7dfeqO8uHDA1k",
       "region": "Residential Sales",
       "pipelineId": "8beUyyP8wWSeZJiCjYqn",
-      "stage": "Job Complete",
-      "stagePos": 9,
+      "stage": "Quote Sent",
+      "stagePos": 5,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-02-11",
       "days": 72
     }
   ],
-  "window_weekly": "Apr 17 \u2013 Apr 24, 2026",
+  "window_weekly": "Apr 18 \u2013 Apr 25, 2026",
   "pipeline_opportunity": {
     "pipelines": [
       {
@@ -2360,9 +2360,9 @@
           {
             "name": "Colin Corcoran",
             "new": 8,
-            "moved": 46,
+            "moved": 48,
             "lost": 15,
-            "open": 34
+            "open": 33
           },
           {
             "name": "Ivana Fulks",
@@ -2415,7 +2415,7 @@
       {
         "name": "Colin Corcoran",
         "calls": 0,
-        "sms": 240,
+        "sms": 248,
         "emails": 12,
         "appointments": 3
       },
@@ -2456,7 +2456,7 @@
       },
       {
         "name": "Team TexasTurf",
-        "calls": 4,
+        "calls": 0,
         "sms": 0,
         "emails": 0,
         "appointments": 0
@@ -2490,7 +2490,7 @@
       "pipeline": "Commercial Sales",
       "stage": "Lead",
       "assigned": "Stefan Fulks",
-      "days_stale": 57
+      "days_stale": 58
     },
     {
       "name": "Mothana",
@@ -2634,13 +2634,6 @@
     },
     {
       "name": "Ashley Johnson",
-      "pipeline": "Residential Sales",
-      "stage": "Job Complete",
-      "assigned": "Colin Corcoran",
-      "days_stale": 8
-    },
-    {
-      "name": "Andrew Moore",
       "pipeline": "Residential Sales",
       "stage": "Job Complete",
       "assigned": "Colin Corcoran",
@@ -2895,7 +2888,7 @@
       {
         "name": "Colin Corcoran",
         "calls": 0,
-        "sms": 568,
+        "sms": 580,
         "emails": 32,
         "appointments": 24
       },
@@ -3109,7 +3102,7 @@
       {
         "name": "Colin Corcoran",
         "created": 18,
-        "open": 34,
+        "open": 33,
         "lost": 15,
         "activities": 0
       },
@@ -3146,8 +3139,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-04-17T22:00:12.929715+00:00",
-      "window_end": "2026-04-24T22:00:12.929715+00:00",
+      "window_start": "2026-04-18T00:00:14.640990+00:00",
+      "window_end": "2026-04-25T00:00:14.640990+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3198,9 +3191,9 @@
               {
                 "name": "Colin Corcoran",
                 "new": 8,
-                "moved": 46,
+                "moved": 48,
                 "lost": 15,
-                "open": 34
+                "open": 33
               },
               {
                 "name": "Ivana Fulks",
@@ -3253,7 +3246,7 @@
           {
             "name": "Colin Corcoran",
             "calls": 0,
-            "sms": 240,
+            "sms": 248,
             "emails": 12,
             "appointments": 3
           },
@@ -3294,7 +3287,7 @@
           },
           {
             "name": "Team TexasTurf",
-            "calls": 4,
+            "calls": 0,
             "sms": 0,
             "emails": 0,
             "appointments": 0
@@ -3432,7 +3425,7 @@
           {
             "name": "Colin Corcoran",
             "created": 8,
-            "open": 34,
+            "open": 33,
             "lost": 15,
             "activities": 8
           },
@@ -3469,8 +3462,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-03-25T22:00:12.929715+00:00",
-      "window_end": "2026-04-24T22:00:12.929715+00:00",
+      "window_start": "2026-03-26T00:00:14.640990+00:00",
+      "window_end": "2026-04-25T00:00:14.640990+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3521,9 +3514,9 @@
               {
                 "name": "Colin Corcoran",
                 "new": 23,
-                "moved": 46,
+                "moved": 48,
                 "lost": 15,
-                "open": 34
+                "open": 33
               },
               {
                 "name": "Ivana Fulks",
@@ -3576,7 +3569,7 @@
           {
             "name": "Colin Corcoran",
             "calls": 0,
-            "sms": 568,
+            "sms": 580,
             "emails": 32,
             "appointments": 24
           },
@@ -3795,7 +3788,7 @@
           {
             "name": "Colin Corcoran",
             "created": 23,
-            "open": 34,
+            "open": 33,
             "lost": 15,
             "activities": 23
           },
@@ -3833,7 +3826,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-04-24T22:00:12.929715+00:00",
+      "window_end": "2026-04-25T00:00:14.640990+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3884,9 +3877,9 @@
               {
                 "name": "Colin Corcoran",
                 "new": 18,
-                "moved": 46,
+                "moved": 48,
                 "lost": 15,
-                "open": 34
+                "open": 33
               },
               {
                 "name": "Ivana Fulks",
@@ -3939,7 +3932,7 @@
           {
             "name": "Colin Corcoran",
             "calls": 0,
-            "sms": 508,
+            "sms": 520,
             "emails": 28,
             "appointments": 20
           },
@@ -4153,7 +4146,7 @@
           {
             "name": "Colin Corcoran",
             "created": 18,
-            "open": 34,
+            "open": 33,
             "lost": 15,
             "activities": 18
           },
@@ -4191,7 +4184,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-04-24T22:00:12.929715+00:00",
+      "window_end": "2026-04-25T00:00:14.640990+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4242,9 +4235,9 @@
               {
                 "name": "Colin Corcoran",
                 "new": 52,
-                "moved": 46,
+                "moved": 48,
                 "lost": 15,
-                "open": 34
+                "open": 33
               },
               {
                 "name": "Ivana Fulks",
@@ -4297,7 +4290,7 @@
           {
             "name": "Colin Corcoran",
             "calls": 12,
-            "sms": 904,
+            "sms": 916,
             "emails": 64,
             "appointments": 71
           },
@@ -4536,7 +4529,7 @@
           {
             "name": "Colin Corcoran",
             "created": 52,
-            "open": 34,
+            "open": 33,
             "lost": 15,
             "activities": 52
           },
