@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-25 20:02 UTC",
+  "generated_at": "2026-04-25 22:02 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -446,7 +446,7 @@
       "stagePos": 1,
       "source": "Google/Cold Call",
       "created": "2026-04-24",
-      "days": 0
+      "days": 1
     },
     {
       "id": "Tx6dCpUZqIqLCiMkwlJf",
@@ -461,7 +461,7 @@
       "stagePos": 0,
       "source": "Google",
       "created": "2026-04-24",
-      "days": 0
+      "days": 1
     },
     {
       "id": "e6oizcklgwWrKUZvWZxP",
@@ -536,7 +536,7 @@
       "stagePos": 5,
       "source": null,
       "created": "2026-04-23",
-      "days": 1
+      "days": 2
     },
     {
       "id": "vHcmr7AN7ZeT09abeOrT",
@@ -551,7 +551,7 @@
       "stagePos": 5,
       "source": "referall",
       "created": "2026-04-23",
-      "days": 1
+      "days": 2
     },
     {
       "id": "CVd5ELDvm6NYI66DbUff",
@@ -611,7 +611,7 @@
       "stagePos": 5,
       "source": null,
       "created": "2026-04-21",
-      "days": 3
+      "days": 4
     },
     {
       "id": "ECCl3DYhwG9jlrQAUSbw",
@@ -626,7 +626,7 @@
       "stagePos": 1,
       "source": "Cold Call",
       "created": "2026-04-21",
-      "days": 3
+      "days": 4
     },
     {
       "id": "jfPA1jHrhL3448GDIBcn",
@@ -641,7 +641,7 @@
       "stagePos": 1,
       "source": "google-cold calls",
       "created": "2026-04-21",
-      "days": 3
+      "days": 4
     },
     {
       "id": "ge1AF168fed1ARDqQ2yi",
@@ -746,7 +746,7 @@
       "stagePos": 5,
       "source": "SMS",
       "created": "2026-04-16",
-      "days": 8
+      "days": 9
     },
     {
       "id": "w2M36f87fn8gkner4KY3",
@@ -761,7 +761,7 @@
       "stagePos": 5,
       "source": "SMS",
       "created": "2026-04-16",
-      "days": 8
+      "days": 9
     },
     {
       "id": "LS2LXXmPJzZDKeV7dRBE",
@@ -776,7 +776,7 @@
       "stagePos": 1,
       "source": null,
       "created": "2026-04-14",
-      "days": 10
+      "days": 11
     },
     {
       "id": "yreMWEhheWgLf4GeKFxj",
@@ -791,7 +791,7 @@
       "stagePos": 0,
       "source": "SMS",
       "created": "2026-04-14",
-      "days": 10
+      "days": 11
     },
     {
       "id": "7Z2lMdTcO4RULdCaJxGW",
@@ -896,7 +896,7 @@
       "stagePos": 0,
       "source": "Google",
       "created": "2026-04-02",
-      "days": 22
+      "days": 23
     },
     {
       "id": "0f1hcOFU04SPhUW1jh54",
@@ -941,7 +941,7 @@
       "stagePos": 5,
       "source": null,
       "created": "2026-03-30",
-      "days": 25
+      "days": 26
     },
     {
       "id": "Qso4YfbkoVusHUhHpBsJ",
@@ -971,7 +971,7 @@
       "stagePos": 3,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-04-24",
-      "days": 0
+      "days": 1
     },
     {
       "id": "vvlnhxlNurVALGh36lCN",
@@ -1016,7 +1016,7 @@
       "stagePos": 5,
       "source": null,
       "created": "2026-04-23",
-      "days": 1
+      "days": 2
     },
     {
       "id": "8DDDJzN1NSc6tsGwSqVx",
@@ -1031,7 +1031,7 @@
       "stagePos": 7,
       "source": "Lou Above All Landscaping",
       "created": "2026-04-23",
-      "days": 1
+      "days": 2
     },
     {
       "id": "mkZ2vvGhIh4bhSENcBtk",
@@ -1196,7 +1196,7 @@
       "stagePos": 5,
       "source": null,
       "created": "2026-04-17",
-      "days": 7
+      "days": 8
     },
     {
       "id": "dPHn8iXkLxUdKfG28XMC",
@@ -1421,7 +1421,7 @@
       "stagePos": 8,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-04-12",
-      "days": 12
+      "days": 13
     },
     {
       "id": "ZkTaO0OEygMfat9vyJ5e",
@@ -1451,7 +1451,7 @@
       "stagePos": 1,
       "source": null,
       "created": "2026-04-09",
-      "days": 15
+      "days": 16
     },
     {
       "id": "G7MF6qeCAFnNEh3vIWBg",
@@ -1496,7 +1496,7 @@
       "stagePos": 7,
       "source": null,
       "created": "2026-04-08",
-      "days": 16
+      "days": 17
     },
     {
       "id": "1WpuooorfgJFrmbC9SmR",
@@ -1841,7 +1841,7 @@
       "stagePos": 8,
       "source": null,
       "created": "2026-03-18",
-      "days": 37
+      "days": 38
     },
     {
       "id": "lrgeeBY40JwOua1vdS9g",
@@ -2141,7 +2141,7 @@
       "stagePos": 1,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-02-25",
-      "days": 58
+      "days": 59
     },
     {
       "id": "vX7lblbNkj1xBf8Tkteh",
@@ -2156,7 +2156,7 @@
       "stagePos": 10,
       "source": "SMS",
       "created": "2026-02-24",
-      "days": 59
+      "days": 60
     },
     {
       "id": "xYqmeHN1DI1o9j6YqTJn",
@@ -2171,7 +2171,7 @@
       "stagePos": 9,
       "source": "SMS",
       "created": "2026-02-24",
-      "days": 59
+      "days": 60
     },
     {
       "id": "PgbyuU5EAfxWFosjTFH1",
@@ -2261,7 +2261,7 @@
       "stagePos": 10,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-02-16",
-      "days": 67
+      "days": 68
     },
     {
       "id": "373crRWzva5uTrhUtbfy",
@@ -2291,7 +2291,7 @@
       "stagePos": 10,
       "source": "Web Chat - TexasTurf USA website",
       "created": "2026-02-12",
-      "days": 71
+      "days": 72
     },
     {
       "id": "NPVw3F47UYQyyFzBYjOv",
@@ -2518,14 +2518,14 @@
       "pipeline": "Commercial Sales",
       "stage": "Bid Submitted",
       "assigned": "Allison  Pasch",
-      "days_stale": 25
+      "days_stale": 26
     },
     {
       "name": "Danuta Reich",
       "pipeline": "Commercial Sales",
       "stage": "Meeting",
       "assigned": "Allison  Pasch",
-      "days_stale": 22
+      "days_stale": 23
     },
     {
       "name": "Reconnect with Southern Love",
@@ -2542,17 +2542,17 @@
       "days_stale": 19
     },
     {
-      "name": "Scott Lockhart",
-      "pipeline": "Commercial Sales",
-      "stage": "Lead",
-      "assigned": "Allison  Pasch",
-      "days_stale": 17
-    },
-    {
       "name": "Sai Pentyala",
       "pipeline": "Residential Sales",
       "stage": "Closed - Lost",
       "assigned": "Maddie Baird",
+      "days_stale": 18
+    },
+    {
+      "name": "Scott Lockhart",
+      "pipeline": "Commercial Sales",
+      "stage": "Lead",
+      "assigned": "Allison  Pasch",
       "days_stale": 17
     },
     {
@@ -2561,6 +2561,20 @@
       "stage": "Two Way Conversation",
       "assigned": "Maddie Baird",
       "days_stale": 17
+    },
+    {
+      "name": "Eric Wing",
+      "pipeline": "Commercial Sales",
+      "stage": "Two Way Conversation",
+      "assigned": "Allison  Pasch",
+      "days_stale": 11
+    },
+    {
+      "name": "Jeremy Mcconico",
+      "pipeline": "Commercial Sales",
+      "stage": "Lead",
+      "assigned": "Ivana Fulks",
+      "days_stale": 11
     },
     {
       "name": "Reconnect with KW LA",
@@ -2577,25 +2591,18 @@
       "days_stale": 11
     },
     {
-      "name": "Eric Wing",
-      "pipeline": "Commercial Sales",
-      "stage": "Two Way Conversation",
-      "assigned": "Allison  Pasch",
-      "days_stale": 10
-    },
-    {
-      "name": "Jeremy Mcconico",
-      "pipeline": "Commercial Sales",
-      "stage": "Lead",
-      "assigned": "Ivana Fulks",
-      "days_stale": 10
-    },
-    {
       "name": "Bill Walker",
       "pipeline": "Residential Sales",
       "stage": "Two Way Conversation",
       "assigned": "Maddie Baird",
       "days_stale": 10
+    },
+    {
+      "name": "Reconnect with SEC Planning",
+      "pipeline": "Commercial Sales",
+      "stage": "Meeting",
+      "assigned": "Allison  Pasch",
+      "days_stale": 9
     },
     {
       "name": "Abbie Bluer",
@@ -2696,17 +2703,17 @@
       "days_stale": 8
     },
     {
-      "name": "Reconnect with SEC Planning",
-      "pipeline": "Commercial Sales",
-      "stage": "Meeting",
-      "assigned": "Allison  Pasch",
-      "days_stale": 8
-    },
-    {
       "name": "Dallas Haney - Skate Park",
       "pipeline": "Commercial Sales",
       "stage": "Bid Submitted",
       "assigned": "Allison  Pasch",
+      "days_stale": 8
+    },
+    {
+      "name": "Ruzicka - TexasTurf Installation: Mrs. Ruzicka",
+      "pipeline": "Residential Sales",
+      "stage": "Quote Sent",
+      "assigned": "Unassigned",
       "days_stale": 8
     },
     {
@@ -2715,13 +2722,6 @@
       "stage": "Lead",
       "assigned": "Maddie Baird",
       "days_stale": 8
-    },
-    {
-      "name": "Ruzicka - TexasTurf Installation: Mrs. Ruzicka",
-      "pipeline": "Residential Sales",
-      "stage": "Quote Sent",
-      "assigned": "Unassigned",
-      "days_stale": 7
     },
     {
       "name": "Parris - Backyard Turf Installation",
@@ -2735,7 +2735,7 @@
     "rows": [
       {
         "source": "(none)",
-        "leads": 104,
+        "leads": 103,
         "opportunities": 34
       },
       {
@@ -2874,7 +2874,7 @@
         "opportunities": 1
       }
     ],
-    "total_contacts": 177
+    "total_contacts": 176
   },
   "monthly_sales_activity": {
     "rows": [
@@ -3146,8 +3146,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-04-18T20:00:09.205384+00:00",
-      "window_end": "2026-04-25T20:00:09.205384+00:00",
+      "window_start": "2026-04-18T22:00:09.919750+00:00",
+      "window_end": "2026-04-25T22:00:09.919750+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3469,8 +3469,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-03-26T20:00:09.205384+00:00",
-      "window_end": "2026-04-25T20:00:09.205384+00:00",
+      "window_start": "2026-03-26T22:00:09.919750+00:00",
+      "window_end": "2026-04-25T22:00:09.919750+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3642,7 +3642,7 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 104,
+            "leads": 103,
             "opportunities": 34
           },
           {
@@ -3781,7 +3781,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 177
+        "total_contacts": 176
       },
       "salesperson": {
         "rows": [
@@ -3833,7 +3833,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-04-25T20:00:09.205384+00:00",
+      "window_end": "2026-04-25T22:00:09.919750+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4191,7 +4191,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-04-25T20:00:09.205384+00:00",
+      "window_end": "2026-04-25T22:00:09.919750+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
