@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26 16:02 UTC",
+  "generated_at": "2026-04-26 18:02 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -491,7 +491,7 @@
       "stagePos": 0,
       "source": "Cold call/ old job in jobber",
       "created": "2026-04-24",
-      "days": 1
+      "days": 2
     },
     {
       "id": "5h8d5eQXNjMx5AQF7OZP",
@@ -566,7 +566,7 @@
       "stagePos": 0,
       "source": "Cold Call and Apollo",
       "created": "2026-04-23",
-      "days": 2
+      "days": 3
     },
     {
       "id": "FlKcDWN7dM5n4XXuZ4D8",
@@ -581,7 +581,7 @@
       "stagePos": 1,
       "source": "quote inquiry form website",
       "created": "2026-04-23",
-      "days": 2
+      "days": 3
     },
     {
       "id": "Eqtbchr7iWZHhhYFywe4",
@@ -731,7 +731,7 @@
       "stagePos": 5,
       "source": null,
       "created": "2026-04-17",
-      "days": 8
+      "days": 9
     },
     {
       "id": "odwIJFbv4fj1iMtajErO",
@@ -926,7 +926,7 @@
       "stagePos": 2,
       "source": "Cold Call/Lunch and Learn",
       "created": "2026-04-02",
-      "days": 23
+      "days": 24
     },
     {
       "id": "qKy4MI00CzS1qKk7UODD",
@@ -956,7 +956,7 @@
       "stagePos": 0,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-02-25",
-      "days": 59
+      "days": 60
     },
     {
       "id": "VJDFbBIhY03PKlB2WM05",
@@ -1001,7 +1001,7 @@
       "stagePos": 5,
       "source": null,
       "created": "2026-04-24",
-      "days": 1
+      "days": 2
     },
     {
       "id": "wzTbVWMuffGRI0gUGMG4",
@@ -1091,7 +1091,7 @@
       "stagePos": 7,
       "source": "SMS",
       "created": "2026-04-22",
-      "days": 3
+      "days": 4
     },
     {
       "id": "xoKAwWq02CQ483AwkGAR",
@@ -1301,7 +1301,7 @@
       "stagePos": 10,
       "source": null,
       "created": "2026-04-14",
-      "days": 11
+      "days": 12
     },
     {
       "id": "Gwy89Bo3MAtrxlxvJCn4",
@@ -1316,7 +1316,7 @@
       "stagePos": 10,
       "source": "website",
       "created": "2026-04-14",
-      "days": 11
+      "days": 12
     },
     {
       "id": "2gn5H8hR3Z5w15P7YQvL",
@@ -1526,7 +1526,7 @@
       "stagePos": 6,
       "source": null,
       "created": "2026-04-07",
-      "days": 18
+      "days": 19
     },
     {
       "id": "QE9ZC7ewACrDO0gK4y8I",
@@ -1646,7 +1646,7 @@
       "stagePos": 10,
       "source": null,
       "created": "2026-04-01",
-      "days": 24
+      "days": 25
     },
     {
       "id": "ZziAml94SZI1X1UN5NJs",
@@ -1676,7 +1676,7 @@
       "stagePos": 10,
       "source": null,
       "created": "2026-03-30",
-      "days": 26
+      "days": 27
     },
     {
       "id": "27xtxeqvLydM8QOxzfAj",
@@ -1766,7 +1766,7 @@
       "stagePos": 10,
       "source": "SMS",
       "created": "2026-03-25",
-      "days": 31
+      "days": 32
     },
     {
       "id": "fvxdWhCG3zXN2vEfVhpD",
@@ -1811,7 +1811,7 @@
       "stagePos": 0,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-24",
-      "days": 32
+      "days": 33
     },
     {
       "id": "MkcEDADKoD7o7pUWo0CO",
@@ -1856,7 +1856,7 @@
       "stagePos": 6,
       "source": null,
       "created": "2026-03-18",
-      "days": 38
+      "days": 39
     },
     {
       "id": "d48xYGEcxJFSWpUXLmhQ",
@@ -1946,7 +1946,7 @@
       "stagePos": 5,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-11",
-      "days": 45
+      "days": 46
     },
     {
       "id": "eKDaCbaJyMz9bwPbs4DD",
@@ -2021,7 +2021,7 @@
       "stagePos": 6,
       "source": "SMS",
       "created": "2026-03-05",
-      "days": 51
+      "days": 52
     },
     {
       "id": "866yE4njoeLS3hQbe3yu",
@@ -2126,7 +2126,7 @@
       "stagePos": 1,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-02-26",
-      "days": 58
+      "days": 59
     },
     {
       "id": "gL8jnK5GXVWSOXhdgb3U",
@@ -2186,7 +2186,7 @@
       "stagePos": 6,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-02-22",
-      "days": 62
+      "days": 63
     },
     {
       "id": "alGTmTMv4RvNorTTr6vo",
@@ -2246,7 +2246,7 @@
       "stagePos": 1,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-02-19",
-      "days": 65
+      "days": 66
     },
     {
       "id": "iFeW01S3JUzF10esnHyQ",
@@ -2497,7 +2497,7 @@
       "pipeline": "Residential Sales",
       "stage": "Two Way Conversation",
       "assigned": "Maddie Baird",
-      "days_stale": 50
+      "days_stale": 51
     },
     {
       "name": "Liz Beverding",
@@ -2626,9 +2626,51 @@
       "days_stale": 10
     },
     {
+      "name": "Mike Smith",
+      "pipeline": "Commercial Sales",
+      "stage": "Bid Submitted",
+      "assigned": "Allison  Pasch",
+      "days_stale": 9
+    },
+    {
+      "name": "Geethika Alla- dog park the legend",
+      "pipeline": "Commercial Sales",
+      "stage": "Bid Submitted",
+      "assigned": "Allison  Pasch",
+      "days_stale": 9
+    },
+    {
+      "name": "Geethika Alla- Movie Lawn at the Legend in Waco",
+      "pipeline": "Commercial Sales",
+      "stage": "Bid Submitted",
+      "assigned": "Allison  Pasch",
+      "days_stale": 9
+    },
+    {
+      "name": "Bobby Charles- Turners Crossing",
+      "pipeline": "Commercial Sales",
+      "stage": "Bid Submitted",
+      "assigned": "Allison  Pasch",
+      "days_stale": 9
+    },
+    {
+      "name": "Bobby Charles- San Gabriel Amenity ",
+      "pipeline": "Commercial Sales",
+      "stage": "Bid Submitted",
+      "assigned": "Allison  Pasch",
+      "days_stale": 9
+    },
+    {
       "name": "Reconnect with SEC Planning",
       "pipeline": "Commercial Sales",
       "stage": "Meeting",
+      "assigned": "Allison  Pasch",
+      "days_stale": 9
+    },
+    {
+      "name": "Dallas Haney - Skate Park",
+      "pipeline": "Commercial Sales",
+      "stage": "Bid Submitted",
       "assigned": "Allison  Pasch",
       "days_stale": 9
     },
@@ -2675,48 +2717,6 @@
       "days_stale": 8
     },
     {
-      "name": "Mike Smith",
-      "pipeline": "Commercial Sales",
-      "stage": "Bid Submitted",
-      "assigned": "Allison  Pasch",
-      "days_stale": 8
-    },
-    {
-      "name": "Geethika Alla- dog park the legend",
-      "pipeline": "Commercial Sales",
-      "stage": "Bid Submitted",
-      "assigned": "Allison  Pasch",
-      "days_stale": 8
-    },
-    {
-      "name": "Geethika Alla- Movie Lawn at the Legend in Waco",
-      "pipeline": "Commercial Sales",
-      "stage": "Bid Submitted",
-      "assigned": "Allison  Pasch",
-      "days_stale": 8
-    },
-    {
-      "name": "Bobby Charles- Turners Crossing",
-      "pipeline": "Commercial Sales",
-      "stage": "Bid Submitted",
-      "assigned": "Allison  Pasch",
-      "days_stale": 8
-    },
-    {
-      "name": "Bobby Charles- San Gabriel Amenity ",
-      "pipeline": "Commercial Sales",
-      "stage": "Bid Submitted",
-      "assigned": "Allison  Pasch",
-      "days_stale": 8
-    },
-    {
-      "name": "Dallas Haney - Skate Park",
-      "pipeline": "Commercial Sales",
-      "stage": "Bid Submitted",
-      "assigned": "Allison  Pasch",
-      "days_stale": 8
-    },
-    {
       "name": "Ruzicka - TexasTurf Installation: Mrs. Ruzicka",
       "pipeline": "Residential Sales",
       "stage": "Quote Sent",
@@ -2740,7 +2740,7 @@
       },
       {
         "source": "SMS",
-        "leads": 26,
+        "leads": 25,
         "opportunities": 5
       },
       {
@@ -2874,7 +2874,7 @@
         "opportunities": 1
       }
     ],
-    "total_contacts": 175
+    "total_contacts": 174
   },
   "monthly_sales_activity": {
     "rows": [
@@ -3146,8 +3146,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-04-19T16:00:15.497030+00:00",
-      "window_end": "2026-04-26T16:00:15.497030+00:00",
+      "window_start": "2026-04-19T18:00:11.313317+00:00",
+      "window_end": "2026-04-26T18:00:11.313317+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3469,8 +3469,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-03-27T16:00:15.497030+00:00",
-      "window_end": "2026-04-26T16:00:15.497030+00:00",
+      "window_start": "2026-03-27T18:00:11.313317+00:00",
+      "window_end": "2026-04-26T18:00:11.313317+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3647,7 +3647,7 @@
           },
           {
             "source": "SMS",
-            "leads": 26,
+            "leads": 25,
             "opportunities": 5
           },
           {
@@ -3781,7 +3781,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 175
+        "total_contacts": 174
       },
       "salesperson": {
         "rows": [
@@ -3833,7 +3833,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-04-26T16:00:15.497030+00:00",
+      "window_end": "2026-04-26T18:00:11.313317+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4191,7 +4191,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-04-26T16:00:15.497030+00:00",
+      "window_end": "2026-04-26T18:00:11.313317+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
