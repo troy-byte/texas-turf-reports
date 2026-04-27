@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-26 22:02 UTC",
+  "generated_at": "2026-04-27 00:02 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -1331,7 +1331,7 @@
       "stagePos": 8,
       "source": null,
       "created": "2026-04-13",
-      "days": 12
+      "days": 13
     },
     {
       "id": "Ajlsl050QFvoIAvtK8Am",
@@ -1346,7 +1346,7 @@
       "stagePos": 0,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-04-13",
-      "days": 12
+      "days": 13
     },
     {
       "id": "lr0UcwTMZJbTZ1TjPATi",
@@ -1406,7 +1406,7 @@
       "stagePos": 0,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-04-12",
-      "days": 13
+      "days": 14
     },
     {
       "id": "Lu8YAiGAPC2dwuFDT28q",
@@ -1481,7 +1481,7 @@
       "stagePos": 0,
       "source": "Web Chat - TexasTurf USA website",
       "created": "2026-04-08",
-      "days": 17
+      "days": 18
     },
     {
       "id": "QvjqMP7TROVararClG1M",
@@ -1631,7 +1631,7 @@
       "stagePos": 10,
       "source": null,
       "created": "2026-04-01",
-      "days": 24
+      "days": 25
     },
     {
       "id": "Bn7FGcLdkPyQEZ23hRVl",
@@ -1661,7 +1661,7 @@
       "stagePos": 10,
       "source": "Web Chat - TexasTurf USA website",
       "created": "2026-03-30",
-      "days": 26
+      "days": 27
     },
     {
       "id": "YVjuSNdD89qIUk5aXEsi",
@@ -1721,7 +1721,7 @@
       "stagePos": 6,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-29",
-      "days": 27
+      "days": 28
     },
     {
       "id": "XzLgMjOmOOhD2zFH3RMt",
@@ -1781,7 +1781,7 @@
       "stagePos": 9,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-24",
-      "days": 32
+      "days": 33
     },
     {
       "id": "cfTkDpUUCFEAuWyHCE3B",
@@ -1796,7 +1796,7 @@
       "stagePos": 7,
       "source": null,
       "created": "2026-03-24",
-      "days": 32
+      "days": 33
     },
     {
       "id": "p8EAt3KTudgcwKJ0W6On",
@@ -1901,7 +1901,7 @@
       "stagePos": 0,
       "source": "Web Chat - TexasTurf USA website",
       "created": "2026-03-15",
-      "days": 41
+      "days": 42
     },
     {
       "id": "DOxQGTAdr5QOFJ38k6rw",
@@ -1937,7 +1937,7 @@
       "id": "dfx48ESqbLmZVWXCV5gQ",
       "name": "Dawdy - No Infill AGL Grass Turf Installation",
       "contactId": "L0s8gWbYgNH1wzjMX7TD",
-      "value": 9000,
+      "value": 8700,
       "status": "open",
       "assignedTo": "zl0MRdX7dfeqO8uHDA1k",
       "region": "Residential Sales",
@@ -1976,7 +1976,7 @@
       "stagePos": 9,
       "source": null,
       "created": "2026-03-09",
-      "days": 47
+      "days": 48
     },
     {
       "id": "3MljZ1Wn2KMS50OFt4k9",
@@ -2276,7 +2276,7 @@
       "stagePos": 7,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-02-15",
-      "days": 69
+      "days": 70
     },
     {
       "id": "Y4zbn6CvPBaft271ld0l",
@@ -2309,7 +2309,7 @@
       "days": 74
     }
   ],
-  "window_weekly": "Apr 19 \u2013 Apr 26, 2026",
+  "window_weekly": "Apr 20 \u2013 Apr 27, 2026",
   "pipeline_opportunity": {
     "pipelines": [
       {
@@ -2415,7 +2415,7 @@
       {
         "name": "Colin Corcoran",
         "calls": 0,
-        "sms": 256,
+        "sms": 264,
         "emails": 12,
         "appointments": 3
       },
@@ -2490,7 +2490,7 @@
       "pipeline": "Commercial Sales",
       "stage": "Lead",
       "assigned": "Stefan Fulks",
-      "days_stale": 59
+      "days_stale": 60
     },
     {
       "name": "Mothana",
@@ -2895,7 +2895,7 @@
       {
         "name": "Colin Corcoran",
         "calls": 0,
-        "sms": 588,
+        "sms": 596,
         "emails": 32,
         "appointments": 21
       },
@@ -3146,8 +3146,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-04-19T22:00:11.686120+00:00",
-      "window_end": "2026-04-26T22:00:11.686120+00:00",
+      "window_start": "2026-04-20T00:00:09.396610+00:00",
+      "window_end": "2026-04-27T00:00:09.396610+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3253,7 +3253,7 @@
           {
             "name": "Colin Corcoran",
             "calls": 0,
-            "sms": 256,
+            "sms": 264,
             "emails": 12,
             "appointments": 3
           },
@@ -3469,8 +3469,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-03-27T22:00:11.686120+00:00",
-      "window_end": "2026-04-26T22:00:11.686120+00:00",
+      "window_start": "2026-03-28T00:00:09.396610+00:00",
+      "window_end": "2026-04-27T00:00:09.396610+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3576,7 +3576,7 @@
           {
             "name": "Colin Corcoran",
             "calls": 0,
-            "sms": 588,
+            "sms": 596,
             "emails": 32,
             "appointments": 21
           },
@@ -3833,7 +3833,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-04-26T22:00:11.686120+00:00",
+      "window_end": "2026-04-27T00:00:09.396610+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3939,7 +3939,7 @@
           {
             "name": "Colin Corcoran",
             "calls": 0,
-            "sms": 532,
+            "sms": 540,
             "emails": 28,
             "appointments": 20
           },
@@ -4191,7 +4191,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-04-26T22:00:11.686120+00:00",
+      "window_end": "2026-04-27T00:00:09.396610+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4297,7 +4297,7 @@
           {
             "name": "Colin Corcoran",
             "calls": 12,
-            "sms": 928,
+            "sms": 936,
             "emails": 64,
             "appointments": 71
           },
