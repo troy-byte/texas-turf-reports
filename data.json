@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27 12:02 UTC",
+  "generated_at": "2026-04-27 14:02 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -994,7 +994,7 @@
       "contactId": "WDBL4Z7E2hZKagQveRSo",
       "value": 48925,
       "status": "open",
-      "assignedTo": null,
+      "assignedTo": "1IhAmqekEKSI4aJ3DZaY",
       "region": "Residential Sales",
       "pipelineId": "8beUyyP8wWSeZJiCjYqn",
       "stage": "Quote Sent",
@@ -1188,12 +1188,12 @@
       "name": "Ruzicka - TexasTurf Installation: Mrs. Ruzicka",
       "contactId": "mjONs77tzPbPWm8OIonZ",
       "value": 3999,
-      "status": "open",
-      "assignedTo": null,
+      "status": "lost",
+      "assignedTo": "NvdM0ul8JyUzLb5uzSmK",
       "region": "Residential Sales",
       "pipelineId": "8beUyyP8wWSeZJiCjYqn",
-      "stage": "Quote Sent",
-      "stagePos": 5,
+      "stage": "Closed - Lost",
+      "stagePos": 10,
       "source": null,
       "created": "2026-04-17",
       "days": 9
@@ -1271,7 +1271,7 @@
       "stagePos": 7,
       "source": null,
       "created": "2026-04-15",
-      "days": 11
+      "days": 12
     },
     {
       "id": "Wb3SGqxNlEpZxOflfcCE",
@@ -1991,7 +1991,7 @@
       "stagePos": 10,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-09",
-      "days": 48
+      "days": 49
     },
     {
       "id": "T9Yrbop6Hr5td1eYKRPZ",
@@ -2380,17 +2380,24 @@
           },
           {
             "name": "Stefan Fulks",
-            "new": 0,
+            "new": 1,
             "moved": 1,
             "lost": 0,
-            "open": 1
+            "open": 2
+          },
+          {
+            "name": "Troy  Fulks",
+            "new": 0,
+            "moved": 1,
+            "lost": 1,
+            "open": 0
           },
           {
             "name": "Unassigned",
-            "new": 1,
+            "new": 0,
             "moved": 0,
             "lost": 0,
-            "open": 3
+            "open": 1
           }
         ]
       }
@@ -2428,7 +2435,7 @@
       },
       {
         "name": "Maddie Baird",
-        "calls": 68,
+        "calls": 72,
         "sms": 160,
         "emails": 12,
         "appointments": 0
@@ -2710,13 +2717,6 @@
       "days_stale": 9
     },
     {
-      "name": "Ruzicka - TexasTurf Installation: Mrs. Ruzicka",
-      "pipeline": "Residential Sales",
-      "stage": "Quote Sent",
-      "assigned": "Unassigned",
-      "days_stale": 9
-    },
-    {
       "name": "Samuel Massad",
       "pipeline": "Residential Sales",
       "stage": "Lead",
@@ -2742,7 +2742,7 @@
     "rows": [
       {
         "source": "(none)",
-        "leads": 100,
+        "leads": 102,
         "opportunities": 34
       },
       {
@@ -2881,7 +2881,7 @@
         "opportunities": 1
       }
     ],
-    "total_contacts": 173
+    "total_contacts": 175
   },
   "monthly_sales_activity": {
     "rows": [
@@ -2915,9 +2915,9 @@
       },
       {
         "name": "Maddie Baird",
-        "calls": 116,
-        "sms": 232,
-        "emails": 36,
+        "calls": 120,
+        "sms": 228,
+        "emails": 32,
         "appointments": 0
       },
       {
@@ -2968,7 +2968,7 @@
     "rows": [
       {
         "source": "(none)",
-        "leads": 90,
+        "leads": 92,
         "opportunities": 31
       },
       {
@@ -3102,7 +3102,7 @@
         "opportunities": 1
       }
     ],
-    "total_contacts": 150
+    "total_contacts": 152
   },
   "quarterly_salesperson": {
     "rows": [
@@ -3136,15 +3136,22 @@
       },
       {
         "name": "Stefan Fulks",
-        "created": 2,
-        "open": 2,
+        "created": 3,
+        "open": 3,
         "lost": 0,
         "activities": 0
       },
       {
+        "name": "Troy  Fulks",
+        "created": 1,
+        "open": 0,
+        "lost": 1,
+        "activities": 0
+      },
+      {
         "name": "Unassigned",
-        "created": 3,
-        "open": 3,
+        "created": 1,
+        "open": 1,
         "lost": 0,
         "activities": 0
       }
@@ -3153,8 +3160,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-04-20T12:00:15.352451+00:00",
-      "window_end": "2026-04-27T12:00:15.352451+00:00",
+      "window_start": "2026-04-20T14:00:11.775576+00:00",
+      "window_end": "2026-04-27T14:00:11.775576+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3225,17 +3232,24 @@
               },
               {
                 "name": "Stefan Fulks",
-                "new": 0,
+                "new": 1,
                 "moved": 1,
                 "lost": 0,
-                "open": 1
+                "open": 2
+              },
+              {
+                "name": "Troy  Fulks",
+                "new": 0,
+                "moved": 1,
+                "lost": 1,
+                "open": 0
               },
               {
                 "name": "Unassigned",
-                "new": 1,
+                "new": 0,
                 "moved": 0,
                 "lost": 0,
-                "open": 3
+                "open": 1
               }
             ]
           }
@@ -3273,7 +3287,7 @@
           },
           {
             "name": "Maddie Baird",
-            "calls": 68,
+            "calls": 72,
             "sms": 160,
             "emails": 12,
             "appointments": 0
@@ -3326,7 +3340,7 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 41,
+            "leads": 43,
             "opportunities": 10
           },
           {
@@ -3415,7 +3429,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 55
+        "total_contacts": 57
       },
       "salesperson": {
         "rows": [
@@ -3449,25 +3463,32 @@
           },
           {
             "name": "Stefan Fulks",
-            "created": 0,
-            "open": 2,
-            "lost": 0,
-            "activities": 0
-          },
-          {
-            "name": "Unassigned",
             "created": 1,
             "open": 3,
             "lost": 0,
             "activities": 1
+          },
+          {
+            "name": "Troy  Fulks",
+            "created": 0,
+            "open": 0,
+            "lost": 1,
+            "activities": 0
+          },
+          {
+            "name": "Unassigned",
+            "created": 0,
+            "open": 1,
+            "lost": 0,
+            "activities": 0
           }
         ]
       }
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-03-28T12:00:15.352451+00:00",
-      "window_end": "2026-04-27T12:00:15.352451+00:00",
+      "window_start": "2026-03-28T14:00:11.775576+00:00",
+      "window_end": "2026-04-27T14:00:11.775576+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3538,17 +3559,24 @@
               },
               {
                 "name": "Stefan Fulks",
-                "new": 2,
+                "new": 3,
                 "moved": 1,
                 "lost": 0,
-                "open": 1
+                "open": 2
+              },
+              {
+                "name": "Troy  Fulks",
+                "new": 1,
+                "moved": 1,
+                "lost": 1,
+                "open": 0
               },
               {
                 "name": "Unassigned",
-                "new": 3,
+                "new": 1,
                 "moved": 0,
                 "lost": 0,
-                "open": 3
+                "open": 1
               }
             ]
           }
@@ -3586,9 +3614,9 @@
           },
           {
             "name": "Maddie Baird",
-            "calls": 116,
-            "sms": 232,
-            "emails": 36,
+            "calls": 120,
+            "sms": 228,
+            "emails": 32,
             "appointments": 0
           },
           {
@@ -3639,7 +3667,7 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 100,
+            "leads": 102,
             "opportunities": 34
           },
           {
@@ -3778,7 +3806,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 173
+        "total_contacts": 175
       },
       "salesperson": {
         "rows": [
@@ -3812,17 +3840,24 @@
           },
           {
             "name": "Stefan Fulks",
-            "created": 2,
-            "open": 2,
-            "lost": 0,
-            "activities": 2
-          },
-          {
-            "name": "Unassigned",
             "created": 3,
             "open": 3,
             "lost": 0,
             "activities": 3
+          },
+          {
+            "name": "Troy  Fulks",
+            "created": 1,
+            "open": 0,
+            "lost": 1,
+            "activities": 1
+          },
+          {
+            "name": "Unassigned",
+            "created": 1,
+            "open": 1,
+            "lost": 0,
+            "activities": 1
           }
         ]
       }
@@ -3830,7 +3865,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-04-27T12:00:15.352451+00:00",
+      "window_end": "2026-04-27T14:00:11.775576+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3901,17 +3936,24 @@
               },
               {
                 "name": "Stefan Fulks",
-                "new": 2,
+                "new": 3,
                 "moved": 1,
                 "lost": 0,
-                "open": 1
+                "open": 2
+              },
+              {
+                "name": "Troy  Fulks",
+                "new": 1,
+                "moved": 1,
+                "lost": 1,
+                "open": 0
               },
               {
                 "name": "Unassigned",
-                "new": 3,
+                "new": 1,
                 "moved": 0,
                 "lost": 0,
-                "open": 3
+                "open": 1
               }
             ]
           }
@@ -3949,9 +3991,9 @@
           },
           {
             "name": "Maddie Baird",
-            "calls": 112,
-            "sms": 224,
-            "emails": 32,
+            "calls": 116,
+            "sms": 220,
+            "emails": 28,
             "appointments": 0
           },
           {
@@ -4002,7 +4044,7 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 90,
+            "leads": 92,
             "opportunities": 31
           },
           {
@@ -4136,7 +4178,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 150
+        "total_contacts": 152
       },
       "salesperson": {
         "rows": [
@@ -4170,17 +4212,24 @@
           },
           {
             "name": "Stefan Fulks",
-            "created": 2,
-            "open": 2,
-            "lost": 0,
-            "activities": 2
-          },
-          {
-            "name": "Unassigned",
             "created": 3,
             "open": 3,
             "lost": 0,
             "activities": 3
+          },
+          {
+            "name": "Troy  Fulks",
+            "created": 1,
+            "open": 0,
+            "lost": 1,
+            "activities": 1
+          },
+          {
+            "name": "Unassigned",
+            "created": 1,
+            "open": 1,
+            "lost": 0,
+            "activities": 1
           }
         ]
       }
@@ -4188,7 +4237,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-04-27T12:00:15.352451+00:00",
+      "window_end": "2026-04-27T14:00:11.775576+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4259,17 +4308,24 @@
               },
               {
                 "name": "Stefan Fulks",
-                "new": 2,
+                "new": 3,
                 "moved": 1,
                 "lost": 0,
-                "open": 1
+                "open": 2
+              },
+              {
+                "name": "Troy  Fulks",
+                "new": 1,
+                "moved": 1,
+                "lost": 1,
+                "open": 0
               },
               {
                 "name": "Unassigned",
-                "new": 3,
+                "new": 1,
                 "moved": 0,
                 "lost": 0,
-                "open": 3
+                "open": 1
               }
             ]
           }
@@ -4307,9 +4363,9 @@
           },
           {
             "name": "Maddie Baird",
-            "calls": 196,
-            "sms": 376,
-            "emails": 68,
+            "calls": 200,
+            "sms": 372,
+            "emails": 64,
             "appointments": 1
           },
           {
@@ -4360,7 +4416,7 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 295,
+            "leads": 297,
             "opportunities": 43
           },
           {
@@ -4519,7 +4575,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 499
+        "total_contacts": 501
       },
       "salesperson": {
         "rows": [
@@ -4553,17 +4609,24 @@
           },
           {
             "name": "Stefan Fulks",
-            "created": 3,
-            "open": 2,
+            "created": 4,
+            "open": 3,
             "lost": 0,
-            "activities": 3
+            "activities": 4
+          },
+          {
+            "name": "Troy  Fulks",
+            "created": 1,
+            "open": 0,
+            "lost": 1,
+            "activities": 1
           },
           {
             "name": "Unassigned",
-            "created": 3,
-            "open": 3,
+            "created": 1,
+            "open": 1,
             "lost": 0,
-            "activities": 3
+            "activities": 1
           }
         ]
       }
