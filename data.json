@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28 12:02 UTC",
+  "generated_at": "2026-04-28 14:03 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -1426,7 +1426,7 @@
       "stagePos": 7,
       "source": null,
       "created": "2026-04-15",
-      "days": 12
+      "days": 13
     },
     {
       "id": "Wb3SGqxNlEpZxOflfcCE",
@@ -2146,7 +2146,7 @@
       "stagePos": 10,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-09",
-      "days": 49
+      "days": 50
     },
     {
       "id": "T9Yrbop6Hr5td1eYKRPZ",
@@ -2834,7 +2834,7 @@
     "rows": [
       {
         "source": "(none)",
-        "leads": 117,
+        "leads": 118,
         "opportunities": 38
       },
       {
@@ -2983,7 +2983,7 @@
         "opportunities": 1
       }
     ],
-    "total_contacts": 192
+    "total_contacts": 193
   },
   "monthly_sales_activity": {
     "rows": [
@@ -3004,7 +3004,7 @@
       {
         "name": "Colin Corcoran",
         "calls": 0,
-        "sms": 528,
+        "sms": 512,
         "emails": 28,
         "appointments": 21
       },
@@ -3070,7 +3070,7 @@
     "rows": [
       {
         "source": "(none)",
-        "leads": 107,
+        "leads": 108,
         "opportunities": 35
       },
       {
@@ -3214,7 +3214,7 @@
         "opportunities": 1
       }
     ],
-    "total_contacts": 170
+    "total_contacts": 171
   },
   "quarterly_salesperson": {
     "rows": [
@@ -3272,8 +3272,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-04-21T12:00:11.153908+00:00",
-      "window_end": "2026-04-28T12:00:11.153908+00:00",
+      "window_start": "2026-04-21T14:00:12.236465+00:00",
+      "window_end": "2026-04-28T14:00:12.236465+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3438,7 +3438,7 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 54,
+            "leads": 55,
             "opportunities": 14
           },
           {
@@ -3547,7 +3547,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 70
+        "total_contacts": 71
       },
       "salesperson": {
         "rows": [
@@ -3605,8 +3605,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-03-29T12:00:11.153908+00:00",
-      "window_end": "2026-04-28T12:00:11.153908+00:00",
+      "window_start": "2026-03-29T14:00:12.236465+00:00",
+      "window_end": "2026-04-28T14:00:12.236465+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3705,7 +3705,7 @@
           {
             "name": "Colin Corcoran",
             "calls": 0,
-            "sms": 528,
+            "sms": 512,
             "emails": 28,
             "appointments": 21
           },
@@ -3771,7 +3771,7 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 117,
+            "leads": 118,
             "opportunities": 38
           },
           {
@@ -3920,7 +3920,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 192
+        "total_contacts": 193
       },
       "salesperson": {
         "rows": [
@@ -3979,7 +3979,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-04-28T12:00:11.153908+00:00",
+      "window_end": "2026-04-28T14:00:12.236465+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4144,7 +4144,7 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 107,
+            "leads": 108,
             "opportunities": 35
           },
           {
@@ -4288,7 +4288,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 170
+        "total_contacts": 171
       },
       "salesperson": {
         "rows": [
@@ -4347,7 +4347,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-04-28T12:00:11.153908+00:00",
+      "window_end": "2026-04-28T14:00:12.236465+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4512,7 +4512,7 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 312,
+            "leads": 313,
             "opportunities": 47
           },
           {
@@ -4681,7 +4681,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 519
+        "total_contacts": 520
       },
       "salesperson": {
         "rows": [
