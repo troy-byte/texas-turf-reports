@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27 22:02 UTC",
+  "generated_at": "2026-04-28 00:02 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -1486,7 +1486,7 @@
       "stagePos": 8,
       "source": null,
       "created": "2026-04-13",
-      "days": 13
+      "days": 14
     },
     {
       "id": "Ajlsl050QFvoIAvtK8Am",
@@ -1501,7 +1501,7 @@
       "stagePos": 0,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-04-13",
-      "days": 13
+      "days": 14
     },
     {
       "id": "lr0UcwTMZJbTZ1TjPATi",
@@ -1561,7 +1561,7 @@
       "stagePos": 0,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-04-12",
-      "days": 14
+      "days": 15
     },
     {
       "id": "Lu8YAiGAPC2dwuFDT28q",
@@ -1636,7 +1636,7 @@
       "stagePos": 0,
       "source": "Web Chat - TexasTurf USA website",
       "created": "2026-04-08",
-      "days": 18
+      "days": 19
     },
     {
       "id": "QvjqMP7TROVararClG1M",
@@ -1786,7 +1786,7 @@
       "stagePos": 10,
       "source": null,
       "created": "2026-04-01",
-      "days": 25
+      "days": 26
     },
     {
       "id": "Bn7FGcLdkPyQEZ23hRVl",
@@ -1816,7 +1816,7 @@
       "stagePos": 10,
       "source": "Web Chat - TexasTurf USA website",
       "created": "2026-03-30",
-      "days": 27
+      "days": 28
     },
     {
       "id": "YVjuSNdD89qIUk5aXEsi",
@@ -1876,7 +1876,7 @@
       "stagePos": 6,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-29",
-      "days": 28
+      "days": 29
     },
     {
       "id": "XzLgMjOmOOhD2zFH3RMt",
@@ -1936,7 +1936,7 @@
       "stagePos": 9,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-24",
-      "days": 33
+      "days": 34
     },
     {
       "id": "cfTkDpUUCFEAuWyHCE3B",
@@ -1951,7 +1951,7 @@
       "stagePos": 7,
       "source": null,
       "created": "2026-03-24",
-      "days": 33
+      "days": 34
     },
     {
       "id": "p8EAt3KTudgcwKJ0W6On",
@@ -2056,7 +2056,7 @@
       "stagePos": 0,
       "source": "Web Chat - TexasTurf USA website",
       "created": "2026-03-15",
-      "days": 42
+      "days": 43
     },
     {
       "id": "DOxQGTAdr5QOFJ38k6rw",
@@ -2131,7 +2131,7 @@
       "stagePos": 9,
       "source": null,
       "created": "2026-03-09",
-      "days": 48
+      "days": 49
     },
     {
       "id": "3MljZ1Wn2KMS50OFt4k9",
@@ -2431,7 +2431,7 @@
       "stagePos": 7,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-02-15",
-      "days": 70
+      "days": 71
     },
     {
       "id": "Y4zbn6CvPBaft271ld0l",
@@ -2464,7 +2464,7 @@
       "days": 75
     }
   ],
-  "window_weekly": "Apr 20 \u2013 Apr 27, 2026",
+  "window_weekly": "Apr 21 \u2013 Apr 28, 2026",
   "pipeline_opportunity": {
     "pipelines": [
       {
@@ -2570,7 +2570,7 @@
       {
         "name": "Ivana Fulks",
         "calls": 4,
-        "sms": 36,
+        "sms": 48,
         "emails": 0,
         "appointments": 0
       },
@@ -2638,7 +2638,7 @@
       "pipeline": "Commercial Sales",
       "stage": "Lead",
       "assigned": "Stefan Fulks",
-      "days_stale": 60
+      "days_stale": 61
     },
     {
       "name": "Mothana",
@@ -3011,7 +3011,7 @@
       {
         "name": "Ivana Fulks",
         "calls": 36,
-        "sms": 92,
+        "sms": 104,
         "emails": 0,
         "appointments": 0
       },
@@ -3272,8 +3272,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-04-20T22:00:09.621135+00:00",
-      "window_end": "2026-04-27T22:00:09.621135+00:00",
+      "window_start": "2026-04-21T00:00:09.186583+00:00",
+      "window_end": "2026-04-28T00:00:09.186583+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3379,7 +3379,7 @@
           {
             "name": "Ivana Fulks",
             "calls": 4,
-            "sms": 36,
+            "sms": 48,
             "emails": 0,
             "appointments": 0
           },
@@ -3605,8 +3605,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-03-28T22:00:09.621135+00:00",
-      "window_end": "2026-04-27T22:00:09.621135+00:00",
+      "window_start": "2026-03-29T00:00:09.186583+00:00",
+      "window_end": "2026-04-28T00:00:09.186583+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3712,7 +3712,7 @@
           {
             "name": "Ivana Fulks",
             "calls": 36,
-            "sms": 92,
+            "sms": 104,
             "emails": 0,
             "appointments": 0
           },
@@ -3979,7 +3979,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-04-27T22:00:09.621135+00:00",
+      "window_end": "2026-04-28T00:00:09.186583+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4085,7 +4085,7 @@
           {
             "name": "Ivana Fulks",
             "calls": 36,
-            "sms": 92,
+            "sms": 104,
             "emails": 0,
             "appointments": 0
           },
@@ -4347,7 +4347,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-04-27T22:00:09.621135+00:00",
+      "window_end": "2026-04-28T00:00:09.186583+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4453,7 +4453,7 @@
           {
             "name": "Ivana Fulks",
             "calls": 48,
-            "sms": 184,
+            "sms": 196,
             "emails": 0,
             "appointments": 1
           },
