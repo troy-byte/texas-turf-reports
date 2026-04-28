@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-28 10:02 UTC",
+  "generated_at": "2026-04-28 12:02 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -1861,7 +1861,7 @@
       "stagePos": 7,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-30",
-      "days": 28
+      "days": 29
     },
     {
       "id": "mwa2Fb2WqYvBI5YFoFCI",
@@ -2097,8 +2097,8 @@
       "assignedTo": "zl0MRdX7dfeqO8uHDA1k",
       "region": "Residential Sales",
       "pipelineId": "8beUyyP8wWSeZJiCjYqn",
-      "stage": "Quote Sent",
-      "stagePos": 5,
+      "stage": "Quote Approved - Won",
+      "stagePos": 8,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-11",
       "days": 47
@@ -2501,7 +2501,7 @@
           {
             "name": "Colin Corcoran",
             "new": 8,
-            "moved": 46,
+            "moved": 47,
             "lost": 15,
             "open": 33
           },
@@ -3272,8 +3272,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-04-21T10:00:23.710900+00:00",
-      "window_end": "2026-04-28T10:00:23.710900+00:00",
+      "window_start": "2026-04-21T12:00:11.153908+00:00",
+      "window_end": "2026-04-28T12:00:11.153908+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3310,7 +3310,7 @@
               {
                 "name": "Colin Corcoran",
                 "new": 8,
-                "moved": 46,
+                "moved": 47,
                 "lost": 15,
                 "open": 33
               },
@@ -3448,7 +3448,7 @@
           },
           {
             "source": "Inbound Email",
-            "leads": 6,
+            "leads": 5,
             "opportunities": 0
           },
           {
@@ -3547,7 +3547,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 71
+        "total_contacts": 70
       },
       "salesperson": {
         "rows": [
@@ -3605,8 +3605,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-03-29T10:00:23.710900+00:00",
-      "window_end": "2026-04-28T10:00:23.710900+00:00",
+      "window_start": "2026-03-29T12:00:11.153908+00:00",
+      "window_end": "2026-04-28T12:00:11.153908+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3643,7 +3643,7 @@
               {
                 "name": "Colin Corcoran",
                 "new": 23,
-                "moved": 46,
+                "moved": 47,
                 "lost": 15,
                 "open": 33
               },
@@ -3979,7 +3979,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-04-28T10:00:23.710900+00:00",
+      "window_end": "2026-04-28T12:00:11.153908+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4016,7 +4016,7 @@
               {
                 "name": "Colin Corcoran",
                 "new": 18,
-                "moved": 46,
+                "moved": 47,
                 "lost": 15,
                 "open": 33
               },
@@ -4347,7 +4347,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-04-28T10:00:23.710900+00:00",
+      "window_end": "2026-04-28T12:00:11.153908+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4384,7 +4384,7 @@
               {
                 "name": "Colin Corcoran",
                 "new": 52,
-                "moved": 46,
+                "moved": 47,
                 "lost": 15,
                 "open": 33
               },
