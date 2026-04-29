@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29 10:02 UTC",
+  "generated_at": "2026-04-29 12:02 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -1981,7 +1981,7 @@
       "stagePos": 7,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-30",
-      "days": 29
+      "days": 30
     },
     {
       "id": "mwa2Fb2WqYvBI5YFoFCI",
@@ -2979,15 +2979,15 @@
       {
         "source": "Webform - TexasTurf USA website",
         "leads": 0,
-        "opportunities": 15
-      },
-      {
-        "source": "Quote Inquiry Form Website",
-        "leads": 14,
-        "opportunities": 0
+        "opportunities": 14
       },
       {
         "source": "Inbound Email",
+        "leads": 13,
+        "opportunities": 0
+      },
+      {
+        "source": "Quote Inquiry Form Website",
         "leads": 13,
         "opportunities": 0
       },
@@ -3142,7 +3142,7 @@
         "opportunities": 1
       }
     ],
-    "total_contacts": 212
+    "total_contacts": 211
   },
   "monthly_sales_activity": {
     "rows": [
@@ -3456,8 +3456,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-04-22T10:00:13.713816+00:00",
-      "window_end": "2026-04-29T10:00:13.713816+00:00",
+      "window_start": "2026-04-22T12:00:09.033787+00:00",
+      "window_end": "2026-04-29T12:00:09.033787+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3809,8 +3809,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-03-30T10:00:13.713816+00:00",
-      "window_end": "2026-04-29T10:00:13.713816+00:00",
+      "window_start": "2026-03-30T12:00:09.033787+00:00",
+      "window_end": "2026-04-29T12:00:09.033787+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3846,7 +3846,7 @@
               },
               {
                 "name": "Colin Corcoran",
-                "new": 23,
+                "new": 22,
                 "moved": 43,
                 "lost": 15,
                 "open": 34
@@ -3986,15 +3986,15 @@
           {
             "source": "Webform - TexasTurf USA website",
             "leads": 0,
-            "opportunities": 15
-          },
-          {
-            "source": "Quote Inquiry Form Website",
-            "leads": 14,
-            "opportunities": 0
+            "opportunities": 14
           },
           {
             "source": "Inbound Email",
+            "leads": 13,
+            "opportunities": 0
+          },
+          {
+            "source": "Quote Inquiry Form Website",
             "leads": 13,
             "opportunities": 0
           },
@@ -4149,7 +4149,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 212
+        "total_contacts": 211
       },
       "salesperson": {
         "rows": [
@@ -4162,10 +4162,10 @@
           },
           {
             "name": "Colin Corcoran",
-            "created": 23,
+            "created": 22,
             "open": 34,
             "lost": 15,
-            "activities": 23
+            "activities": 22
           },
           {
             "name": "Ivana Fulks",
@@ -4208,7 +4208,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-04-29T10:00:13.713816+00:00",
+      "window_end": "2026-04-29T12:00:09.033787+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4601,7 +4601,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-04-29T10:00:13.713816+00:00",
+      "window_end": "2026-04-29T12:00:09.033787+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
