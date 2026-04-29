@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-29 00:02 UTC",
+  "generated_at": "2026-04-29 02:02 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -1441,7 +1441,7 @@
       "stagePos": 0,
       "source": "Web Chat - TexasTurf USA website",
       "created": "2026-04-20",
-      "days": 8
+      "days": 9
     },
     {
       "id": "xWqeSgCB7WE9Rb3Jqaeo",
@@ -1456,7 +1456,7 @@
       "stagePos": 0,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-04-20",
-      "days": 8
+      "days": 9
     },
     {
       "id": "m8dqquF8IdQtxkZBaMiR",
@@ -1741,7 +1741,7 @@
       "stagePos": 0,
       "source": "Web Chat - TexasTurf USA website",
       "created": "2026-04-09",
-      "days": 19
+      "days": 20
     },
     {
       "id": "0p9qZZhBkQGMlSJaKgEj",
@@ -2311,7 +2311,7 @@
       "stagePos": 8,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-05",
-      "days": 54
+      "days": 55
     },
     {
       "id": "BFTsVAksxhOQKeFp0vRk",
@@ -2594,7 +2594,7 @@
           {
             "name": "Allison  Pasch",
             "new": 4,
-            "moved": 3,
+            "moved": 1,
             "lost": 0,
             "open": 16
           },
@@ -2621,7 +2621,7 @@
           {
             "name": "Colin Corcoran",
             "new": 7,
-            "moved": 44,
+            "moved": 43,
             "lost": 15,
             "open": 34
           },
@@ -2933,14 +2933,14 @@
       "pipeline": "Residential Sales",
       "stage": "Quote Approved - Won",
       "assigned": "Colin Corcoran",
-      "days_stale": 10
+      "days_stale": 11
     },
     {
       "name": "Adam",
       "pipeline": "Residential Sales",
       "stage": "Lead",
       "assigned": "Maddie Baird",
-      "days_stale": 8
+      "days_stale": 9
     },
     {
       "name": "Graham - Artificial Turf Replacement project ",
@@ -2968,7 +2968,7 @@
     "rows": [
       {
         "source": "(none)",
-        "leads": 138,
+        "leads": 139,
         "opportunities": 39
       },
       {
@@ -2977,14 +2977,14 @@
         "opportunities": 6
       },
       {
-        "source": "Quote Inquiry Form Website",
-        "leads": 15,
-        "opportunities": 0
-      },
-      {
         "source": "Webform - TexasTurf USA website",
         "leads": 0,
         "opportunities": 15
+      },
+      {
+        "source": "Quote Inquiry Form Website",
+        "leads": 14,
+        "opportunities": 0
       },
       {
         "source": "Inbound Email",
@@ -3229,7 +3229,7 @@
     "rows": [
       {
         "source": "(none)",
-        "leads": 128,
+        "leads": 129,
         "opportunities": 36
       },
       {
@@ -3398,7 +3398,7 @@
         "opportunities": 1
       }
     ],
-    "total_contacts": 193
+    "total_contacts": 194
   },
   "quarterly_salesperson": {
     "rows": [
@@ -3456,8 +3456,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-04-22T00:00:10.925358+00:00",
-      "window_end": "2026-04-29T00:00:10.925358+00:00",
+      "window_start": "2026-04-22T02:00:09.098986+00:00",
+      "window_end": "2026-04-29T02:00:09.098986+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3467,7 +3467,7 @@
               {
                 "name": "Allison  Pasch",
                 "new": 4,
-                "moved": 3,
+                "moved": 1,
                 "lost": 0,
                 "open": 16
               },
@@ -3494,7 +3494,7 @@
               {
                 "name": "Colin Corcoran",
                 "new": 7,
-                "moved": 44,
+                "moved": 43,
                 "lost": 15,
                 "open": 34
               },
@@ -3622,7 +3622,7 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 69,
+            "leads": 70,
             "opportunities": 12
           },
           {
@@ -3751,7 +3751,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 85
+        "total_contacts": 86
       },
       "salesperson": {
         "rows": [
@@ -3809,8 +3809,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-03-30T00:00:10.925358+00:00",
-      "window_end": "2026-04-29T00:00:10.925358+00:00",
+      "window_start": "2026-03-30T02:00:09.098986+00:00",
+      "window_end": "2026-04-29T02:00:09.098986+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3820,7 +3820,7 @@
               {
                 "name": "Allison  Pasch",
                 "new": 16,
-                "moved": 3,
+                "moved": 1,
                 "lost": 0,
                 "open": 16
               },
@@ -3847,7 +3847,7 @@
               {
                 "name": "Colin Corcoran",
                 "new": 23,
-                "moved": 44,
+                "moved": 43,
                 "lost": 15,
                 "open": 34
               },
@@ -3975,7 +3975,7 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 138,
+            "leads": 139,
             "opportunities": 39
           },
           {
@@ -3984,14 +3984,14 @@
             "opportunities": 6
           },
           {
-            "source": "Quote Inquiry Form Website",
-            "leads": 15,
-            "opportunities": 0
-          },
-          {
             "source": "Webform - TexasTurf USA website",
             "leads": 0,
             "opportunities": 15
+          },
+          {
+            "source": "Quote Inquiry Form Website",
+            "leads": 14,
+            "opportunities": 0
           },
           {
             "source": "Inbound Email",
@@ -4208,7 +4208,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-04-29T00:00:10.925358+00:00",
+      "window_end": "2026-04-29T02:00:09.098986+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4218,7 +4218,7 @@
               {
                 "name": "Allison  Pasch",
                 "new": 15,
-                "moved": 3,
+                "moved": 1,
                 "lost": 0,
                 "open": 16
               },
@@ -4245,7 +4245,7 @@
               {
                 "name": "Colin Corcoran",
                 "new": 19,
-                "moved": 44,
+                "moved": 43,
                 "lost": 15,
                 "open": 34
               },
@@ -4373,7 +4373,7 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 128,
+            "leads": 129,
             "opportunities": 36
           },
           {
@@ -4542,7 +4542,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 193
+        "total_contacts": 194
       },
       "salesperson": {
         "rows": [
@@ -4601,7 +4601,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-04-29T00:00:10.925358+00:00",
+      "window_end": "2026-04-29T02:00:09.098986+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4611,7 +4611,7 @@
               {
                 "name": "Allison  Pasch",
                 "new": 16,
-                "moved": 3,
+                "moved": 1,
                 "lost": 0,
                 "open": 16
               },
@@ -4638,7 +4638,7 @@
               {
                 "name": "Colin Corcoran",
                 "new": 53,
-                "moved": 44,
+                "moved": 43,
                 "lost": 15,
                 "open": 34
               },
@@ -4766,7 +4766,7 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 333,
+            "leads": 334,
             "opportunities": 48
           },
           {
@@ -4960,7 +4960,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 542
+        "total_contacts": 543
       },
       "salesperson": {
         "rows": [
