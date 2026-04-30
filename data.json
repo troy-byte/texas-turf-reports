@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30 06:02 UTC",
+  "generated_at": "2026-04-30 08:02 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -3625,8 +3625,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-04-23T06:00:22.780160+00:00",
-      "window_end": "2026-04-30T06:00:22.780160+00:00",
+      "window_start": "2026-04-23T08:00:11.212251+00:00",
+      "window_end": "2026-04-30T08:00:11.212251+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3990,8 +3990,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-03-31T06:00:22.780160+00:00",
-      "window_end": "2026-04-30T06:00:22.780160+00:00",
+      "window_start": "2026-03-31T08:00:11.212251+00:00",
+      "window_end": "2026-04-30T08:00:11.212251+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4401,7 +4401,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-04-30T06:00:22.780160+00:00",
+      "window_end": "2026-04-30T08:00:11.212251+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4806,7 +4806,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-04-30T06:00:22.780160+00:00",
+      "window_end": "2026-04-30T08:00:11.212251+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
