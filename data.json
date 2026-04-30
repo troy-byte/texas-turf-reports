@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-30 10:03 UTC",
+  "generated_at": "2026-04-30 14:03 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -1621,7 +1621,7 @@
       "stagePos": 7,
       "source": null,
       "created": "2026-04-15",
-      "days": 14
+      "days": 15
     },
     {
       "id": "Wb3SGqxNlEpZxOflfcCE",
@@ -2056,7 +2056,7 @@
       "stagePos": 7,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-30",
-      "days": 30
+      "days": 31
     },
     {
       "id": "mwa2Fb2WqYvBI5YFoFCI",
@@ -2341,7 +2341,7 @@
       "stagePos": 10,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-09",
-      "days": 51
+      "days": 52
     },
     {
       "id": "T9Yrbop6Hr5td1eYKRPZ",
@@ -3127,7 +3127,7 @@
     "rows": [
       {
         "source": "(none)",
-        "leads": 145,
+        "leads": 146,
         "opportunities": 36
       },
       {
@@ -3141,13 +3141,13 @@
         "opportunities": 15
       },
       {
-        "source": "Quote Inquiry Form Website",
+        "source": "Inbound Email",
         "leads": 14,
         "opportunities": 0
       },
       {
-        "source": "Inbound Email",
-        "leads": 13,
+        "source": "Quote Inquiry Form Website",
+        "leads": 14,
         "opportunities": 0
       },
       {
@@ -3306,7 +3306,7 @@
         "opportunities": 1
       }
     ],
-    "total_contacts": 216
+    "total_contacts": 218
   },
   "monthly_sales_activity": {
     "rows": [
@@ -3327,7 +3327,7 @@
       {
         "name": "Colin Corcoran",
         "calls": 0,
-        "sms": 528,
+        "sms": 456,
         "emails": 24,
         "appointments": 24
       },
@@ -3393,7 +3393,7 @@
     "rows": [
       {
         "source": "(none)",
-        "leads": 141,
+        "leads": 142,
         "opportunities": 36
       },
       {
@@ -3407,13 +3407,13 @@
         "opportunities": 15
       },
       {
-        "source": "Quote Inquiry Form Website",
+        "source": "Inbound Email",
         "leads": 14,
         "opportunities": 0
       },
       {
-        "source": "Inbound Email",
-        "leads": 13,
+        "source": "Quote Inquiry Form Website",
+        "leads": 14,
         "opportunities": 0
       },
       {
@@ -3567,7 +3567,7 @@
         "opportunities": 1
       }
     ],
-    "total_contacts": 209
+    "total_contacts": 211
   },
   "quarterly_salesperson": {
     "rows": [
@@ -3625,8 +3625,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-04-23T10:00:12.197779+00:00",
-      "window_end": "2026-04-30T10:00:12.197779+00:00",
+      "window_start": "2026-04-23T14:00:07.970874+00:00",
+      "window_end": "2026-04-30T14:00:07.970874+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3798,13 +3798,18 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 75,
+            "leads": 76,
             "opportunities": 11
           },
           {
             "source": "SMS",
             "leads": 9,
             "opportunities": 3
+          },
+          {
+            "source": "Inbound Email",
+            "leads": 3,
+            "opportunities": 0
           },
           {
             "source": "Quote Inquiry Form Website",
@@ -3815,11 +3820,6 @@
             "source": "Call",
             "leads": 1,
             "opportunities": 1
-          },
-          {
-            "source": "Inbound Email",
-            "leads": 2,
-            "opportunities": 0
           },
           {
             "source": "Past Jobber Leads",
@@ -3932,7 +3932,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 90
+        "total_contacts": 92
       },
       "salesperson": {
         "rows": [
@@ -3990,8 +3990,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-03-31T10:00:12.197779+00:00",
-      "window_end": "2026-04-30T10:00:12.197779+00:00",
+      "window_start": "2026-03-31T14:00:07.970874+00:00",
+      "window_end": "2026-04-30T14:00:07.970874+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4097,7 +4097,7 @@
           {
             "name": "Colin Corcoran",
             "calls": 0,
-            "sms": 528,
+            "sms": 456,
             "emails": 24,
             "appointments": 24
           },
@@ -4163,7 +4163,7 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 145,
+            "leads": 146,
             "opportunities": 36
           },
           {
@@ -4177,13 +4177,13 @@
             "opportunities": 15
           },
           {
-            "source": "Quote Inquiry Form Website",
+            "source": "Inbound Email",
             "leads": 14,
             "opportunities": 0
           },
           {
-            "source": "Inbound Email",
-            "leads": 13,
+            "source": "Quote Inquiry Form Website",
+            "leads": 14,
             "opportunities": 0
           },
           {
@@ -4342,7 +4342,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 216
+        "total_contacts": 218
       },
       "salesperson": {
         "rows": [
@@ -4401,7 +4401,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-04-30T10:00:12.197779+00:00",
+      "window_end": "2026-04-30T14:00:07.970874+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4507,7 +4507,7 @@
           {
             "name": "Colin Corcoran",
             "calls": 0,
-            "sms": 516,
+            "sms": 444,
             "emails": 20,
             "appointments": 23
           },
@@ -4573,7 +4573,7 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 141,
+            "leads": 142,
             "opportunities": 36
           },
           {
@@ -4587,13 +4587,13 @@
             "opportunities": 15
           },
           {
-            "source": "Quote Inquiry Form Website",
+            "source": "Inbound Email",
             "leads": 14,
             "opportunities": 0
           },
           {
-            "source": "Inbound Email",
-            "leads": 13,
+            "source": "Quote Inquiry Form Website",
+            "leads": 14,
             "opportunities": 0
           },
           {
@@ -4747,7 +4747,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 209
+        "total_contacts": 211
       },
       "salesperson": {
         "rows": [
@@ -4806,7 +4806,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-04-30T10:00:12.197779+00:00",
+      "window_end": "2026-04-30T14:00:07.970874+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4912,8 +4912,8 @@
           {
             "name": "Colin Corcoran",
             "calls": 0,
-            "sms": 808,
-            "emails": 48,
+            "sms": 764,
+            "emails": 52,
             "appointments": 74
           },
           {
@@ -4978,7 +4978,7 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 346,
+            "leads": 347,
             "opportunities": 48
           },
           {
@@ -4998,7 +4998,7 @@
           },
           {
             "source": "Inbound Email",
-            "leads": 29,
+            "leads": 30,
             "opportunities": 0
           },
           {
@@ -5177,7 +5177,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 558
+        "total_contacts": 560
       },
       "salesperson": {
         "rows": [
