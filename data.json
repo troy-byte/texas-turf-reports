@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01 12:02 UTC",
+  "generated_at": "2026-05-01 14:03 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -1711,7 +1711,7 @@
       "stagePos": 7,
       "source": null,
       "created": "2026-04-15",
-      "days": 15
+      "days": 16
     },
     {
       "id": "Wb3SGqxNlEpZxOflfcCE",
@@ -2431,7 +2431,7 @@
       "stagePos": 10,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-09",
-      "days": 52
+      "days": 53
     },
     {
       "id": "T9Yrbop6Hr5td1eYKRPZ",
@@ -2862,7 +2862,7 @@
       {
         "name": "Ivana Fulks",
         "calls": 4,
-        "sms": 72,
+        "sms": 84,
         "emails": 0,
         "appointments": 0
       },
@@ -3457,7 +3457,7 @@
       {
         "name": "Ivana Fulks",
         "calls": 20,
-        "sms": 120,
+        "sms": 132,
         "emails": 0,
         "appointments": 0
       },
@@ -3758,8 +3758,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-04-24T12:00:12.869497+00:00",
-      "window_end": "2026-05-01T12:00:12.869497+00:00",
+      "window_start": "2026-04-24T14:00:12.915563+00:00",
+      "window_end": "2026-05-01T14:00:12.915563+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -3872,7 +3872,7 @@
           {
             "name": "Ivana Fulks",
             "calls": 4,
-            "sms": 72,
+            "sms": 84,
             "emails": 0,
             "appointments": 0
           },
@@ -3931,12 +3931,12 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 85,
+            "leads": 84,
             "opportunities": 9
           },
           {
             "source": "SMS",
-            "leads": 11,
+            "leads": 10,
             "opportunities": 3
           },
           {
@@ -4050,7 +4050,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 104
+        "total_contacts": 102
       },
       "salesperson": {
         "rows": [
@@ -4108,8 +4108,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-04-01T12:00:12.869497+00:00",
-      "window_end": "2026-05-01T12:00:12.869497+00:00",
+      "window_start": "2026-04-01T14:00:12.915563+00:00",
+      "window_end": "2026-05-01T14:00:12.915563+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4222,7 +4222,7 @@
           {
             "name": "Ivana Fulks",
             "calls": 20,
-            "sms": 120,
+            "sms": 132,
             "emails": 0,
             "appointments": 0
           },
@@ -4524,7 +4524,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-05-01T12:00:12.869497+00:00",
+      "window_end": "2026-05-01T14:00:12.915563+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4637,7 +4637,7 @@
           {
             "name": "Ivana Fulks",
             "calls": 20,
-            "sms": 120,
+            "sms": 132,
             "emails": 0,
             "appointments": 0
           },
@@ -4939,7 +4939,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-05-01T12:00:12.869497+00:00",
+      "window_end": "2026-05-01T14:00:12.915563+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -5052,7 +5052,7 @@
           {
             "name": "Ivana Fulks",
             "calls": 40,
-            "sms": 268,
+            "sms": 280,
             "emails": 0,
             "appointments": 1
           },
