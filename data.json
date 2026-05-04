@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-03 22:02 UTC",
+  "generated_at": "2026-05-04 00:02 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -1366,7 +1366,7 @@
       "stagePos": 5,
       "source": null,
       "created": "2026-04-30",
-      "days": 2
+      "days": 3
     },
     {
       "id": "f95FADpiWVqdNYsWpPyw",
@@ -1846,7 +1846,7 @@
       "stagePos": 8,
       "source": null,
       "created": "2026-04-13",
-      "days": 19
+      "days": 20
     },
     {
       "id": "Ajlsl050QFvoIAvtK8Am",
@@ -1861,7 +1861,7 @@
       "stagePos": 0,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-04-13",
-      "days": 19
+      "days": 20
     },
     {
       "id": "lr0UcwTMZJbTZ1TjPATi",
@@ -1921,7 +1921,7 @@
       "stagePos": 0,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-04-12",
-      "days": 20
+      "days": 21
     },
     {
       "id": "Lu8YAiGAPC2dwuFDT28q",
@@ -1996,7 +1996,7 @@
       "stagePos": 0,
       "source": "Web Chat - TexasTurf USA website",
       "created": "2026-04-08",
-      "days": 24
+      "days": 25
     },
     {
       "id": "QvjqMP7TROVararClG1M",
@@ -2146,7 +2146,7 @@
       "stagePos": 10,
       "source": null,
       "created": "2026-04-01",
-      "days": 31
+      "days": 32
     },
     {
       "id": "Bn7FGcLdkPyQEZ23hRVl",
@@ -2176,7 +2176,7 @@
       "stagePos": 10,
       "source": "Web Chat - TexasTurf USA website",
       "created": "2026-03-30",
-      "days": 33
+      "days": 34
     },
     {
       "id": "YVjuSNdD89qIUk5aXEsi",
@@ -2236,7 +2236,7 @@
       "stagePos": 6,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-29",
-      "days": 34
+      "days": 35
     },
     {
       "id": "XzLgMjOmOOhD2zFH3RMt",
@@ -2296,7 +2296,7 @@
       "stagePos": 9,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-24",
-      "days": 39
+      "days": 40
     },
     {
       "id": "cfTkDpUUCFEAuWyHCE3B",
@@ -2311,7 +2311,7 @@
       "stagePos": 5,
       "source": null,
       "created": "2026-03-24",
-      "days": 39
+      "days": 40
     },
     {
       "id": "p8EAt3KTudgcwKJ0W6On",
@@ -2416,7 +2416,7 @@
       "stagePos": 0,
       "source": "Web Chat - TexasTurf USA website",
       "created": "2026-03-15",
-      "days": 48
+      "days": 49
     },
     {
       "id": "DOxQGTAdr5QOFJ38k6rw",
@@ -2491,7 +2491,7 @@
       "stagePos": 9,
       "source": null,
       "created": "2026-03-09",
-      "days": 54
+      "days": 55
     },
     {
       "id": "3MljZ1Wn2KMS50OFt4k9",
@@ -2779,7 +2779,7 @@
       "days": 76
     }
   ],
-  "window_weekly": "Apr 26 \u2013 May 03, 2026",
+  "window_weekly": "Apr 27 \u2013 May 04, 2026",
   "pipeline_opportunity": {
     "pipelines": [
       {
@@ -2960,7 +2960,7 @@
       "pipeline": "Commercial Sales",
       "stage": "Lead",
       "assigned": "Stefan Fulks",
-      "days_stale": 66
+      "days_stale": 67
     },
     {
       "name": "Mothana",
@@ -3463,7 +3463,7 @@
       {
         "name": "Ivana Fulks",
         "calls": 20,
-        "sms": 136,
+        "sms": 132,
         "emails": 0,
         "appointments": 0
       },
@@ -3769,8 +3769,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-04-26T22:00:09.774120+00:00",
-      "window_end": "2026-05-03T22:00:09.774120+00:00",
+      "window_start": "2026-04-27T00:00:25.431968+00:00",
+      "window_end": "2026-05-04T00:00:25.431968+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4094,8 +4094,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-04-03T22:00:09.774120+00:00",
-      "window_end": "2026-05-03T22:00:09.774120+00:00",
+      "window_start": "2026-04-04T00:00:25.431968+00:00",
+      "window_end": "2026-05-04T00:00:25.431968+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4208,7 +4208,7 @@
           {
             "name": "Ivana Fulks",
             "calls": 20,
-            "sms": 136,
+            "sms": 132,
             "emails": 0,
             "appointments": 0
           },
@@ -4500,7 +4500,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-05-03T22:00:09.774120+00:00",
+      "window_end": "2026-05-04T00:00:25.431968+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4920,7 +4920,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-05-03T22:00:09.774120+00:00",
+      "window_end": "2026-05-04T00:00:25.431968+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
