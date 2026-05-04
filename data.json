@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-04 00:02 UTC",
+  "generated_at": "2026-05-04 04:02 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -1636,7 +1636,7 @@
       "stagePos": 2,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-04-22",
-      "days": 11
+      "days": 12
     },
     {
       "id": "Uty9Fo0Ixt7Gcwz2P2QT",
@@ -1696,7 +1696,7 @@
       "stagePos": 0,
       "source": "Web Chat - TexasTurf USA website",
       "created": "2026-04-20",
-      "days": 13
+      "days": 14
     },
     {
       "id": "xWqeSgCB7WE9Rb3Jqaeo",
@@ -1711,7 +1711,7 @@
       "stagePos": 0,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-04-20",
-      "days": 13
+      "days": 14
     },
     {
       "id": "m8dqquF8IdQtxkZBaMiR",
@@ -1756,7 +1756,7 @@
       "stagePos": 5,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-04-17",
-      "days": 16
+      "days": 17
     },
     {
       "id": "8LU96GMOv2BgpBV1lIBj",
@@ -1981,7 +1981,7 @@
       "stagePos": 0,
       "source": "Web Chat - TexasTurf USA website",
       "created": "2026-04-09",
-      "days": 24
+      "days": 25
     },
     {
       "id": "0p9qZZhBkQGMlSJaKgEj",
@@ -2446,7 +2446,7 @@
       "stagePos": 1,
       "source": "Web Chat - TexasTurf USA website",
       "created": "2026-03-12",
-      "days": 52
+      "days": 53
     },
     {
       "id": "dfx48ESqbLmZVWXCV5gQ",
@@ -2551,7 +2551,7 @@
       "stagePos": 8,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-05",
-      "days": 59
+      "days": 60
     },
     {
       "id": "BFTsVAksxhOQKeFp0vRk",
@@ -2731,7 +2731,7 @@
       "stagePos": 8,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-02-20",
-      "days": 72
+      "days": 73
     },
     {
       "id": "3lT8QqT2fsRvlUL9QvSc",
@@ -3121,7 +3121,7 @@
       "pipeline": "Residential Sales",
       "stage": "Quote Approved - Won",
       "assigned": "Colin Corcoran",
-      "days_stale": 15
+      "days_stale": 16
     },
     {
       "name": "Graham - Artificial Turf Replacement project ",
@@ -3769,8 +3769,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-04-27T00:00:25.431968+00:00",
-      "window_end": "2026-05-04T00:00:25.431968+00:00",
+      "window_start": "2026-04-27T04:00:08.799528+00:00",
+      "window_end": "2026-05-04T04:00:08.799528+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4094,8 +4094,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-04-04T00:00:25.431968+00:00",
-      "window_end": "2026-05-04T00:00:25.431968+00:00",
+      "window_start": "2026-04-04T04:00:08.799528+00:00",
+      "window_end": "2026-05-04T04:00:08.799528+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4500,7 +4500,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-05-04T00:00:25.431968+00:00",
+      "window_end": "2026-05-04T04:00:08.799528+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4920,7 +4920,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-05-04T00:00:25.431968+00:00",
+      "window_end": "2026-05-04T04:00:08.799528+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
