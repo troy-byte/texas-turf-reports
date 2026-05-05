@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-05 10:02 UTC",
+  "generated_at": "2026-05-05 12:02 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -2266,7 +2266,7 @@
       "stagePos": 7,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-30",
-      "days": 35
+      "days": 36
     },
     {
       "id": "mwa2Fb2WqYvBI5YFoFCI",
@@ -2944,7 +2944,7 @@
       {
         "name": "Maddie Baird",
         "calls": 68,
-        "sms": 120,
+        "sms": 124,
         "emails": 4,
         "appointments": 0
       },
@@ -3646,7 +3646,7 @@
       {
         "name": "Maddie Baird",
         "calls": 96,
-        "sms": 196,
+        "sms": 200,
         "emails": 12,
         "appointments": 0
       },
@@ -3950,8 +3950,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-04-28T10:00:10.530333+00:00",
-      "window_end": "2026-05-05T10:00:10.530333+00:00",
+      "window_start": "2026-04-28T12:00:06.287558+00:00",
+      "window_end": "2026-05-05T12:00:06.287558+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4071,7 +4071,7 @@
           {
             "name": "Maddie Baird",
             "calls": 68,
-            "sms": 120,
+            "sms": 124,
             "emails": 4,
             "appointments": 0
           },
@@ -4260,8 +4260,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-04-05T10:00:10.530333+00:00",
-      "window_end": "2026-05-05T10:00:10.530333+00:00",
+      "window_start": "2026-04-05T12:00:06.287558+00:00",
+      "window_end": "2026-05-05T12:00:06.287558+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4381,7 +4381,7 @@
           {
             "name": "Maddie Baird",
             "calls": 96,
-            "sms": 196,
+            "sms": 200,
             "emails": 12,
             "appointments": 0
           },
@@ -4671,7 +4671,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-05-05T10:00:10.530333+00:00",
+      "window_end": "2026-05-05T12:00:06.287558+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4791,7 +4791,7 @@
           {
             "name": "Maddie Baird",
             "calls": 96,
-            "sms": 200,
+            "sms": 204,
             "emails": 12,
             "appointments": 0
           },
@@ -5096,7 +5096,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-05-05T10:00:10.530333+00:00",
+      "window_end": "2026-05-05T12:00:06.287558+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -5216,7 +5216,7 @@
           {
             "name": "Maddie Baird",
             "calls": 160,
-            "sms": 396,
+            "sms": 400,
             "emails": 36,
             "appointments": 1
           },
