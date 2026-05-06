@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-06 10:00 UTC",
+  "generated_at": "2026-05-06 12:00 UTC",
   "company": "Texas Turf Company",
   "location_id": "OB9iUeaKGJSNz9ea3So1",
   "users": {
@@ -2326,7 +2326,7 @@
       "stagePos": 6,
       "source": "Webform - TexasTurf USA website",
       "created": "2026-03-30",
-      "days": 36
+      "days": 37
     },
     {
       "id": "mwa2Fb2WqYvBI5YFoFCI",
@@ -2930,9 +2930,9 @@
     "rows": [
       {
         "name": "Allison  Pasch",
-        "calls": 59,
-        "sms": 34,
-        "emails": 20,
+        "calls": 58,
+        "sms": 32,
+        "emails": 18,
         "appointments": 0
       },
       {
@@ -2945,7 +2945,7 @@
       {
         "name": "Colin Corcoran",
         "calls": 0,
-        "sms": 53,
+        "sms": 52,
         "emails": 2,
         "appointments": 0
       },
@@ -3657,9 +3657,9 @@
     "rows": [
       {
         "name": "Allison  Pasch",
-        "calls": 59,
-        "sms": 34,
-        "emails": 22,
+        "calls": 58,
+        "sms": 32,
+        "emails": 20,
         "appointments": 0
       },
       {
@@ -3672,7 +3672,7 @@
       {
         "name": "Colin Corcoran",
         "calls": 0,
-        "sms": 147,
+        "sms": 144,
         "emails": 8,
         "appointments": 0
       },
@@ -3975,8 +3975,8 @@
   "windows": {
     "7d": {
       "label": "Last 7 days",
-      "window_start": "2026-04-29T10:00:18.584477+00:00",
-      "window_end": "2026-05-06T10:00:18.584477+00:00",
+      "window_start": "2026-04-29T12:00:14.631719+00:00",
+      "window_end": "2026-05-06T12:00:14.631719+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4067,9 +4067,9 @@
         "rows": [
           {
             "name": "Allison  Pasch",
-            "calls": 59,
-            "sms": 34,
-            "emails": 20,
+            "calls": 58,
+            "sms": 32,
+            "emails": 18,
             "appointments": 0
           },
           {
@@ -4082,7 +4082,7 @@
           {
             "name": "Colin Corcoran",
             "calls": 0,
-            "sms": 53,
+            "sms": 52,
             "emails": 2,
             "appointments": 0
           },
@@ -4260,8 +4260,8 @@
     },
     "30d": {
       "label": "Last 30 days",
-      "window_start": "2026-04-06T10:00:18.584477+00:00",
-      "window_end": "2026-05-06T10:00:18.584477+00:00",
+      "window_start": "2026-04-06T12:00:14.631719+00:00",
+      "window_end": "2026-05-06T12:00:14.631719+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4352,9 +4352,9 @@
         "rows": [
           {
             "name": "Allison  Pasch",
-            "calls": 59,
-            "sms": 34,
-            "emails": 22,
+            "calls": 58,
+            "sms": 32,
+            "emails": 20,
             "appointments": 0
           },
           {
@@ -4367,7 +4367,7 @@
           {
             "name": "Colin Corcoran",
             "calls": 0,
-            "sms": 147,
+            "sms": 144,
             "emails": 8,
             "appointments": 0
           },
@@ -4661,7 +4661,7 @@
     "quarter": {
       "label": "This quarter",
       "window_start": "2026-04-01T00:00:00+00:00",
-      "window_end": "2026-05-06T10:00:18.584477+00:00",
+      "window_end": "2026-05-06T12:00:14.631719+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -4752,9 +4752,9 @@
         "rows": [
           {
             "name": "Allison  Pasch",
-            "calls": 59,
-            "sms": 34,
-            "emails": 22,
+            "calls": 58,
+            "sms": 32,
+            "emails": 20,
             "appointments": 0
           },
           {
@@ -4767,7 +4767,7 @@
           {
             "name": "Colin Corcoran",
             "calls": 0,
-            "sms": 188,
+            "sms": 185,
             "emails": 14,
             "appointments": 0
           },
@@ -5071,7 +5071,7 @@
     "ytd": {
       "label": "Year to date",
       "window_start": "2026-01-01T00:00:00+00:00",
-      "window_end": "2026-05-06T10:00:18.584477+00:00",
+      "window_end": "2026-05-06T12:00:14.631719+00:00",
       "pipeline_opportunity": {
         "pipelines": [
           {
@@ -5162,9 +5162,9 @@
         "rows": [
           {
             "name": "Allison  Pasch",
-            "calls": 59,
-            "sms": 34,
-            "emails": 22,
+            "calls": 58,
+            "sms": 32,
+            "emails": 20,
             "appointments": 0
           },
           {
@@ -5177,8 +5177,8 @@
           {
             "name": "Colin Corcoran",
             "calls": 0,
-            "sms": 283,
-            "emails": 19,
+            "sms": 273,
+            "emails": 18,
             "appointments": 0
           },
           {
@@ -5243,8 +5243,18 @@
         "rows": [
           {
             "source": "(none)",
-            "leads": 0,
+            "leads": 392,
             "opportunities": 57
+          },
+          {
+            "source": "SMS",
+            "leads": 96,
+            "opportunities": 14
+          },
+          {
+            "source": "Quote Inquiry Form Website",
+            "leads": 46,
+            "opportunities": 0
           },
           {
             "source": "Webform - TexasTurf USA website",
@@ -5252,9 +5262,19 @@
             "opportunities": 32
           },
           {
-            "source": "SMS",
-            "leads": 0,
-            "opportunities": 14
+            "source": "Inbound Email",
+            "leads": 31,
+            "opportunities": 0
+          },
+          {
+            "source": "Call",
+            "leads": 17,
+            "opportunities": 3
+          },
+          {
+            "source": "chat widget",
+            "leads": 17,
+            "opportunities": 0
           },
           {
             "source": "Web Chat - TexasTurf USA website",
@@ -5267,6 +5287,11 @@
             "opportunities": 5
           },
           {
+            "source": "Review - Ratings",
+            "leads": 4,
+            "opportunities": 0
+          },
+          {
             "source": "Past Jobber Leads",
             "leads": 0,
             "opportunities": 3
@@ -5277,9 +5302,19 @@
             "opportunities": 3
           },
           {
-            "source": "Call",
-            "leads": 0,
-            "opportunities": 3
+            "source": "Automation Score Quiz",
+            "leads": 2,
+            "opportunities": 0
+          },
+          {
+            "source": "api v1",
+            "leads": 2,
+            "opportunities": 0
+          },
+          {
+            "source": "Facebook Messenger",
+            "leads": 2,
+            "opportunities": 0
           },
           {
             "source": "Google",
@@ -5290,6 +5325,16 @@
             "source": "Cold Call",
             "leads": 0,
             "opportunities": 2
+          },
+          {
+            "source": "Maintenance Form",
+            "leads": 1,
+            "opportunities": 0
+          },
+          {
+            "source": "Below 3 stars review",
+            "leads": 1,
+            "opportunities": 0
           },
           {
             "source": "Stefan",
@@ -5422,7 +5467,7 @@
             "opportunities": 1
           }
         ],
-        "total_contacts": 0
+        "total_contacts": 611
       },
       "salesperson": {
         "rows": [
